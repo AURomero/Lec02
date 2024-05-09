@@ -1,0 +1,1843 @@
+Name,State,ID,Type,Region,Locale,AdmitRate,MidACT,AvgSAT,Enrollment,TuitionIn,TuitionOut,FacSalary,FullTimeFac,Pell,FirstGen
+Amridge University,AL,100690,Private,Southeast,City,,,,322,6900,6900,3866,100,74.2,51.3
+Birmingham Southern College,AL,100937,Private,Southeast,City,0.6186,26,1231,1283,35804,35804,7774,66.2,19.2,17.2
+Faulkner University,AL,101189,Private,Southeast,City,0.5101,20,1031,2272,20970,20970,5702,47.9,50.9,43
+Huntingdon College,AL,101435,Private,Southeast,City,0.5598,22,1085,1099,26400,26400,6851,56.2,43.1,34.6
+Heritage Christian University,AL,101453,Private,Southeast,City,1,20,1030,59,11232,11232,4812,100,60,
+Judson College,AL,101541,Private,Southeast,Rural,0.507,22,1085,315,17896,17896,5932,47.8,56.4,41.4
+Miles College,AL,101675,Private,Southeast,Suburb,,,,1647,11794,11794,4444,70.8,84.8,41.6
+University of Mobile,AL,101693,Private,Southeast,Rural,0.4702,23,1113,1276,22210,22210,4938,100,46.7,32.4
+Oakwood University,AL,101912,Private,Southeast,City,0.4707,20,1005,1623,16720,16720,4902,77.5,52.7,17.6
+Samford University,AL,102049,Private,Southeast,Suburb,0.8319,26,1230,3364,30490,30490,8580,99.2,11.4,13.8
+Spring Hill College,AL,102234,Private,Southeast,City,0.4568,24,1156,1375,37584,37584,6643,66.2,30,25.2
+Stillman College,AL,102270,Private,Southeast,City,0.4812,,,633,10792,10792,4641,63.5,76.4,41.1
+Talladega College,AL,102298,Private,Southeast,Town,,,,782,12340,12340,5471,61.8,92.6,39.8
+Tuskegee University,AL,102377,Private,Southeast,Town,0.5032,21,1036,2833,22170,22170,4753,100,5.7,23.1
+United States Sports Academy,AL,102395,Private,Southeast,City,,,,88,,,5732,24,33.3,
+Alaska Bible College,AK,102580,Private,West,Town,,,,31,9350,9350,3403,,30,
+Alaska Pacific University,AK,102669,Private,West,City,0.86,,,247,20760,20760,5833,42.5,30.5,
+Embry-Riddle Aeronautical University-Prescott,AZ,104586,Private,West,Rural,0.7652,26,1245,2598,34662,34662,9069,71,24.1,35.5
+Ottawa University-Phoenix,AZ,105367,Private,West,City,,,,329,,,6714,88.9,53.3,40.1
+Prescott College,AZ,105589,Private,West,City,0.9526,23,1132,350,30501,30501,4936,72.6,46.4,23.2
+Arizona Christian University,AZ,105899,Private,West,City,0.6444,18,956,696,24958,24958,5187,21.6,34.4,38.3
+Lyon College,AR,106342,Private,Southeast,Town,0.6418,25,1202,664,27340,27340,6580,100,35.8,30
+Central Baptist College,AR,106713,Private,Southeast,City,0.6755,20,1027,676,15750,15750,5356,30.8,44.9,34.6
+Crowley's Ridge College,AR,106810,Private,Southeast,Rural,,,,192,12250,12250,4373,48.7,44.4,39.6
+Harding University,AR,107044,Private,Southeast,Town,0.7212,25,1203,4147,19385,19385,7513,78.7,26.4,20.5
+Hendrix College,AR,107080,Private,Southeast,City,0.798,28,1295,1233,44070,44070,7602,100,23.3,19.2
+John Brown University,AR,107141,Private,Southeast,Town,0.7579,27,1256,1606,26144,26144,6750,97,27.5,28.9
+Ouachita Baptist University,AR,107512,Private,Southeast,Town,0.7094,25,1186,1513,25870,25870,6397,100,27.3,23.5
+University of the Ozarks,AR,107558,Private,Southeast,Town,0.8915,21,1047,745,23750,23750,6522,75,42.4,34.7
+Philander Smith College,AR,107600,Private,Southeast,City,,,,887,12714,12714,5321,100,81.2,43
+Williams Baptist University,AR,107877,Private,Southeast,Rural,0.6241,20,1030,452,17320,17320,5487,100,46.3,32.4
+Art Center College of Design,CA,109651,Private,West,City,0.7036,,,1974,42008,42008,7584,23.8,32.6,24.3
+Azusa Pacific University,CA,109785,Private,West,Suburb,0.6012,24,1131,5560,37506,37506,8201,32.6,33.7,38
+Bethesda University,CA,110060,Private,West,City,,,,257,7898,7898,,,39.9,49.4
+Biola University,CA,110097,Private,West,Suburb,0.7198,25,1186,4039,38448,38448,9299,100,30.1,23.6
+California Institute of Integral Studies,CA,110316,Private,West,City,,,,50,,,8190,32.5,57.1,
+California Baptist University,CA,110361,Private,West,City,0.7708,22,1092,7397,32256,32256,9350,43.1,44.9,41.6
+California College of the Arts,CA,110370,Private,West,City,0.6369,,,1475,47266,47266,9572,20.5,29.3,24.4
+California Institute of Technology,CA,110404,Private,West,City,0.0774,35,1558,961,49908,49908,19600,91.7,12.4,
+California Lutheran University,CA,110413,Private,West,City,0.7275,24,1158,2959,41363,41363,10005,100,25.6,35.4
+California Christian College,CA,110918,Private,West,City,1,,,16,9330,9330,,,55.6,
+California Institute of the Arts,CA,111081,Private,West,Suburb,0.2406,,,979,47446,47446,7345,59.7,24.7,15.7
+Chapman University,CA,111948,Private,West,City,0.5724,28,1293,6740,50594,50594,11552,100,16.2,17.9
+Concordia University-Irvine,CA,112075,Private,West,City,0.5845,23,1121,1821,34100,34100,7028,100,27.4,28.4
+San Diego Christian College,CA,112084,Private,West,Suburb,0.6235,19,945,657,30438,30438,6082,23.5,53.2,40.8
+Claremont McKenna College,CA,112260,Private,West,Suburb,0.1036,32,1452,1334,52825,52825,14133,90,12.3,
+Columbia College Hollywood,CA,112570,Private,West,City,0.4953,,,453,24495,24495,6454,5.2,38.2,29.5
+Dominican University of California,CA,113698,Private,West,City,0.8843,23,1127,1284,44690,44690,8716,34.1,30,30.6
+Fresno Pacific University,CA,114813,Private,West,City,0.7239,20,1050,2791,30458,30458,7065,94.1,57.7,46.6
+Golden Gate University-San Francisco,CA,115083,Private,West,City,,,,416,16095,16095,9376,100,22.1,52.7
+Harvey Mudd College,CA,115409,Private,West,Suburb,0.1542,34,1527,844,54636,54636,13277,92,12.8,
+Holy Names University,CA,115728,Private,West,City,0.5256,20,857,589,38188,38188,7523,32.8,47.7,47.5
+Humphreys University-Stockton and Modesto Campuses,CA,115773,Private,West,City,,,,319,14004,14004,5422,14.5,65.8,59
+John F. Kennedy University,CA,116712,Private,West,Suburb,,,,96,,,5677,13.8,54.4,38.1
+American Jewish University,CA,116846,Private,West,City,0.8293,,,63,30938,30938,7563,23.1,40,
+Life Pacific College,CA,117104,Private,West,Suburb,0.9669,19,1002,489,14884,14884,6277,32.6,48.9,37.1
+University of La Verne,CA,117140,Private,West,Suburb,0.4754,22,1106,5120,41450,41450,9079,37.7,43.9,50.6
+Laguna College of Art and Design,CA,117168,Private,West,Rural,0.3346,,,636,29800,29800,8576,14.8,32.9,22
+Lincoln University,CA,117557,Private,West,City,,,,107,10830,10830,5157,66.7,25.9,
+Southern California Seminary,CA,117575,Private,West,Suburb,,,,51,15600,15600,3970,29.3,34.3,
+La Sierra University,CA,117627,Private,West,City,0.4821,19,994,1929,32130,32130,7818,33.1,48.3,39.6
+Loma Linda University,CA,117636,Private,West,Suburb,,,,1050,,,8083,91.6,34.5,38.4
+The Master's University and Seminary,CA,117751,Private,West,Suburb,0.658,22,1116,1171,33020,33020,6465,23.9,30.2,22.8
+Loyola Marymount University,CA,117946,Private,West,City,0.5248,29,1307,6257,46386,46386,11411,55.4,17.5,22.4
+Marymount California University,CA,118541,Private,West,Suburb,,,,929,35884,35884,7221,38.3,40.7,43.9
+Menlo College,CA,118693,Private,West,Suburb,0.4299,22,1086,726,41350,41350,11342,23.2,10.7,40.1
+Mills College,CA,118888,Private,West,City,0.871,,,757,46236,46236,10485,41.3,47.2,33.2
+Middlebury Institute of International Studies at Monterey,CA,119058,Private,West,Suburb,,,,13,,,9414,86.5,27.3,21.6
+Mount Saint Mary's University,CA,119173,Private,West,City,0.8121,19,1013,2575,39608,39608,8937,27,57.2,49.7
+National University,CA,119605,Private,West,City,,,,7360,13016,13016,10242,23.1,35.5,44
+Notre Dame de Namur University,CA,120184,Private,West,Suburb,0.9362,19,995,924,34196,34196,8735,23.7,42.3,45.8
+Occidental College,CA,120254,Private,West,City,0.4179,30,1370,1958,52838,52838,11132,71.5,19.9,17.6
+Otis College of Art and Design,CA,120403,Private,West,City,0.9125,,,1056,45620,45620,7874,16.3,38.4,24.2
+Hope International University,CA,120537,Private,West,Suburb,0.2837,22,1019,727,31800,31800,5358,15.8,43.2,38.6
+Palo Alto University,CA,120698,Private,West,Rural,,,,125,,,12072,40.2,51,47.1
+Pacific Oaks College,CA,120768,Private,West,City,,,,467,,,5246,6.8,60.3,57.8
+Pacific States University,CA,120838,Private,West,City,,,,8,16005,16005,3500,11.4,3.2,
+Pacific Union College,CA,120865,Private,West,Rural,0.5021,21,1055,1181,29469,29469,6099,98.9,43,25.7
+University of the Pacific,CA,120883,Private,West,City,0.6487,26,1220,3542,46346,46346,10575,53.9,35.7,35
+Pepperdine University,CA,121150,Private,West,Suburb,0.3985,29,1319,3594,51992,51992,12138,61.1,17.1,17.6
+Pitzer College,CA,121257,Private,West,Suburb,0.162,,,1074,52236,52236,10964,93.3,15.6,23
+Point Loma Nazarene University,CA,121309,Private,West,City,0.7629,26,1211,3092,34600,34600,10209,100,28.4,29.3
+Pomona College,CA,121345,Private,West,Suburb,0.0836,32,1461,1567,51075,51075,13259,95.7,19.4,29.9
+University of Redlands,CA,121691,Private,West,City,0.7496,26,1182,3042,48072,48072,10094,97.1,27.8,35.2
+Samuel Merritt University,CA,122296,Private,West,City,,,,821,,,10408,41.9,16.7,32
+University of San Diego,CA,122436,Private,West,City,0.4979,28,1302,5677,47708,47708,12291,53.6,15.4,24.9
+San Francisco Art Institute,CA,122454,Private,West,City,0.7472,,,296,44778,44778,5940,100,31.1,
+San Francisco Conservatory of Music,CA,122506,Private,West,City,0.438,,,205,44810,44810,13160,100,29.3,
+University of San Francisco,CA,122612,Private,West,City,0.6563,25,1203,6796,46250,46250,13405,42.6,24.4,28
+William Jessup University,CA,122728,Private,West,Rural,0.6605,24,1129,1188,30550,30550,7011,24.6,41.5,32.7
+Santa Clara University,CA,122931,Private,West,City,0.5356,30,1378,5481,49858,49858,12527,62.3,10.6,16.5
+Scripps College,CA,123165,Private,West,Suburb,0.3337,31,1405,1059,52966,52966,11340,72.7,10.7,
+Shasta Bible College and Graduate School,CA,123280,Private,West,City,1,,,42,12060,12060,3575,,58.7,
+Simpson University,CA,123457,Private,West,City,0.5561,21,1077,708,27700,27700,6364,100,44.8,37.6
+Saint Mary's College of California,CA,123554,Private,West,Suburb,0.8162,25,1170,2762,45686,45686,10170,31.6,25.2,25.5
+South Baylo University,CA,123633,Private,West,City,,,,53,,,3634,25,26,
+Vanguard University of Southern California,CA,123651,Private,West,City,0.4668,21,1037,1824,32430,32430,7786,100,45,35.9
+Southern California Institute of Architecture,CA,123952,Private,West,City,,,,262,43800,43800,11229,49.3,22.1,
+University of Southern California,CA,123961,Private,West,City,0.1595,32,1437,18942,54259,54259,14389,60.5,21,24.7
+Thomas Aquinas College,CA,124292,Private,West,Rural,0.7188,28,1297,369,24500,24500,8880,96.1,28,
+Westmont College,CA,125727,Private,West,Suburb,0.8471,27,1262,1285,44044,44044,7580,57.8,18.7,16.9
+Whittier College,CA,125763,Private,West,Suburb,0.7409,24,1138,1665,46310,46310,8281,70,35.7,33.5
+Woodbury University,CA,125897,Private,West,City,0.6164,22,1076,1023,38460,38460,7301,32.9,42.2,41
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,CA,126076,Private,West,City,0.6548,,,143,14700,14700,3120,66.7,69.1,
+Colorado Christian University,CO,126669,Private,West,City,,,,4918,30370,30370,6155,18.8,34.7,44.9
+Colorado College,CO,126678,Private,West,City,0.1513,,,2091,52818,52818,11224,85,11.4,17.6
+University of Denver,CO,127060,Private,West,City,0.5805,28,1294,5753,48669,48669,10704,58.2,15.4,19
+Naropa University,CO,127653,Private,West,City,1,,,384,31790,31790,6395,37,49.5,19.5
+Nazarene Bible College,CO,127714,Private,West,City,,,,614,11760,11760,4388,100,38.5,51.5
+Regis University,CO,127918,Private,West,City,0.5992,23,1150,4016,35610,35610,7335,40.6,25.5,36
+Albertus Magnus College,CT,128498,Private,Northeast,City,0.6388,,930,1122,31140,31140,7599,21.1,53,53.4
+University of Bridgeport,CT,128744,Private,Northeast,City,0.5389,21,969,3129,32250,32250,8822,100,48.2,42.4
+Connecticut College,CT,128902,Private,Northeast,City,0.3796,,,1766,52850,52850,9902,70.7,16,14
+Fairfield University,CT,129242,Private,Northeast,Suburb,0.6056,,,4023,47165,47165,11160,100,11.7,16.5
+University of Hartford,CT,129525,Private,Northeast,City,0.8089,24,1140,4835,38910,38910,7841,46.7,26.9,28.7
+Holy Apostles College and Seminary,CT,129534,Private,Northeast,Suburb,,,,133,7750,7750,3967,33.3,26.7,
+Mitchell College,CT,129774,Private,Northeast,City,0.7797,,,617,32442,32442,6875,100,33.1,35.2
+University of New Haven,CT,129941,Private,Northeast,Suburb,0.8776,24,1124,5147,38170,38170,10252,41.9,25.4,28.6
+Quinnipiac University,CT,130226,Private,Northeast,Suburb,0.7388,25,1184,7249,46780,46780,11026,35.3,15.3,19.9
+Sacred Heart University,CT,130253,Private,Northeast,Suburb,0.6028,,,5496,39820,39820,8990,34.5,16.7,22.9
+University of Saint Joseph,CT,130314,Private,Northeast,City,0.9029,21,1064,759,38033,38033,8237,97.3,38,42.2
+Trinity College,CT,130590,Private,Northeast,City,0.3387,30,1370,2174,54770,54770,10388,75.2,13,17.8
+Wesleyan University,CT,130697,Private,Northeast,City,0.1629,,,2887,52804,52804,12153,87.8,16.9,19.6
+Yale University,CT,130794,Private,Northeast,City,0.0693,34,1520,5742,51400,51400,17517,74.6,14.5,25
+Goldey-Beacom College,DE,130989,Private,Northeast,Suburb,0.5177,,,770,23850,23850,7949,27.1,36.4,42.2
+Wesley College,DE,131098,Private,Northeast,City,0.6151,18,903,1342,26406,26406,4557,34,56.2,42.2
+Wilmington University,DE,131113,Private,Northeast,Suburb,,,,8346,10940,10940,7197,5,31.2,47.1
+American University,DC,131159,Private,Northeast,City,0.294,28,1294,7433,46615,46615,11620,56.9,15.3,15.6
+Catholic University of America,DC,131283,Private,Northeast,City,0.8258,,,3284,44060,44060,9645,53,12.3,10.1
+Gallaudet University,DC,131450,Private,Northeast,City,0.5901,17,916,1111,16558,16558,10330,100,55.9,33.9
+George Washington University,DC,131469,Private,Northeast,City,0.4098,31,1386,11718,53518,53518,14272,48.7,13.8,16.1
+Georgetown University,DC,131496,Private,Northeast,City,0.1568,32,1451,7128,52300,52300,15181,48.4,12,16.1
+Howard University,DC,131520,Private,Northeast,City,0.4142,25,1201,6276,25697,25697,7161,75,46.3,23.6
+Trinity Washington University,DC,131876,Private,Northeast,City,0.9228,,,1498,23690,23690,6876,24.5,69.8,53.2
+The Baptist College of Florida,FL,132408,Private,Southeast,Town,0.6195,20,968,397,11100,11100,4861,100,61.4,34.1
+Barry University,FL,132471,Private,Southeast,Suburb,0.8507,19,970,3459,29850,29850,7911,44.8,46.3,43.6
+Bethune-Cookman University,FL,132602,Private,Southeast,City,,,,3905,14410,14410,6465,56,75.9,42.2
+Lynn University,FL,132657,Private,Southeast,City,0.8463,,,2182,37510,37510,5328,72.8,21.3,27
+Carlos Albizu University-Miami,FL,132842,Private,Southeast,Suburb,1,,,236,12444,12444,5256,35.4,30.6,25.1
+Johnson University Florida,FL,132879,Private,Southeast,Suburb,0.9278,19,978,180,14920,14920,5318,100,60.5,25.5
+Eckerd College,FL,133492,Private,Southeast,City,0.7273,26,1207,2018,43044,43044,7550,82.8,21.9,20.4
+Edward Waters College,FL,133526,Private,Southeast,City,0.6045,17,885,946,13525,13525,5092,58.2,24.2,50.4
+Embry-Riddle Aeronautical University-Daytona Beach,FL,133553,Private,Southeast,City,0.7491,25,1204,5689,34822,34822,9458,88.2,26.7,35.5
+Flagler College-St Augustine,FL,133711,Private,Southeast,Suburb,0.5659,24,1093,2674,18200,18200,6417,50.6,27.5,28
+AdventHealth University,FL,133872,Private,Southeast,City,0.9685,21,1019,1316,14400,14400,7500,98,36.8,39
+Florida Institute of Technology,FL,133881,Private,Southeast,City,0.6346,27,1243,3395,41240,41240,9446,94.5,20.4,40.1
+Florida Memorial University,FL,133979,Private,Southeast,Suburb,0.2733,,,1173,15536,15536,7103,100,73,46
+Florida Southern College,FL,134079,Private,Southeast,City,0.5146,27,1218,2561,34774,34774,8000,98.1,26,27.6
+Hobe Sound Bible College,FL,134510,Private,Southeast,Suburb,,,,233,6595,6595,1584,76.5,65,34.2
+Jacksonville University,FL,134945,Private,Southeast,City,0.867,24,1147,2829,35260,35260,7429,60.8,28,35.6
+Luther Rice College & Seminary,GA,135364,Private,Southeast,Suburb,0.5484,,,311,7240,7240,5596,52.8,55.3,54.4
+Trinity International University-Florida,FL,135610,Private,Southeast,Suburb,,,,150,12450,12450,6962,3.8,61.1,29.6
+University of Miami,FL,135726,Private,Southeast,Suburb,0.357,30,1366,10613,48484,48484,12193,77.9,14.1,20.1
+Nova Southeastern University,FL,136215,Private,Southeast,Suburb,0.5817,26,1201,4417,29880,29930,9799,39.3,40.7,37.3
+Palm Beach Atlantic University,FL,136330,Private,Southeast,City,0.9739,23,1115,2475,29950,29950,7607,100,27.6,22
+Ringling College of Art and Design,FL,136774,Private,Southeast,City,0.6391,,,1454,44560,44560,8404,67.9,28.8,16.8
+Rollins College,FL,136950,Private,Southeast,Suburb,0.6389,,,2612,48335,48335,7930,100,27.3,23.8
+Saint Leo University,FL,137032,Private,Southeast,Suburb,0.5849,23,1056,9404,22220,22220,7677,21.5,41.8,49.1
+Saint John Vianney College Seminary,FL,137272,Private,Southeast,Suburb,0.9,,,56,21000,21000,3959,65.5,24.6,
+St. Thomas University,FL,137476,Private,Southeast,Suburb,0.4871,20,993,958,29730,29730,10238,100,15.2,41.3
+Stetson University,FL,137546,Private,Southeast,Suburb,0.6783,,,3031,44490,44490,10103,68.7,31.9,26.7
+Southeastern University,FL,137564,Private,Southeast,City,0.535,21,1063,4786,25360,25360,7384,100,39.5,34.6
+Talmudic College of Florida,FL,137777,Private,Southeast,City,,,,31,13250,13250,5600,100,38.5,
+The University of Tampa,FL,137847,Private,Southeast,City,0.5326,25,1171,7956,28426,28426,9064,100,22.4,25.2
+Trinity Baptist College,FL,137953,Private,Southeast,City,0.3447,18,933,335,11640,11640,3584,100,58.4,34.1
+Trinity College of Florida,FL,137962,Private,Southeast,Suburb,0.918,18,922,188,16340,16340,4720,32.1,49,41.1
+Warner University,FL,138275,Private,Southeast,Rural,0.4148,18,946,981,21216,21216,3936,26.1,65.9,42.5
+Webber International University,FL,138293,Private,Southeast,Town,0.4923,19,986,625,25358,25358,4413,100,47,36.7
+Agnes Scott College,GA,138600,Private,Southeast,Suburb,0.6558,,,890,39960,39960,9151,69.5,37.7,21.2
+Point University,GA,138868,Private,Southeast,Town,0.3506,19,968,1126,20600,20600,6197,16.6,16.1,36.3
+Clark Atlanta University,GA,138947,Private,Southeast,City,0.5793,20,1000,3302,21892,21892,6946,63.7,68.6,32.2
+Berry College,GA,139144,Private,Southeast,Suburb,0.616,27,1247,1963,35176,35176,8101,80.5,21.4,16.9
+Beulah Heights University,GA,139153,Private,Southeast,City,,,,276,9880,9880,3456,100,86.1,45.7
+Brenau University,GA,139199,Private,Southeast,City,0.6613,20,1004,1722,28510,28510,7062,46.2,49.9,40.3
+Brewton-Parker College,GA,139205,Private,Southeast,Rural,0.9898,16,922,465,17740,17740,4212,100,35.4,37.6
+Covenant College,GA,139393,Private,Southeast,Rural,0.9523,27,1269,986,33170,33170,7547,100,23.9,
+Emmanuel College,GA,139630,Private,Southeast,Town,0.4307,20,1022,800,19710,19710,4931,61,36.7,35.6
+Emory University,GA,139658,Private,Southeast,City,0.2204,32,1443,6776,49392,49392,13945,77.1,18,16.4
+LaGrange College,GA,140234,Private,Southeast,Town,0.5689,22,1100,930,29480,29480,5627,98.7,41.2,25.5
+Life University,GA,140252,Private,Southeast,City,0.689,19,957,751,11715,11715,6949,66,44.6,29.2
+Herzing University-Atlanta,GA,140340,Private,Southeast,City,0.8642,,,593,13850,13850,5724,14.3,72.1,52.1
+Mercer University,GA,140447,Private,Southeast,City,0.7326,28,1285,4708,36000,36000,8441,95.7,33.9,28.2
+Morehouse College,GA,140553,Private,Southeast,City,0.7441,21,1050,2199,27278,27278,6417,77.9,48.2,19.7
+Oglethorpe University,GA,140696,Private,Southeast,Suburb,0.5804,25,1212,1232,36680,36680,6731,100,35.4,19.9
+Paine College,GA,140720,Private,Southeast,City,0.318,16,850,357,14226,14226,4741,73.6,39.1,37.9
+Piedmont College,GA,140818,Private,Southeast,Town,0.5952,22,1059,1281,24464,24464,6322,42.2,45.8,31.5
+Reinhardt University,GA,140872,Private,Southeast,Rural,0.8863,21,1038,1381,22422,22422,5932,46,38.7,36.5
+Savannah College of Art and Design,GA,140951,Private,Southeast,City,0.9287,24,1152,10568,36410,36410,9046,79.2,21.8,17.6
+Shorter University,GA,140988,Private,Southeast,City,0.5337,21,1017,1264,21730,21730,4945,75.2,44.4,35.4
+Spelman College,GA,141060,Private,Southeast,City,0.4005,24,1163,2134,28181,28181,8219,71.8,48.6,20.7
+Thomas University,GA,141167,Private,Southeast,Town,0.2256,,,1050,16940,16940,5431,36.8,44.9,45.5
+Toccoa Falls College,GA,141185,Private,Southeast,Town,0.5872,21,1039,851,22104,22104,5480,42.4,33,30
+Truett McConnell University,GA,141237,Private,Southeast,Town,0.9462,21,1032,760,19480,19480,4136,100,15.1,28.9
+Wesleyan College,GA,141325,Private,Southeast,City,0.466,23,1114,501,22370,22370,6743,100,41.1,35.2
+Young Harris College,GA,141361,Private,Southeast,Rural,0.5251,23,1100,1021,29062,29062,6190,54.7,34.4,28.2
+Chaminade University of Honolulu,HI,141486,Private,West,City,0.9223,21,1068,1785,24514,24514,7955,100,39.6,42.3
+Hawaii Pacific University,HI,141644,Private,West,City,0.7468,23,1110,3228,24550,24550,8566,45.7,26.9,35.8
+Boise Bible College,ID,142090,Private,West,Suburb,1,23,1091,128,12080,12080,6740,80,50.3,
+The College of Idaho,ID,142294,Private,West,Suburb,0.7586,,,936,28755,28755,6980,62.5,29.7,26.8
+Northwest Nazarene University,ID,142461,Private,West,Suburb,0.7342,24,1142,1268,29000,29000,6036,100,37.5,33.9
+Brigham Young University-Idaho,ID,142522,Private,West,Town,0.9479,23,1115,35038,4018,4018,9093,,27,24.3
+American Academy of Art,IL,142887,Private,Midwest,City,,,,260,33220,33220,4724,91.7,56.9,37.5
+American Islamic College,IL,142957,Private,Midwest,City,,,,16,7600,7600,7909,,0,
+School of the Art Institute of Chicago,IL,143048,Private,Midwest,City,0.6982,26,1242,2889,49610,49610,10225,19.4,19.2,21.3
+Augustana College,IL,143084,Private,Midwest,City,0.5896,,,2634,40908,40908,7770,74.1,23.4,22.2
+Aurora University,IL,143118,Private,Midwest,Suburb,0.8732,21,1062,3912,23520,23520,7722,32.3,41.6,45.7
+Blackburn College,IL,143288,Private,Midwest,Town,0.5953,21,1041,554,21992,21992,6094,56.1,60.1,44
+Blessing Rieman College of Nursing and Health Sciences,IL,143297,Private,Midwest,Town,,,,272,,,6108,100,25.9,37
+Bradley University,IL,143358,Private,Midwest,City,0.7137,25,1212,4643,32930,32930,8740,57.7,24.1,23.6
+University of Chicago,IL,144050,Private,Midwest,City,0.0873,34,1524,6298,56034,56034,18115,82.4,10.8,20.2
+Columbia College Chicago,IL,144281,Private,Midwest,City,0.9161,,,6934,26474,26474,8155,28.7,35.4,24.9
+Concordia University-Chicago,IL,144351,Private,Midwest,Suburb,0.7472,22,1100,1405,31588,31588,4050,50.7,41.4,38.5
+DePaul University,IL,144740,Private,Midwest,City,0.7174,,,14591,39010,39010,10699,49.4,32.1,30.2
+East-West University,IL,144883,Private,Midwest,City,0.4069,17,910,430,21450,21450,6644,26.3,71.2,53.9
+Elmhurst College,IL,144962,Private,Midwest,Suburb,0.7053,23,1141,2782,36370,36370,7967,41.6,35.4,35.2
+Eureka College,IL,144971,Private,Midwest,Town,0.62,22,1084,605,25390,25390,5685,67.7,39.4,34.2
+Greenville University,IL,145372,Private,Midwest,Town,0.662,22,1067,944,26356,26356,5523,98.5,38.8,31.1
+Hebrew Theological College,IL,145497,Private,Midwest,City,0.95,21,1064,100,17630,17630,3311,17.4,12.8,
+Benedictine University,IL,145619,Private,Midwest,Suburb,0.6217,22,1093,2864,33900,33900,8210,25.8,37.1,34.3
+Illinois Wesleyan University,IL,145646,Private,Midwest,City,0.6086,27,1273,1642,45856,45856,8123,74.5,19.5,17.7
+Illinois College,IL,145691,Private,Midwest,Town,0.5487,,,947,32140,32140,7431,83.8,41.3,31.1
+Illinois Institute of Technology,IL,145725,Private,Midwest,City,0.5403,28,1323,2763,45864,45864,12391,55.9,31.5,32.2
+Judson University,IL,146339,Private,Midwest,City,0.712,22,1084,1037,29434,29434,6493,28.9,37.3,35.6
+Knox College,IL,146427,Private,Midwest,Town,0.7162,,,1341,44958,44958,7157,97.6,32.5,27.8
+Lake Forest College,IL,146481,Private,Midwest,Suburb,0.5299,,,1483,45548,45548,8723,56.9,34.8,24.6
+Lakeview College of Nursing,IL,146533,Private,Midwest,City,,,,215,,,5665,56.7,42.3,
+Lewis University,IL,146612,Private,Midwest,Suburb,0.5383,24,1161,4372,31250,31250,9200,38.7,31.3,39.4
+Lincoln Christian University,IL,146667,Private,Midwest,Town,0.6213,21,1036,440,13020,13020,5872,82.6,44.6,31.2
+Loyola University Chicago,IL,146719,Private,Midwest,City,0.7059,27,1258,11193,43078,43078,10443,53.9,25.4,27.7
+Trinity College of Nursing & Health Sciences,IL,146755,Private,Midwest,City,,,,213,27458,27458,6253,89.5,35.2,41.1
+MacMurray College,IL,146825,Private,Midwest,Town,0.5971,20,1032,521,26100,26100,5874,62.3,52.8,42.9
+McKendree University,IL,147013,Private,Midwest,Suburb,0.617,22,1100,2065,29640,29640,6872,100,40.7,32.6
+Methodist College,IL,147129,Private,Midwest,City,0.3469,20,1005,675,20750,20750,6454,58.4,46.4,34.8
+Millikin University,IL,147244,Private,Midwest,City,0.6459,23,1127,1883,33066,33066,5988,70.8,37,31.8
+Monmouth College,IL,147341,Private,Midwest,Town,0.6705,23,1115,1010,36400,36400,6794,75,37.2,32.2
+Moody Bible Institute,IL,147369,Private,Midwest,City,0.6589,,,2671,12960,12960,8409,41.3,36,28.1
+National Louis University,IL,147536,Private,Midwest,City,0.8559,,,1758,10440,10440,6148,98.7,60.3,50.4
+National University of Health Sciences,IL,147590,Private,Midwest,Suburb,,,,61,,,5304,98.7,47.3,
+North Central College,IL,147660,Private,Midwest,City,0.544,25,1200,2688,37749,37749,8359,48.2,24.6,26.6
+North Park University,IL,147679,Private,Midwest,City,0.5373,22,1086,2018,28620,28620,7840,100,38.3,37
+Northwestern University,IL,147767,Private,Midwest,City,0.0924,33,1500,8489,52678,52678,16645,82.2,14.9,15.2
+Olivet Nazarene University,IL,147828,Private,Midwest,Suburb,0.6617,23,1140,3356,34940,34940,7129,33.7,30.2,27.7
+Principia College,IL,148016,Private,Midwest,Rural,0.9104,24,1162,447,28920,28920,7563,99,0,
+Quincy University,IL,148131,Private,Midwest,Town,0.6732,22,1082,898,27770,27770,5624,43,32.5,33
+Robert Morris University Illinois,IL,148335,Private,Midwest,City,0.6688,,,1971,26700,26700,7006,30.3,55,43.1
+Rockford University,IL,148405,Private,Midwest,City,0.4656,21,1059,1018,30050,30050,5725,38.5,47.8,41.8
+Roosevelt University,IL,148487,Private,Midwest,City,0.6951,23,1119,2485,28963,28963,8488,37.4,42.6,36.8
+Dominican University,IL,148496,Private,Midwest,Suburb,0.6498,23,1124,2155,32530,32530,7439,43.6,48.5,50.7
+Rush University,IL,148511,Private,Midwest,City,,,,107,,,11995,76.7,32,47.3
+Saint Francis Medical Center College of Nursing,IL,148575,Private,Midwest,City,,,,400,,,7180,68.5,24.2,36.8
+University of St Francis,IL,148584,Private,Midwest,Suburb,0.5167,23,1126,1563,31470,31470,7832,86.2,34.2,42.4
+St. John's College-Department of Nursing,IL,148593,Private,Midwest,City,,,,118,,,7593,70.8,24.3,
+Saint Xavier University,IL,148627,Private,Midwest,City,0.746,21,1066,2927,33380,33380,7252,40.2,53.6,49.4
+Saint Anthony College of Nursing,IL,149028,Private,Midwest,City,,,,199,25342,25342,6781,57.8,35.6,43.8
+Telshe Yeshiva-Chicago,IL,149329,Private,Midwest,City,0.76,,,65,13500,13500,3690,93.3,54.3,
+Trinity Christian College,IL,149505,Private,Midwest,Suburb,0.829,23,1125,1028,28675,28675,6841,49.4,36.6,32.9
+Trinity International University-Illinois,IL,149514,Private,Midwest,Suburb,0.75,24,1129,750,30750,30750,7872,26.5,40.3,29.6
+VanderCook College of Music,IL,149639,Private,Midwest,City,1,25,1215,90,28434,28434,5364,34.2,28.6,
+Resurrection University,IL,149763,Private,Midwest,City,,,,683,,,7773,92.6,40.1,45.8
+Wheaton College,IL,149781,Private,Midwest,Suburb,0.85,30,1356,2356,35190,35190,9082,69.9,19.5,
+Anderson University,IN,150066,Private,Midwest,City,0.6525,22,1045,1506,29710,29710,7345,100,37.5,23.2
+Bethel College-Indiana,IN,150145,Private,Midwest,City,0.8977,22,1077,1254,28030,28030,5790,98.7,44.2,32.5
+Butler University,IN,150163,Private,Midwest,City,0.6513,28,1279,4197,39860,39860,8012,100,13.8,13
+Calumet College of Saint Joseph,IN,150172,Private,Midwest,Suburb,,,,585,17920,17920,5992,32.6,41.3,51.8
+DePauw University,IN,150400,Private,Midwest,Town,0.6725,27,1248,2137,47838,47838,9547,86.3,18.9,16.4
+Earlham College,IN,150455,Private,Midwest,Town,0.5184,28,1303,1027,45750,45750,6065,90.8,26.1,22.6
+University of Evansville,IN,150534,Private,Midwest,City,0.6996,26,1187,2049,35394,35394,7313,96.9,22.6,27.5
+Franklin College,IN,150604,Private,Midwest,Suburb,0.7787,22,1105,978,30920,30920,6465,69.2,36.4,29.4
+Goshen College,IN,150668,Private,Midwest,City,0.6388,24,1121,855,33200,33200,5463,65.4,32.1,36.9
+Grace College and Theological Seminary,IN,150677,Private,Midwest,Town,0.8209,24,1130,1447,23170,23170,6787,100,28.9,28.1
+Hanover College,IN,150756,Private,Midwest,Town,0.8379,25,1184,1082,36520,36520,7811,90,27.6,25.3
+Holy Cross College,IN,150774,Private,Midwest,Suburb,0.7405,26,1214,554,29734,29734,5137,26.7,31,28.8
+Huntington University,IN,150941,Private,Midwest,Town,0.8053,22,1080,949,25540,25540,6352,100,32.3,31.1
+University of Indianapolis,IN,151263,Private,Midwest,City,0.8218,22,1093,4384,28390,28390,7423,98.3,32.6,31.8
+Indiana Institute of Technology,IN,151290,Private,Midwest,City,0.7613,20,1034,6899,26370,26370,7198,100,66.5,53.3
+Manchester University,IN,151777,Private,Midwest,Town,0.6058,,,1257,31660,31660,7423,76.6,38.1,33.7
+Marian University,IN,151786,Private,Midwest,City,0.5872,22,1102,2173,33000,33000,6592,54.4,24.6,29.2
+Indiana Wesleyan University-Marion,IN,151801,Private,Midwest,Town,0.7202,24,1138,2685,25980,25980,7017,100,29,47.4
+Martin University,IN,151810,Private,Midwest,City,,,,262,13200,13200,4799,94.4,83.2,53.4
+University of Notre Dame,IN,152080,Private,Midwest,Suburb,0.1892,33,1486,8527,51505,51505,14001,89.6,10.4,10.2
+Oakland City University,IN,152099,Private,Midwest,Town,0.7133,21,1058,484,23700,23700,5205,21.4,16.4,44.2
+Rose-Hulman Institute of Technology,IN,152318,Private,Midwest,City,0.6094,30,1369,2146,48012,48012,10968,93.7,12.5,14.4
+University of Saint Francis-Fort Wayne,IN,152336,Private,Midwest,City,0.9872,22,1062,1840,29430,29430,6483,47.2,38.8,35.9
+Saint Mary-of-the-Woods College,IN,152381,Private,Midwest,Rural,0.7576,21,999,631,29510,29510,5147,29.8,45.5,39.6
+Saint Mary's College,IN,152390,Private,Midwest,Suburb,0.7825,26,1201,1489,40800,40800,7446,66.5,21.7,19.8
+Taylor University,IN,152530,Private,Midwest,Town,0.8679,26,1204,1858,32885,32885,6697,68.9,16.6,14.6
+Trine University,IN,152567,Private,Midwest,Town,0.701,25,1128,1939,31540,31540,7534,51.1,15.4,32.2
+Valparaiso University,IN,152600,Private,Midwest,Suburb,0.8428,26,1216,3186,38760,38760,7740,74.5,27.4,28.8
+Wabash College,IN,152673,Private,Midwest,Town,0.6296,26,1199,862,42250,42250,8679,93.8,24.7,
+Allen College,IA,152798,Private,Midwest,City,,,,329,18226,18226,7161,50,27.5,
+Briar Cliff University,IA,152992,Private,Midwest,City,,,,928,29786,29786,5748,65.1,37.9,36.4
+Buena Vista University,IA,153001,Private,Midwest,Town,0.6385,22,1083,1692,32854,32854,7123,20.7,44.7,35.3
+Central College,IA,153108,Private,Midwest,Town,0.7009,24,1161,1198,35930,35930,7200,98.2,24.8,21.5
+Clarke University,IA,153126,Private,Midwest,City,0.6319,23,1118,757,31950,31950,6098,54.1,35.3,29.4
+Coe College,IA,153144,Private,Midwest,City,0.5624,25,1213,1350,42430,42430,7117,100,29.5,23.5
+Cornell College,IA,153162,Private,Midwest,Town,0.6503,26,1245,1004,40880,40880,7152,100,28.5,19.6
+Divine Word College,IA,153241,Private,Midwest,Rural,1,,,65,12850,12850,5830,81.8,23.4,
+Dordt College,IA,153250,Private,Midwest,Town,0.7207,25,1210,1353,30000,30000,6343,60.3,22.4,12.2
+Drake University,IA,153269,Private,Midwest,City,0.688,27,1285,3038,39062,39062,8956,67.8,15.6,15.3
+University of Dubuque,IA,153278,Private,Midwest,City,0.7416,19,992,1955,29710,29710,6498,99.1,46.3,36.1
+Faith Baptist Bible College and Theological Seminary,IA,153320,Private,Midwest,Suburb,0.6,23,1118,256,16766,16766,4994,51.4,51.8,
+Graceland University-Lamoni,IA,153366,Private,Midwest,Rural,0.5614,21,1029,1208,28110,28110,6058,100,41.4,37.6
+Grand View University,IA,153375,Private,Midwest,City,0.9268,21,1043,1753,26516,26516,6476,40.1,36.3,36
+Grinnell College,IA,153384,Private,Midwest,Town,0.2887,32,1449,1660,50714,50714,11059,82.5,19.9,17.6
+Iowa Wesleyan University,IA,153621,Private,Midwest,Town,0.5001,20,995,602,24600,30500,6067,100,49.2,36
+Loras College,IA,153825,Private,Midwest,City,0.9509,23,1144,1362,32886,32886,6364,74.5,21.9,17.3
+Luther College,IA,153834,Private,Midwest,Town,0.6509,26,1222,2008,41020,41020,7677,79.4,18,12.8
+Maharishi University of Management,IA,153861,Private,Midwest,Town,0.8889,,,320,27530,27530,2011,68.2,50.2,33.8
+Mercy College of Health Sciences,IA,153977,Private,Midwest,City,0.959,20,1030,755,17600,17600,5659,43.9,38.9,34.6
+Morningside College,IA,154004,Private,Midwest,City,0.5518,23,1125,1270,30490,30490,6703,100,29.6,23.5
+Mount Mercy University,IA,154013,Private,Midwest,City,0.5724,22,1085,1502,30582,30582,6168,100,35.6,28.8
+Northwestern College,IA,154101,Private,Midwest,Town,0.681,24,1172,1014,30200,30200,6509,100,27.8,13.5
+Palmer College of Chiropractic,IA,154174,Private,Midwest,City,,,,41,9096,9096,6139,78.4,38.5,
+Saint Ambrose University,IA,154235,Private,Midwest,City,0.6081,24,1165,2354,30016,30016,7359,100,26.3,28.4
+Simpson College,IA,154350,Private,Midwest,Town,0.8386,24,1178,1406,37663,37663,6516,47.1,27.4,23.4
+Upper Iowa University,IA,154493,Private,Midwest,Rural,0.5558,21,1041,4058,29600,29600,5809,100,43.2,45.1
+Wartburg College,IA,154527,Private,Midwest,Town,0.769,24,1170,1493,39730,39730,6585,100,21.9,17.4
+William Penn University,IA,154590,Private,Midwest,Town,0.5379,19,963,1184,25000,25000,5605,97.9,47.7,38.3
+Baker University,KS,154688,Private,Midwest,Town,0.8571,23,1137,1465,28960,28960,6285,16.1,27.2,36.3
+Benedictine College,KS,154712,Private,Midwest,Town,0.9747,25,1215,1826,28480,28480,7015,56,17.8,15
+Bethany College,KS,154721,Private,Midwest,Town,0.6664,21,1027,710,26922,26922,4244,50.7,38.4,33.3
+Bethel College-North Newton,KS,154749,Private,Midwest,Town,0.5576,,,503,27720,27720,5376,56.9,43.5,34.4
+Central Christian College of Kansas,KS,154855,Private,Midwest,Town,0.3933,20,1008,768,17240,17240,3609,25.3,47.9,47.6
+Barclay College,KS,155070,Private,Midwest,Rural,0.6697,,,224,17720,17720,3927,53.7,61.8,40.3
+Friends University,KS,155089,Private,Midwest,City,0.4801,22,1100,1110,27565,27565,6635,100,41.6,35.8
+Newman University,KS,155335,Private,Midwest,City,0.6384,22,1107,1103,29200,29200,5845,97.8,15,39.4
+Kansas Wesleyan University,KS,155414,Private,Midwest,Town,0.5365,22,1065,671,28980,28980,5795,100,46,33
+Manhattan Christian College,KS,155496,Private,Midwest,City,0.6432,22,1079,282,15418,15418,5168,48.2,33.5,26.9
+McPherson College,KS,155511,Private,Midwest,Town,0.4847,22,1105,688,27823,27823,5982,67.2,41.8,30.6
+MidAmerica Nazarene University,KS,155520,Private,Midwest,Suburb,0.6562,21,1064,1215,29670,29670,6578,93.8,37.3,32.2
+Ottawa University-Ottawa,KS,155627,Private,Midwest,Town,0.8045,20,1027,670,28550,28550,6139,100,42.5,40.1
+Ottawa University-Kansas City,KS,155636,Private,Midwest,City,,,,334,,,3617,100,41.4,40.1
+University of Saint Mary,KS,155812,Private,Midwest,Town,0.4915,22,1078,744,27720,27720,6155,36,34.4,35.7
+Southwestern College,KS,155900,Private,Midwest,Town,0.9688,21,1019,1096,28750,28750,5624,100,36.4,39.8
+Sterling College,KS,155937,Private,Midwest,Rural,0.5247,20,1018,612,24985,24985,4415,64.4,39.5,34.1
+Tabor College,KS,155973,Private,Midwest,Town,0.5318,21,1048,632,27220,27220,4761,100,43.1,31.4
+Alice Lloyd College,KY,156189,Private,Southeast,Rural,0.2567,21,1043,598,11550,11550,4832,76.3,58.1,46.8
+Asbury University,KY,156213,Private,Southeast,Town,0.7032,25,1178,1610,29500,29500,6476,44.6,31.8,23.6
+Bellarmine University,KY,156286,Private,Southeast,City,0.8925,25,1189,2474,40750,40750,8062,38,25,27.3
+Berea College,KY,156295,Private,Southeast,Town,0.3509,25,1188,1610,25760,25760,7977,87.4,82,40.6
+Brescia University,KY,156356,Private,Southeast,City,0.424,21,1065,911,21550,21550,5344,44.4,57.5,45.2
+Campbellsville University,KY,156365,Private,Southeast,Town,0.6859,21,1061,2365,25400,25400,5211,49.9,35.3,46.6
+Centre College,KY,156408,Private,Southeast,Town,0.7632,29,1334,1441,40500,40500,8265,94.2,15.7,20.3
+Clear Creek Baptist Bible College,KY,156417,Private,Southeast,Rural,,,,127,9020,9020,4598,81.8,70.3,
+University of the Cumberlands,KY,156541,Private,Southeast,Town,0.7436,22,1092,2085,23000,23000,5136,46.5,31.7,39.8
+Georgetown College,KY,156745,Private,Southeast,Town,0.6733,23,1145,1029,37160,37160,6065,52.9,35.5,33.1
+Kentucky Mountain Bible College,KY,157030,Private,Southeast,Rural,0.5,21,1045,75,7760,7760,504,,65.9,
+Kentucky Wesleyan College,KY,157076,Private,Southeast,City,0.5846,23,1114,688,25070,25070,5283,55.7,43.1,37.8
+Kentucky Christian University,KY,157100,Private,Southeast,Town,0.4021,20,1029,477,19256,19256,4779,31.5,49.3,29.6
+Lindsey Wilson College,KY,157216,Private,Southeast,Town,,,,1958,24246,24246,5750,51,58.4,45.9
+Midway University,KY,157377,Private,Southeast,Rural,0.567,21,1050,989,23950,23950,6344,21.3,47,43.5
+University of Pikeville,KY,157535,Private,Southeast,Town,1,21,1038,1088,20338,20338,6083,65.7,46,44.8
+The Southern Baptist Theological Seminary,KY,157748,Private,Southeast,City,0.7811,22,1105,873,18860,18860,6771,100,0,
+Spalding University,KY,157757,Private,Southeast,City,0.5899,21,1046,1080,24000,24000,7326,44.1,39.5,35
+Thomas More College,KY,157809,Private,Southeast,Suburb,0.9123,22,1081,1399,30270,30270,6534,52.3,25.1,36.8
+Transylvania University,KY,157818,Private,Southeast,City,0.9547,,,965,37290,37290,7474,79.6,20.5,16.4
+Union College,KY,157863,Private,Southeast,Town,0.6347,20,1025,984,26080,26080,5029,100,52.3,40.7
+Centenary College of Louisiana,LA,158477,Private,Southeast,City,0.6179,25,1193,525,35900,35900,7109,72.2,35.7,21.8
+Dillard University,LA,158802,Private,Southeast,City,0.4081,20,1009,1290,17917,17917,6166,58.4,74.2,35.3
+Louisiana College,LA,159568,Private,Southeast,Suburb,0.7192,22,1087,935,16000,16000,5538,64.1,46.2,36.8
+Loyola University New Orleans,LA,159656,Private,Southeast,City,0.6911,25,1203,2534,39492,39492,8794,65.2,31.6,19.3
+University of Holy Cross,LA,160065,Private,Southeast,City,0.4615,20,1030,743,13220,13220,6755,60.3,50.1,49
+Franciscan Missionaries of Our Lady University,LA,160074,Private,Southeast,City,0.4844,22,1085,1168,12764,12764,6678,45.4,32.2,47.4
+Saint Joseph Seminary College,LA,160409,Private,Southeast,Rural,,,,146,17868,17868,4314,70,14.3,
+Tulane University of Louisiana,LA,160755,Private,Southeast,City,0.215,32,1442,7871,52960,52960,11280,65,13,18
+Xavier University of Louisiana,LA,160904,Private,Southeast,City,0.6408,23,1126,2266,23606,23606,8650,90.6,53.7,26.6
+College of the Atlantic,ME,160959,Private,Northeast,Town,0.6793,,,339,43542,43542,8165,100,31.6,
+Bates College,ME,160977,Private,Northeast,City,0.2193,,,1787,52042,52042,10960,88.4,10.8,15.1
+Bowdoin College,ME,161004,Private,Northeast,Town,0.1363,,,1812,51848,51848,11990,83.3,13.3,18.8
+Colby College,ME,161086,Private,Northeast,Town,0.1579,32,1444,1917,53120,53120,8694,85.3,10.8,10.9
+University of New England,ME,161457,Private,Northeast,Suburb,0.8074,24,1128,2360,36530,36530,8663,49.6,12.7,22.1
+Maine College of Art,ME,161509,Private,Northeast,City,0.6774,,,456,34050,34050,5100,28.4,36.4,23.9
+Saint Joseph's College of Maine,ME,161518,Private,Northeast,Rural,0.8011,,,1494,34610,34610,6032,98.6,23.5,30.5
+Thomas College,ME,161563,Private,Northeast,Rural,,,,825,26110,26110,6417,58.2,33.9,37.9
+Unity College,ME,161572,Private,Northeast,Rural,0.8874,,,700,28350,28350,6129,64.6,38.8,32.1
+Capitol Technology University,MD,162061,Private,Northeast,Suburb,0.7473,22,1062,421,24788,24788,7589,18.3,37.3,35.6
+Washington Adventist University,MD,162210,Private,Northeast,Suburb,0.6139,21,957,750,23400,23400,5439,24.3,44.8,35.2
+Goucher College,MD,162654,Private,Northeast,City,0.7884,,,1526,43440,43440,8208,70.3,25.7,17.6
+Hood College,MD,162760,Private,Northeast,City,0.8113,,,1108,37960,37960,7427,45,33.7,31.1
+Johns Hopkins University,MD,162928,Private,Northeast,City,0.1254,34,1524,5663,52170,52170,13055,96.2,12.4,13.1
+Loyola University Maryland,MD,163046,Private,Northeast,City,0.7528,,,3903,47560,47560,8947,70.4,12.8,13.5
+Maryland Institute College of Art,MD,163295,Private,Northeast,City,0.6161,27,1203,1743,46990,46990,8362,100,21,17.4
+Mount St. Mary's University,MD,163462,Private,Northeast,Town,0.6423,22,1085,1785,40550,40550,7909,99.3,22.4,23.3
+Ner Israel Rabbinical College,MD,163532,Private,Northeast,Suburb,0.6418,,,265,11900,11900,6389,100,16.3,
+Notre Dame of Maryland University,MD,163578,Private,Northeast,City,0.714,20,993,808,36070,36070,7052,45.1,33.2,40.9
+St. John's College,MD,163976,Private,Northeast,Suburb,0.5445,29,1365,458,51795,51795,9459,100,18.4,
+Stevenson University,MD,164173,Private,Northeast,Rural,0.6087,22,1097,3375,35490,35490,8332,28.6,30.1,30.7
+Washington College,MD,164216,Private,Northeast,Town,0.4762,,,1449,44820,44820,8087,70.5,18.2,16
+McDaniel College,MD,164270,Private,Northeast,Suburb,0.85,25,1161,1562,41800,41800,6996,22.7,31,26.4
+Hult International Business School,MA,164368,Private,Northeast,City,0.5494,,,512,38850,38850,10726,18.4,4.2,
+American International College,MA,164447,Private,Northeast,City,0.7183,20,997,1336,34470,34470,6262,17.4,48.1,40.6
+Amherst College,MA,164465,Private,Northeast,Suburb,0.129,33,1497,1835,54310,54310,12979,92.6,22.4,20.8
+Anna Maria College,MA,164492,Private,Northeast,Rural,0.7918,,,1118,37130,37130,6343,18.4,35,39.7
+Assumption College,MA,164562,Private,Northeast,City,0.7899,,,2058,39598,39598,8415,50.5,20.3,17.5
+Babson College,MA,164580,Private,Northeast,Suburb,0.2418,30,1347,2342,49664,49664,16318,100,14.3,14.9
+Boston Baptist College,MA,164614,Private,Northeast,City,0.7308,18,970,63,12600,12600,5946,,45.5,
+Bay Path University,MA,164632,Private,Northeast,Suburb,0.6286,23,1086,1944,33557,33557,7892,21.9,63.1,49.7
+Becker College,MA,164720,Private,Northeast,City,0.6941,23,1078,1800,38250,38250,7797,19.7,33,32.9
+Bentley University,MA,164739,Private,Northeast,City,0.4415,29,1319,4203,48000,48000,13808,65.8,13.1,15.6
+Berklee College of Music,MA,164748,Private,Northeast,City,0.5252,,,6197,42750,42750,9503,39,16.3,21.2
+Boston Architectural College,MA,164872,Private,Northeast,City,,,,318,21174,21174,6292,11.8,29.3,
+Boston College,MA,164924,Private,Northeast,City,0.3241,32,1434,9636,53346,53346,14977,59.3,11.9,13.2
+Boston University,MA,164988,Private,Northeast,City,0.2511,31,1401,16716,52082,52082,13657,68.7,13.6,16.9
+Brandeis University,MA,165015,Private,Northeast,City,0.3422,31,1403,3624,53537,53537,12774,66.7,18.2,16.3
+Cambridge College,MA,165167,Private,Northeast,City,,,,742,14940,14940,7817,100,48.1,50.9
+Clark University,MA,165334,Private,Northeast,City,0.5627,,,2205,44400,44400,10701,100,19.9,16.3
+Curry College,MA,165529,Private,Northeast,Suburb,0.9005,21,1018,2535,38936,38936,9884,34.9,25.5,30
+Eastern Nazarene College,MA,165644,Private,Northeast,Suburb,0.6776,21,1049,693,31780,31780,5663,31.5,42.6,30.1
+Emerson College,MA,165662,Private,Northeast,City,0.4606,28,1299,3799,44832,44832,9937,44.5,15.6,13.2
+Emmanuel College,MA,165671,Private,Northeast,City,0.7299,27,1183,1848,38844,38844,8858,47.1,24.1,20.7
+Endicott College,MA,165699,Private,Northeast,Suburb,0.814,,,3197,32154,32154,8537,28.2,15.3,18.9
+Fisher College,MA,165802,Private,Northeast,City,0.6583,,,1466,30499,30499,6594,19,45.4,46.8
+Gordon College,MA,165936,Private,Northeast,Suburb,0.8889,26,1189,1573,36740,36740,8053,88.7,21.9,16.9
+Hampshire College,MA,166018,Private,Northeast,Suburb,0.6282,,,1264,51608,51608,9497,76.8,29.8,13.9
+Harvard University,MA,166027,Private,Northeast,City,0.0516,34,1523,7532,48949,48949,19741,85.9,10.6,25.7
+Hebrew College,MA,166045,Private,Northeast,City,,,,1,,,6612,39.6,4.4,
+Hellenic College-Holy Cross Greek Orthodox School of Theology,MA,166054,Private,Northeast,Suburb,1,22,1142,77,22490,22490,5979,100,26.3,
+College of the Holy Cross,MA,166124,Private,Northeast,City,0.396,,,2827,50630,50630,11142,87.6,15,16.6
+Lasell College,MA,166391,Private,Northeast,City,0.8072,21,1069,1696,34600,34600,8197,36.3,30.6,28.8
+Lesley University,MA,166452,Private,Northeast,City,0.7261,24,1123,2074,26675,26675,8453,24.1,30.2,28.7
+MCPHS University,MA,166656,Private,Northeast,City,0.8386,25,1169,3837,32590,32590,9507,100,28.7,30.5
+Massachusetts Institute of Technology,MA,166683,Private,Northeast,City,0.0717,34,1532,4489,49892,49892,18182,99,17.1,25.9
+Merrimack College,MA,166850,Private,Northeast,Suburb,0.8154,,,3404,40190,40190,8570,49,19.2,20.7
+MGH Institute of Health Professions,MA,166869,Private,Northeast,City,,,,195,,,8723,100,0,28.3
+Montserrat College of Art,MA,166911,Private,Northeast,Suburb,,,,359,32000,32000,6000,47.2,39.1,32.8
+Mount Holyoke College,MA,166939,Private,Northeast,Suburb,0.5084,31,1393,2186,47940,47940,10304,86.9,19,19
+The New England Conservatory of Music,MA,167057,Private,Northeast,City,0.3281,,,413,46930,46930,6539,28.9,12.6,
+New England College of Optometry,MA,167093,Private,Northeast,City,,,,,,,9863,73.4,,
+Nichols College,MA,167260,Private,Northeast,Suburb,0.925,,,1308,34000,34000,7299,43.1,30,31.6
+Northeastern University,MA,167358,Private,Northeast,City,0.2744,33,1482,13666,49497,49497,12822,75.8,12.2,18.5
+College of Our Lady of the Elms,MA,167394,Private,Northeast,Suburb,0.7949,21,1033,1142,34578,34578,6974,38.6,44.6,35.2
+Pine Manor College,MA,167455,Private,Northeast,Suburb,0.5119,,,255,30860,30860,5482,31.3,48.4,42.9
+Regis College,MA,167598,Private,Northeast,Suburb,0.8163,,,965,39820,39820,7933,37.3,29.5,34.9
+Saint John's Seminary,MA,167677,Private,Northeast,City,,,,23,,,4007,39.5,0,
+Simmons University,MA,167783,Private,Northeast,City,0.6044,27,1227,1708,39600,39600,8219,24.9,25.7,20.4
+Smith College,MA,167835,Private,Northeast,Suburb,0.3187,,,2519,50044,50044,11970,82.8,20.2,18.5
+Springfield College,MA,167899,Private,Northeast,City,0.6989,27,1148,2204,36535,36535,7982,100,23.3,31.4
+Stonehill College,MA,167996,Private,Northeast,Suburb,0.7212,,,2494,41300,41300,9305,61.9,16.7,16.4
+Suffolk University,MA,168005,Private,Northeast,City,0.8355,24,1102,4952,37270,37270,11747,52.3,26.2,29.7
+Tufts University,MA,168148,Private,Northeast,Suburb,0.1491,33,1482,5492,54318,54318,12131,63.5,12,15.3
+Wellesley College,MA,168218,Private,Northeast,Suburb,0.2208,32,1448,2375,51148,51148,12371,83,18,17.2
+Wentworth Institute of Technology,MA,168227,Private,Northeast,City,0.9187,25,1181,4204,34977,34977,8494,100,22.7,24.7
+Western New England University,MA,168254,Private,Northeast,City,0.8071,24,1096,2723,35740,35740,9340,66.8,26.2,24.5
+Wheaton College,MA,168281,Private,Northeast,Suburb,0.4789,28,1270,1678,50850,50850,9518,72.5,19.2,14.7
+Wheelock College,MA,168290,Private,Northeast,City,0.7726,16,879,603,36350,36350,6818,33.7,41.7,32.1
+Williams College,MA,168342,Private,Northeast,Town,0.1458,33,1493,2033,53550,53550,12538,83.8,18.9,21.5
+Worcester Polytechnic Institute,MA,168421,Private,Northeast,City,0.4849,,,4337,48628,48628,11971,84.2,12.2,13.4
+Adrian College,MI,168528,Private,Midwest,Town,0.5973,22,1070,1609,36010,36010,7846,51.3,35.5,31
+Albion College,MI,168546,Private,Midwest,Town,0.706,23,1123,1558,43050,43050,7514,82.3,34.7,28
+Alma College,MI,168591,Private,Midwest,Town,0.64,24,1140,1392,38768,38768,7259,63.6,29.2,24.1
+Andrews University,MI,168740,Private,Midwest,Town,0.5766,25,1203,1439,28436,28436,4805,95,26.9,17.2
+Aquinas College,MI,168786,Private,Midwest,City,0.7451,24,1143,1434,31244,31244,6127,40.6,30.1,21.9
+Calvin College,MI,169080,Private,Midwest,City,0.8348,27,1243,3656,33100,33100,8591,100,20.2,13.2
+Cleary University,MI,169327,Private,Midwest,Suburb,0.4774,20,1017,519,19700,19700,5394,6.7,32.8,42.3
+Concordia University-Ann Arbor,MI,169363,Private,Midwest,City,0.4569,22,1085,815,28420,28420,5108,100,33.4,31.8
+College for Creative Studies,MI,169442,Private,Midwest,City,0.4899,24,1149,1347,42460,42460,10293,100,31.4,22.8
+Davenport University,MI,169479,Private,Midwest,Suburb,0.8192,,,5030,17558,17558,6685,17.3,40.3,39.9
+University of Detroit Mercy,MI,169716,Private,Midwest,City,0.6471,25,1163,2674,41158,41158,9299,100,29.6,28.7
+Kettering University,MI,169983,Private,Midwest,City,0.7033,27,1270,1850,42490,42490,8638,100,20.1,18.2
+Cornerstone University,MI,170037,Private,Midwest,City,0.6737,22,1069,1681,27520,27520,5858,98.4,37.2,34.8
+Great Lakes Christian College,MI,170091,Private,Midwest,Suburb,,,,129,15550,15550,3462,100,56.5,29
+Hillsdale College,MI,170286,Private,Midwest,Town,0.4149,30,1381,1511,26742,26742,6733,99.3,0,
+Hope College,MI,170301,Private,Midwest,City,0.7363,27,1240,3029,32780,32780,8176,66.5,18.3,14.9
+Kalamazoo College,MI,170532,Private,Midwest,City,0.7338,28,1306,1415,46840,46840,8017,79.5,21.4,13.7
+Lawrence Technological University,MI,170675,Private,Midwest,City,0.5964,25,1163,2191,32190,32190,7503,39.8,22,22.3
+Madonna University,MI,170806,Private,Midwest,City,0.7433,22,1053,2291,20700,20700,7398,25.7,32,41.8
+Marygrove College,MI,170842,Private,Midwest,City,0.4098,19,1021,283,22750,22750,6264,93,62.7,41.3
+Rochester College,MI,170967,Private,Midwest,Suburb,1,20,997,987,22312,22312,6071,86.1,36.6,40.6
+Northwood University,MI,171492,Private,Midwest,City,0.6927,23,1095,2880,26080,26080,6308,100,31,39.7
+Olivet College,MI,171599,Private,Midwest,Rural,0.7007,,,1039,26695,26695,6026,100,47.5,33.4
+Kuyper College,MI,171881,Private,Midwest,Suburb,0.6614,23,1092,180,21090,21090,5253,41.4,38,
+Siena Heights University,MI,172264,Private,Midwest,Town,0.6712,,,2189,25932,25932,6258,97.8,38.4,44.3
+Spring Arbor University,MI,172334,Private,Midwest,Suburb,0.6702,24,1118,1835,27750,27750,5499,27.2,40.9,35.2
+Finlandia University,MI,172440,Private,Midwest,Town,0.3564,20,966,365,22758,22758,5033,96.9,57.2,36.5
+Walsh College,MI,172608,Private,Midwest,City,,,,880,,,8766,15.5,31.4,48.2
+Augsburg University,MN,173045,Private,Midwest,City,0.6458,22,1085,2405,37615,37615,7591,47,42.4,28.9
+Bethany Lutheran College,MN,173142,Private,Midwest,City,0.7912,23,1126,523,26830,26830,6448,71.9,30.3,
+Bethel University,MN,173160,Private,Midwest,Suburb,0.835,24,1181,2777,36210,36210,7780,49.4,23.9,18.6
+Carleton College,MN,173258,Private,Midwest,Town,0.212,33,1469,2023,52782,52782,11601,84.1,14.4,15.7
+Concordia College at Moorhead,MN,173300,Private,Midwest,Suburb,0.616,25,1213,1980,38378,38378,7279,67.2,19.7,12.7
+Concordia University-Saint Paul,MN,173328,Private,Midwest,City,0.5487,,,2575,21750,21750,4853,33.9,32.4,33.6
+Martin Luther College,MN,173452,Private,Midwest,Town,0.7061,25,1194,797,14680,14680,4383,78.6,26.3,
+Gustavus Adolphus College,MN,173647,Private,Midwest,Town,0.6783,,,2170,44080,44080,7202,77.7,24.4,14.7
+Hamline University,MN,173665,Private,Midwest,City,0.6911,23,1145,2132,40332,40332,7497,51.3,34.3,23.2
+Macalester College,MN,173902,Private,Midwest,City,0.4058,31,1405,2116,52464,52464,10322,82,15.1,12.8
+Minneapolis College of Art and Design,MN,174127,Private,Midwest,City,0.5853,23,1141,675,37812,37812,7259,30.2,41.7,20.8
+North Central University,MN,174437,Private,Midwest,City,0.9074,23,1118,893,23480,23480,6677,42.1,37.1,22.1
+University of Northwestern-St Paul,MN,174491,Private,Midwest,Suburb,0.934,24,1174,1827,30794,30794,6332,100,20.5,16.4
+Northwestern Health Sciences University,MN,174507,Private,Midwest,City,,,,43,10684,10684,5665,50,16.5,24.9
+Oak Hills Christian College,MN,174525,Private,Midwest,Town,0.2653,9,,94,17314,17314,3854,77.8,53.2,
+College of Saint Benedict,MN,174747,Private,Midwest,Suburb,0.8058,25,1208,1937,43738,43738,8545,83.9,23.5,21.4
+Saint Johns University,MN,174792,Private,Midwest,Rural,0.8023,25,1187,1720,43356,43356,8457,84.1,20.2,17.5
+Saint Mary's University of Minnesota,MN,174817,Private,Midwest,Town,0.6438,23,1122,1471,33560,33560,6825,26.6,30.2,26.2
+St Olaf College,MN,174844,Private,Midwest,Town,0.4322,28,1312,3004,46000,46000,8726,73.3,16.2,12.9
+Crown College,MN,174862,Private,Midwest,Rural,0.512,22,1066,853,25430,25430,4861,36.7,40.5,26.6
+The College of Saint Scholastica,MN,174899,Private,Midwest,City,0.6825,23,1141,2626,36212,36212,7036,52.3,29.6,28.5
+University of St Thomas,MN,174914,Private,Midwest,City,0.8416,27,1267,6085,41133,41133,10446,52.7,17.2,13.8
+St Catherine University,MN,175005,Private,Midwest,City,0.7013,23,1146,3100,38170,38170,7200,56.3,38.7,28.8
+Belhaven University,MS,175421,Private,Southeast,City,0.5912,,,2410,24250,24250,6331,81.5,58.6,39.5
+Blue Mountain College,MS,175430,Private,Southeast,Rural,0.9952,21,1047,587,11760,11760,5087,67.8,49.8,37
+Millsaps College,MS,175980,Private,Southeast,City,0.4895,25,1215,801,38930,38930,7631,82.8,23.7,16.7
+Mississippi College,MS,176053,Private,Southeast,Suburb,0.3903,26,1229,3041,17392,17392,7297,54.4,29.4,25.7
+Rust College,MS,176318,Private,Southeast,Town,0.4322,,,860,9700,9700,4567,93.2,80,46
+Tougaloo College,MS,176406,Private,Southeast,City,0.7472,20,1025,789,10600,10600,4974,85.5,85.5,29.8
+William Carey University,MS,176479,Private,Southeast,City,0.4882,25,1179,2086,12300,12300,6570,45.7,50.6,35.9
+Avila University,MO,176628,Private,Midwest,City,0.3886,21,1060,1229,28020,28020,6478,41.6,38.3,36.7
+Baptist Bible College,MO,176664,Private,Midwest,City,,,,268,13850,13850,4097,42.4,58.1,
+Cox College,MO,176770,Private,Midwest,City,1,,,730,11410,11410,7041,43.8,39.2,41
+Calvary University,MO,176789,Private,Midwest,City,0.7436,22,1041,222,11152,11152,4200,60.4,45.5,34.6
+Central Christian College of the Bible,MO,176910,Private,Midwest,Town,0.2135,19,960,226,13900,13900,4017,66.7,59.3,31.3
+Central Methodist University-College of Liberal Arts and Sciences,MO,176947,Private,Midwest,Town,0.9561,23,1121,1059,23770,23770,6158,98.9,38.9,43.7
+Cleveland University-Kansas City,KS,177038,Private,Midwest,City,0.8,,,39,14800,14800,5540,73,46.2,
+Columbia College,MO,177065,Private,Midwest,City,,,,11975,21936,21936,7707,100,47.9,48.6
+Conception Seminary College,MO,177083,Private,Midwest,Rural,1,23,1061,67,21526,21526,4397,85.7,26.4,
+Culver-Stockton College,MO,177144,Private,Midwest,Rural,0.5466,21,1040,1029,26040,26040,5634,60,38,31.9
+Drury University,MO,177214,Private,Midwest,City,0.6608,26,1226,2971,27015,27015,6488,100,49,41.3
+Evangel University,MO,177339,Private,Midwest,City,0.9935,22,1102,1627,22745,22745,6427,53.3,43.8,26.1
+Fontbonne University,MO,177418,Private,Midwest,Suburb,0.9236,23,1145,874,25460,25460,6860,36.8,36,32.2
+Hannibal-LaGrange University,MO,177542,Private,Midwest,Town,0.5455,,,744,21810,21810,4782,100,34.8,45.7
+Barnes-Jewish College Goldfarb School of Nursing,MO,177719,Private,Midwest,City,,,,569,,,7194,48.1,24.5,30.9
+Kansas City Art Institute,MO,177746,Private,Midwest,City,0.6719,24,1158,659,37800,37800,7117,55.5,42.9,21
+Kenrick Glennon Seminary,MO,177816,Private,Midwest,Suburb,0.7059,,,48,21540,21540,4368,55.3,7.6,
+Lindenwood University,MO,177968,Private,Midwest,City,0.7375,23,1097,6807,16960,16960,7468,100,33.8,35.1
+Logan University,MO,177986,Private,Midwest,Suburb,1,21,977,98,6860,6860,6672,41.5,28.2,36.5
+Maryville University of Saint Louis,MO,178059,Private,Midwest,Suburb,0.9188,24,1176,3112,28470,28470,8126,22,30.1,29.6
+Midwestern Baptist Theological Seminary,MO,178208,Private,Midwest,City,0.9455,23,1125,417,7810,7810,4835,26.1,35.7,
+Missouri Baptist University,MO,178244,Private,Midwest,Suburb,0.545,21,1041,1819,26020,26020,5654,22.9,18.1,35.9
+Missouri Valley College,MO,178369,Private,Midwest,Town,0.5365,,,1329,20200,20200,4595,60.5,37.7,40.1
+Ozark Christian College,MO,178679,Private,Midwest,City,0.4922,22,1107,577,12720,12720,5556,56.1,41.3,25.9
+College of the Ozarks,MO,178697,Private,Midwest,Town,0.1348,24,1165,1491,19130,19130,7410,70.1,51.7,32.7
+Park University,MO,178721,Private,Midwest,Suburb,0.6904,,,9442,10774,10774,6495,11.4,33.2,48
+Rockhurst University,MO,179043,Private,Midwest,City,0.7246,25,1198,1623,36590,36590,7102,50,13.3,20.6
+Saint Louis University,MO,179159,Private,Midwest,City,0.6443,28,1319,7209,42166,42166,10208,67.5,12.2,22.4
+Saint Louis Christian College,MO,179256,Private,Midwest,Suburb,0.24,18,950,78,11610,11610,3458,20,60.2,
+St. Louis College of Pharmacy,MO,179265,Private,Midwest,City,0.7202,26,1246,448,29451,29451,9228,100,31.4,22.4
+Southwest Baptist University,MO,179326,Private,Midwest,Town,0.732,23,1136,2252,23358,23358,5838,47.4,38.9,35.5
+Saint Luke's College of Health Sciences,MO,179450,Private,Midwest,City,,,,478,,,8508,100,25.1,29.8
+Stephens College,MO,179548,Private,Midwest,City,0.5311,22,1099,647,30344,30344,6432,87,46.2,30.9
+Washington University in St Louis,MO,179867,Private,Midwest,Suburb,0.1596,33,1508,7253,51533,51533,14653,67.2,10,11.4
+Webster University,MO,179894,Private,Midwest,Suburb,0.5356,24,1164,2954,27100,27100,8920,100,33,30.1
+Westminster College,MO,179946,Private,Midwest,Town,0.9014,24,1162,764,25940,25940,6324,100,29.6,27
+William Jewell College,MO,179955,Private,Midwest,Suburb,0.4763,26,1226,928,33620,33620,6926,60.1,23.8,20.1
+William Woods University,MO,179964,Private,Midwest,Town,0.7486,23,1141,919,23260,23260,5428,16.8,28.2,29.8
+Carroll College,MT,180106,Private,West,Town,0.7781,25,1199,1309,34480,34480,6372,62.9,20.9,19.7
+University of Providence,MT,180258,Private,West,City,0.616,,,923,24440,24440,5481,53.2,26.4,40
+Rocky Mountain College,MT,180595,Private,West,City,0.6438,23,1099,884,27566,27566,6337,89.5,32.6,31.5
+Bellevue University,NE,180814,Private,Midwest,Suburb,,,,5665,7752,7752,5696,21.6,29.2,44.9
+Clarkson College,NE,180832,Private,Midwest,City,0.6207,23,1125,678,16290,16290,6031,76.3,33,33.3
+Bryan College of Health Sciences,NE,180878,Private,Midwest,City,0.5234,23,1125,552,15190,15190,7136,49.4,32.7,
+Concordia University-Nebraska,NE,180984,Private,Midwest,Town,0.7495,24,1134,1233,31000,31000,4868,90.7,18.7,18.3
+Creighton University,NE,181002,Private,Midwest,City,0.7201,28,1283,4212,38750,38750,9472,65.4,14.2,18.4
+Doane University-Arts & Sciences,NE,181020,Private,Midwest,Town,0.6518,23,1125,1068,32250,32250,6969,68.9,28.6,29.9
+Hastings College,NE,181127,Private,Midwest,Town,0.6833,23,1118,1082,29200,29200,6169,100,29.5,27.5
+Nebraska Methodist College of Nursing & Allied Health,NE,181297,Private,Midwest,City,0.6818,23,1145,861,15980,15980,5613,87.5,31.7,30.3
+Midland University,NE,181330,Private,Midwest,Town,0.643,21,1039,1211,31630,31630,5745,100,28.9,34.1
+Nebraska Christian College of Hope International University,NE,181376,Private,Midwest,Rural,0.4416,19,989,146,16830,16830,5581,24,44.2,38.6
+Nebraska Wesleyan University,NE,181446,Private,Midwest,City,0.7126,25,1213,1748,32894,32894,6730,49.4,27.4,26.2
+Summit Christian College,NE,181543,Private,Midwest,Town,0.4,20,1010,25,6560,6560,3536,,51.4,
+College of Saint Mary,NE,181604,Private,Midwest,City,0.5608,,,780,19950,19950,6302,97,37,26
+Union College,NE,181738,Private,Midwest,City,0.5995,23,1112,747,23070,23070,5453,96.9,36.7,24.5
+York College,NE,181853,Private,Midwest,Town,0.4849,21,1041,428,18760,18760,5299,58.8,48.2,33.5
+Sierra Nevada College,NV,182458,Private,West,Town,0.6898,22,1048,433,32639,32639,5643,25,37.9,28.1
+Colby-Sawyer College,NH,182634,Private,Northeast,Rural,0.8727,,,963,41186,41186,7259,100,27.2,24.1
+Dartmouth College,NH,182670,Private,Northeast,Town,0.1045,32,1483,4315,53368,53368,14996,81.5,14.9,17.4
+Franklin Pierce University,NH,182795,Private,Northeast,Rural,0.7643,,,1710,34995,34995,5787,30.5,30,29.8
+Northeast Catholic College,NH,182917,Private,Northeast,Rural,1,,,70,24000,24000,3696,35.3,45.6,
+New England College,NH,182980,Private,Northeast,Rural,0.9959,,,1819,36954,36954,6143,23.6,52,46
+Southern New Hampshire University,NH,183026,Private,Northeast,Suburb,0.7805,,,68214,31136,31136,8012,100,45,48.3
+Rivier University,NH,183211,Private,Northeast,City,0.6794,,,1408,31090,31090,7276,27.3,26.8,37.4
+Saint Anselm College,NH,183239,Private,Northeast,Suburb,0.7605,26,1227,1956,40200,40200,8866,74.6,13.4,13.1
+Thomas More College of Liberal Arts,NH,183275,Private,Northeast,Suburb,1,,1220,90,21000,21000,5575,100,48.4,
+Beth Medrash Govoha,NJ,183804,Private,Northeast,City,,,,2629,,,6879,10.4,69.2,30.8
+Bloomfield College,NJ,183822,Private,Northeast,Suburb,0.6398,17,934,1833,29300,29300,8373,100,68.4,50.8
+Caldwell University,NJ,183910,Private,Northeast,Suburb,0.6374,20,1035,1596,33950,33950,7842,100,42.7,43.1
+Centenary University,NJ,183974,Private,Northeast,Suburb,0.87,22,1014,1351,32580,32580,7360,100,33.8,38.2
+Drew University,NJ,184348,Private,Northeast,Suburb,0.6343,,,1404,49468,49468,9111,61.2,29.3,24.5
+Fairleigh Dickinson University-Metropolitan Campus,NJ,184603,Private,Northeast,Suburb,0.8753,23,1104,3391,39446,39446,9115,25.9,28.4,42.6
+Felician University,NJ,184612,Private,Northeast,Suburb,0.7941,20,993,1616,33650,33650,6698,40.4,53.6,49.5
+Fairleigh Dickinson University-Florham Campus,NJ,184694,Private,Northeast,Suburb,0.839,24,1140,2731,41780,41780,9164,34.2,34,42.6
+Georgian Court University,NJ,184773,Private,Northeast,City,0.6886,20,1015,1447,32260,32260,8215,33.7,38.6,42.1
+Monmouth University,NJ,185572,Private,Northeast,Suburb,0.7394,23,1088,4683,36732,36732,8902,100,27.9,32.3
+Princeton University,NJ,186131,Private,Northeast,Suburb,0.0641,33,1500,5246,47140,47140,17519,84.9,16.3,27.7
+Rabbinical College of America,NJ,186186,Private,Northeast,Suburb,0.9293,,,227,11100,11100,3763,94.7,38.9,11.6
+Rider University,NJ,186283,Private,Northeast,Suburb,0.6712,23,1097,4042,41310,41310,11040,45.4,29,29.4
+Saint Peter's University,NJ,186432,Private,Northeast,City,0.9129,20,1021,2547,36402,36402,8789,37.4,60.4,48
+Seton Hall University,NJ,186584,Private,Northeast,Suburb,0.7316,26,1222,5717,40588,40588,9493,95.6,28.1,27.9
+College of Saint Elizabeth,NJ,186618,Private,Northeast,Suburb,0.6457,,885,749,33131,33131,7374,29.3,49.9,47.1
+Stevens Institute of Technology,NJ,186867,Private,Northeast,Suburb,0.4388,31,1410,3114,50554,50554,12940,100,15.6,15.5
+Talmudical Academy-New Jersey,NJ,186900,Private,Northeast,Suburb,0.8125,,,60,13300,13300,2187,,50,
+University of the Southwest,NM,188182,Private,West,Rural,0.352,,,509,16200,16200,4095,37.5,51.5,46.9
+Adelphi University,NY,188429,Private,Northeast,Suburb,0.7312,25,1164,5162,37170,37170,12223,32.3,32.3,35.4
+Albany College of Pharmacy and Health Sciences,NY,188526,Private,Northeast,City,0.7855,26,1200,886,33621,33621,8484,81.7,24.9,21.7
+Alfred University,NY,188641,Private,Northeast,Town,0.6273,24,1116,1621,28114,28114,6474,79,37.5,24.5
+Bard College,NY,189088,Private,Northeast,Town,0.5821,,,1846,52906,52906,10333,63.2,21.9,12.2
+Barnard College,NY,189097,Private,Northeast,City,0.1542,32,1430,2540,52662,52662,13414,62.5,17.3,15.6
+Beth Hamedrash Shaarei Yosher Institute,NY,189273,Private,Northeast,City,0.9643,,,54,9150,9150,2383,,69.4,
+Boricua College,NY,189413,Private,Northeast,City,,,,769,11025,11025,4510,45.3,89.3,52.3
+Canisius College,NY,189705,Private,Northeast,City,0.7819,25,1172,2324,36454,36454,8419,48.3,31,23.1
+Cazenovia College,NY,189848,Private,Northeast,Town,0.924,,,836,33656,33656,6975,100,46.3,29.7
+Central Yeshiva Tomchei Tmimim Lubavitz,NY,189857,Private,Northeast,City,0.9149,,,453,7700,7700,3080,71.4,60,27.1
+Clarkson University,NY,190044,Private,Northeast,Town,0.6571,27,1247,2991,47950,47950,10756,72.9,22.4,15.3
+Colgate University,NY,190099,Private,Northeast,Town,0.2814,32,1443,2854,53980,53980,11971,100,11.7,18.1
+Metropolitan College of New York,NY,190114,Private,Northeast,City,0.9127,,,772,19180,19180,7136,9.4,75.9,49.6
+Columbia University in the City of New York,NY,190150,Private,Northeast,City,0.0661,33,1488,8170,57208,57208,18713,46.9,22.1,25
+Concordia College-New York,NY,190248,Private,Northeast,Suburb,0.7553,21,1041,1086,31600,31600,5598,100,37,39.8
+Cooper Union for the Advancement of Science and Art,NY,190372,Private,Northeast,City,0.1305,31,1424,854,45100,45100,12493,100,23.7,18.6
+Cornell University,NY,190415,Private,Northeast,City,0.1267,33,1477,14815,52853,52853,14876,90.5,15.5,15.4
+D'Youville College,NY,190716,Private,Northeast,City,0.9667,23,938,1664,25870,25870,6437,65.5,35.1,27.1
+Daemen College,NY,190725,Private,Northeast,Suburb,0.4942,,,1768,27990,27990,6698,52.7,34.5,28.8
+Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,NY,190752,Private,Northeast,City,0.9474,,,33,11750,11750,5500,88.9,14.7,
+Dominican College of Blauvelt,NY,190761,Private,Northeast,Suburb,0.6895,20,986,1413,28448,28448,8326,35,42.4,32.1
+Elmira College,NY,190983,Private,Northeast,City,0.8511,,,908,41900,41900,5685,57.6,33.3,26.8
+Fordham University,NY,191241,Private,Northeast,City,0.4644,29,1337,9403,50986,50986,13551,100,19.1,17.6
+Hamilton College,NY,191515,Private,Northeast,Suburb,0.2422,32,1452,1885,52770,52770,12204,88.2,15.3,13.3
+Hartwick College,NY,191533,Private,Northeast,Town,0.8857,24,1047,1194,44134,44134,7881,99.1,36.2,27.1
+Hilbert College,NY,191621,Private,Northeast,Suburb,0.8676,,,729,21800,21800,5725,36.5,47.9,38.1
+Hobart William Smith Colleges,NY,191630,Private,Northeast,Town,0.6392,28,1270,2220,53525,53525,9505,84.2,16.9,12.5
+Hofstra University,NY,191649,Private,Northeast,Suburb,0.6395,27,1237,6783,43960,43960,13227,43.4,21.4,23.5
+Houghton College,NY,191676,Private,Northeast,Rural,0.9135,26,1205,1026,31540,31540,6223,58.3,39.8,17
+Iona College,NY,191931,Private,Northeast,Suburb,0.922,23,1090,2989,37682,37682,9462,52.7,30.3,31.3
+Ithaca College,NY,191968,Private,Northeast,Suburb,0.7052,,,6021,42884,42884,8894,71.2,19.4,13.8
+Jewish Theological Seminary of America,NY,192040,Private,Northeast,City,0.5268,31,1396,158,54684,54684,11543,52.9,5.7,
+The Juilliard School,NY,192110,Private,Northeast,City,0.0592,,,486,43170,43170,10430,37.8,14.1,
+Kehilath Yakov Rabbinical Seminary,NY,192165,Private,Northeast,Rural,,,,159,9700,9700,2010,,81.9,
+Keuka College,NY,192192,Private,Northeast,Town,0.7003,22,1066,1640,30946,30946,6668,92.8,46.3,38.2
+Le Moyne College,NY,192323,Private,Northeast,Suburb,0.6395,25,1171,2676,33905,33905,8948,50,29.8,22.3
+LIU Brooklyn,NY,192439,Private,Northeast,City,0.8426,23,1124,3748,36978,36978,11102,41.7,51.4,35.6
+Long Island University,NY,192448,Private,Northeast,Suburb,0.8269,24,1154,3133,36978,36978,11455,43.2,15.4,35.6
+LIU Brentwood,NY,192563,Private,Northeast,Suburb,,,,1,,,,,40,35.6
+Machzikei Hadath Rabbinical College,NY,192624,Private,Northeast,City,0.8308,,,146,11300,11300,4210,,84,
+Manhattan College,NY,192703,Private,Northeast,City,0.7539,26,1169,3664,41412,41412,10975,51.7,28.6,25.4
+Manhattan School of Music,NY,192712,Private,Northeast,City,0.4287,,,488,44600,44600,8694,29.8,12.9,
+Manhattanville College,NY,192749,Private,Northeast,Suburb,0.8206,,,1674,37910,37910,8614,30.6,31.9,30.1
+Marist College,NY,192819,Private,Northeast,Suburb,0.4262,,,5404,36780,36780,9234,43.1,15.2,18.8
+Marymount Manhattan College,NY,192864,Private,Northeast,City,0.7953,24,1149,2109,31950,31950,8699,100,24.3,22.6
+Medaille College,NY,192925,Private,Northeast,City,0.7453,20,978,1476,28360,28360,5581,20.9,50.4,39.2
+Mercy College,NY,193016,Private,Northeast,Suburb,0.7873,,,6029,18714,18714,9216,25.2,48.7,41.9
+Mesivta Torah Vodaath Rabbinical Seminary,NY,193052,Private,Northeast,City,0.8333,,,252,11510,11510,1687,,66.2,40.7
+Mesivtha Tifereth Jerusalem of America,NY,193070,Private,Northeast,City,0.8261,,,49,11250,11250,4583,,62.5,
+Mirrer Yeshiva Cent Institute,NY,193247,Private,Northeast,City,1,,,137,7260,7260,3223,95.2,51.5,
+Molloy College,NY,193292,Private,Northeast,Suburb,0.7603,24,1148,3505,30310,30310,10842,27.6,29.4,35.3
+Mount Saint Mary College,NY,193353,Private,Northeast,Suburb,0.9338,22,1081,2030,29920,29920,8494,34.9,32.1,37.2
+College of Mount Saint Vincent,NY,193399,Private,Northeast,City,0.9109,20,981,1676,37100,37100,8612,37.3,45.9,41
+Nazareth College,NY,193584,Private,Northeast,Suburb,0.6264,,,2175,33549,33549,8327,42,29.4,18.2
+The New School,NY,193654,Private,Northeast,City,0.6151,26,1223,6982,47276,47276,11317,17.5,20.7,19.4
+New York University,NY,193900,Private,Northeast,City,0.2766,31,1408,26055,50464,50464,13719,99.9,20.3,21.5
+Niagara University,NY,193973,Private,Northeast,Suburb,0.842,24,1121,2902,31950,31950,8620,100,26.6,24.2
+New York Institute of Technology,NY,194091,Private,Northeast,Suburb,0.7693,24,1139,3619,35870,35870,11792,31.2,41.3,33
+New York School of Interior Design,NY,194116,Private,Northeast,City,0.3333,24,1058,307,23590,23590,,5.8,15.5,36.4
+Nyack College,NY,194161,Private,Northeast,Suburb,0.984,20,995,1387,25350,25350,6799,39.5,56.5,37.4
+Pace University,NY,194310,Private,Northeast,City,0.7956,24,1144,8456,43986,43986,12333,100,27.7,29.4
+Paul Smiths College of Arts and Science,NY,194392,Private,Northeast,Rural,0.7274,,,767,27621,27621,5807,72.2,39.4,29.7
+Davis College,NY,194569,Private,Northeast,Suburb,0.4286,,,181,16800,16800,5762,100,40,27.2
+Pratt Institute-Main,NY,194578,Private,Northeast,City,0.568,27,1201,3602,50038,50038,9579,14.1,21.2,19.3
+Rabbinical Academy Mesivta Rabbi Chaim Berlin,NY,194657,Private,Northeast,City,0.9667,,,151,12450,12450,4047,58.3,24.5,
+Rabbinical College Bobover Yeshiva Bnei Zion,NY,194666,Private,Northeast,City,,,,305,7750,7750,3195,,87.2,
+Rabbinical Seminary of America,NY,194763,Private,Northeast,City,0.9902,,,263,9800,9800,2251,92.9,16.1,
+Rensselaer Polytechnic Institute,NY,194824,Private,Northeast,City,0.4317,30,1405,6314,52305,52305,12737,88.9,17,13.7
+Roberts Wesleyan College,NY,194958,Private,Northeast,Suburb,0.6887,24,1144,1297,30686,30686,6469,93,6.1,27.2
+Rochester Institute of Technology,NY,195003,Private,Northeast,Suburb,0.5672,29,1315,12858,40068,40068,10342,68.4,28.9,19.5
+University of Rochester,NY,195030,Private,Northeast,City,0.3421,31,1410,6320,52020,52020,12675,93.3,17.8,18.7
+The Sage Colleges,NY,195128,Private,Northeast,City,0.556,,,1275,29864,29864,6337,89.8,47.1,37.5
+St Bonaventure University,NY,195164,Private,Northeast,Town,0.7053,24,1140,1592,33331,33331,6244,67.5,26.5,18.6
+St Francis College,NY,195173,Private,Northeast,City,0.6321,22,1043,2267,26188,26188,9212,24.5,43.4,41.1
+St Lawrence University,NY,195216,Private,Northeast,Town,0.4833,28,1301,2373,52990,52990,9511,95.8,18.1,13.2
+The College of Saint Rose,NY,195234,Private,Northeast,City,0.8273,,,2490,31612,31612,7991,52.9,42,29.4
+St. Thomas Aquinas College,NY,195243,Private,Northeast,Suburb,0.7799,20,1002,1114,30750,30750,8967,36.5,24.5,31.7
+Sarah Lawrence College,NY,195304,Private,Northeast,Suburb,0.5319,29,1342,1355,54010,54010,9831,35.2,16.9,10.8
+Sh'or Yoshuv Rabbinical College,NY,195438,Private,Northeast,Suburb,0.8,,,130,9460,9460,3882,90.6,9.5,
+Siena College,NY,195474,Private,Northeast,Suburb,0.7785,,,3132,35735,35735,8574,61.5,25.7,20.5
+Skidmore College,NY,195526,Private,Northeast,Suburb,0.2452,29,1330,2659,52596,52596,9661,80.7,13.1,14.8
+St. Joseph's College-New York,NY,195544,Private,Northeast,City,0.6768,20,974,924,26550,26550,8924,100,42.2,37.6
+St. Joseph's College-Long Island,NY,195562,Private,Northeast,Suburb,0.7077,24,1121,3037,26560,26560,8857,100,29,
+Saint John Fisher College,NY,195720,Private,Northeast,Suburb,0.6453,24,1158,2724,33120,33120,9216,100,29.3,25.2
+St John's University-New York,NY,195809,Private,Northeast,City,0.6773,26,1171,11756,40520,40520,12336,44.8,28.1,31.6
+Syracuse University,NY,196413,Private,Northeast,City,0.4688,28,1277,14788,46755,46755,11299,67.7,21.4,18.9
+Torah Temimah Talmudical Seminary,NY,196583,Private,Northeast,City,0.9231,,,66,10750,10750,5984,,26.9,
+Touro College,NY,196592,Private,Northeast,City,0.7437,,,5670,18200,18200,7500,38.6,38.3,38.3
+Excelsior College,NY,196680,Private,Northeast,City,,,,31039,,,,,10.2,47.7
+Union College,NY,196866,Private,Northeast,City,0.3737,,,2167,53490,53490,11293,92.6,12.8,13
+United Talmudical Seminary,NY,197018,Private,Northeast,City,,,,1944,13800,13800,2873,50.2,84.7,
+Utica College,NY,197045,Private,Northeast,City,0.8366,,,3595,20676,20676,7874,34.9,35.9,31.6
+Vassar College,NY,197133,Private,Northeast,Suburb,0.2378,32,1429,2323,55210,55210,11566,84.2,23.8,14.2
+Wagner College,NY,197197,Private,Northeast,City,0.6969,,,1763,45380,45380,8554,97.4,21.3,28.5
+Webb Institute,NY,197221,Private,Northeast,Suburb,0.3491,32,1483,98,48775,48775,9839,52.9,6.5,
+Wells College,NY,197230,Private,Northeast,Rural,0.7974,,,482,39600,39600,6939,69.5,48,27.1
+Yeshiva Karlin Stolin,NY,197601,Private,Northeast,City,0.9556,,,151,12000,12000,5028,,85.9,
+Yeshiva Derech Chaim,NY,197647,Private,Northeast,City,0.6304,,,83,11800,11800,2478,65.2,49.4,
+Yeshiva of Nitra Rabbinical College,NY,197674,Private,Northeast,Suburb,,,,186,8500,8500,2362,89.7,77.7,
+Yeshiva Shaar Hatorah,NY,197692,Private,Northeast,City,0.7368,,,82,15235,15235,6970,,9.5,
+Yeshiva University,NY,197708,Private,Northeast,City,0.6282,26,1272,2703,42000,42000,12238,49.7,16.4,14.4
+Yeshivath Viznitz,NY,197735,Private,Northeast,Suburb,0.975,,,517,10000,10000,3067,68.1,86.9,
+Barton College,NC,197911,Private,Southeast,Town,0.3891,21,1045,877,29998,29998,6057,69,50.8,35
+Belmont Abbey College,NC,197984,Private,Southeast,Suburb,0.9919,21,1065,1501,18500,18500,4793,54.3,40.4,27.4
+Bennett College,NC,197993,Private,Southeast,City,0.8893,16,851,409,18513,18513,4738,63.3,67.5,31.7
+Brevard College,NC,198066,Private,Southeast,Town,0.4502,,,668,28640,28640,5067,100,42.8,29.5
+Campbell University,NC,198136,Private,Southeast,Town,0.8058,23,1113,4328,31190,31190,8487,34,37.2,31.1
+Catawba College,NC,198215,Private,Southeast,Suburb,0.424,21,1030,1321,29920,29920,6758,60.2,40.9,29.9
+Chowan University,NC,198303,Private,Southeast,Town,0.6004,16,859,1494,24480,24480,6922,100,74.4,37
+Davidson College,NC,198385,Private,Southeast,Suburb,0.2024,32,1423,1800,49949,49949,11823,98.5,15.3,15.8
+Duke University,NC,198419,Private,Southeast,City,0.0986,33,1488,6552,53500,53500,15844,90.1,12.4,13.5
+Elon University,NC,198516,Private,Southeast,Suburb,0.6653,27,1262,6045,34273,34273,9190,73.8,8.4,9.1
+Gardner-Webb University,NC,198561,Private,Southeast,Town,0.527,22,1102,2210,30700,30700,6884,97.5,41.2,35.5
+Greensboro College,NC,198598,Private,Southeast,City,0.4069,20,1023,821,29120,29120,6106,100,46,31.6
+Guilford College,NC,198613,Private,Southeast,City,0.9072,,,1502,35563,35563,6133,61.7,41.3,26.3
+Heritage Bible College,NC,198677,Private,Southeast,Rural,,,,42,8328,8328,2576,,63.2,
+High Point University,NC,198695,Private,Southeast,City,0.8066,24,1161,4407,34005,34005,7424,99.7,9.6,14.8
+Johnson C Smith University,NC,198756,Private,Southeast,City,0.381,17,868,1392,18236,18236,6298,55.1,73.1,36.4
+Lees-McRae College,NC,198808,Private,Southeast,Rural,0.7076,,,920,25878,25878,4680,48.7,47.5,40.1
+Lenoir-Rhyne University,NC,198835,Private,Southeast,City,0.739,,1070,1573,35350,35350,7295,93.2,39.5,31.7
+Livingstone College,NC,198862,Private,Southeast,Suburb,0.3724,15,822,1143,17763,17763,5157,84.6,83.6,39.2
+Mars Hill University,NC,198899,Private,Southeast,Suburb,0.5822,20,1010,1255,31804,31804,5182,97.2,56.2,34.4
+Meredith College,NC,198950,Private,Southeast,City,0.6891,23,1111,1638,35916,35916,7270,100,30.6,22
+Methodist University,NC,198969,Private,Southeast,City,0.572,21,1050,1908,32860,32860,7160,63,38.5,32.1
+Montreat College,NC,199032,Private,Southeast,Suburb,0.6515,21,1040,695,25730,25730,5337,25,45.4,30.3
+University of Mount Olive,NC,199069,Private,Southeast,Town,0.491,20,988,3061,19700,19700,7137,100,50.1,43.3
+North Carolina Wesleyan College,NC,199209,Private,Southeast,City,0.5297,19,967,2086,29900,29900,5987,22.2,55.3,46.8
+William Peace University,NC,199272,Private,Southeast,City,0.5908,20,1033,927,28700,28700,5574,29.2,56.7,29.4
+Pfeiffer University,NC,199306,Private,Southeast,Rural,0.6602,19,997,813,29574,29574,6659,100,48.4,33.3
+Queens University of Charlotte,NC,199412,Private,Southeast,City,0.7916,24,1132,1602,33532,33532,7439,46.7,24.5,21.9
+Mid-Atlantic Christian University,NC,199458,Private,Southeast,Town,0.5344,20,980,192,14080,14080,4964,100,60.8,35
+Saint Augustine's University,NC,199582,Private,Southeast,City,0.7611,15,834,974,17890,17890,5373,63.5,82.3,34.5
+Salem College,NC,199607,Private,Southeast,City,0.5684,26,1211,813,28566,28566,6092,43.5,52.9,32.7
+Shaw University,NC,199643,Private,Southeast,City,0.5286,,,1545,16480,16480,5210,57.2,81.7,40.1
+St. Andrews University,NC,199698,Private,Southeast,Town,0.4123,20,1005,612,25874,25874,5077,60.7,37.8,36.7
+Southeastern Baptist Theological Seminary,NC,199759,Private,Southeast,Suburb,0.9524,,,406,10730,10730,6404,92.9,0,
+Wake Forest University,NC,199847,Private,Southeast,City,0.2757,,,5101,51400,51400,11795,77.1,9.2,12
+Warren Wilson College,NC,199865,Private,Southeast,Suburb,0.7936,27,1275,582,35244,35244,5791,71,38.2,20.4
+Wingate University,NC,199962,Private,Southeast,Suburb,0.9324,21,1045,2586,31120,31120,7545,100,35.4,28.8
+Carolina Christian College,NC,199971,Private,Southeast,City,,,,32,8800,8800,2333,,71.9,
+University of Jamestown,ND,200156,Private,Midwest,Town,0.6525,22,1075,896,21158,21158,6558,100,25.1,28.2
+University of Mary,ND,200217,Private,Midwest,Rural,0.7635,24,1160,2064,18224,18224,6690,92.6,18.8,17.9
+Trinity Bible College and Graduate School,ND,200484,Private,Midwest,Rural,0.4236,21,1070,183,16140,16140,3678,75,56.2,31.9
+Allegheny Wesleyan College,OH,200873,Private,Midwest,Rural,,,,75,5000,5000,1597,26.7,63.3,
+Art Academy of Cincinnati,OH,201061,Private,Midwest,City,0.4544,19,990,174,31290,31290,4523,18.2,45.3,30.8
+Ashland University,OH,201104,Private,Midwest,Town,0.7351,23,1121,3660,20700,20700,6933,37.2,30.6,40.9
+Baldwin Wallace University,OH,201195,Private,Midwest,Suburb,0.7805,,,3131,31668,31668,7810,53.3,30,31.8
+Bluffton University,OH,201371,Private,Midwest,Town,0.4884,21,1057,703,31672,31672,6095,94.1,37,32.7
+Capital University,OH,201548,Private,Midwest,Suburb,0.6865,25,1195,2573,34600,34600,8475,40.4,27.5,27.5
+Case Western Reserve University,OH,201645,Private,Midwest,City,0.3312,32,1441,5020,47500,47500,11400,78.2,14.1,10.9
+Cedarville University,OH,201654,Private,Midwest,Town,0.7145,26,1246,3132,29156,29156,7349,67,20.1,12.7
+Cincinnati Christian University,OH,201858,Private,Midwest,City,0.8811,20,960,547,17028,17028,5154,100,45.3,33.2
+Ohio Christian University,OH,201964,Private,Midwest,Town,,,,3471,20240,20240,1334,100,50.4,54.7
+Cleveland Institute of Art,OH,202046,Private,Midwest,City,0.5423,23,1144,630,40655,40655,5981,42.5,40.6,26.7
+Cleveland Institute of Music,OH,202073,Private,Midwest,City,0.4306,,,212,49146,49146,9196,34.9,14.5,
+Columbus College of Art and Design,OH,202170,Private,Midwest,City,0.7011,,,1024,34440,34440,6319,33.7,37.2,24.6
+University of Dayton,OH,202480,Private,Midwest,City,0.7168,27,1254,8422,41750,41750,8687,61.7,10.7,10.2
+Defiance College,OH,202514,Private,Midwest,Town,0.5648,20,1003,581,32190,32190,5749,48.1,42.3,35.5
+Denison University,OH,202523,Private,Midwest,Suburb,0.3724,30,1335,2321,50440,50440,8875,100,19.5,17.1
+The University of Findlay,OH,202763,Private,Midwest,Town,0.7508,24,1171,2637,33320,33320,7402,72.9,18.7,29.3
+Franklin University,OH,202806,Private,Midwest,City,,,,3433,12241,12241,8797,7.8,39,50.3
+Gods Bible School and College,OH,202903,Private,Midwest,City,,,,239,7040,7040,1099,47.6,52.6,35
+Heidelberg University,OH,203085,Private,Midwest,Town,0.7606,22,1088,1049,30200,30200,6600,57,40.8,32.2
+Hiram College,OH,203128,Private,Midwest,Town,0.6353,21,1066,967,34300,34300,6271,55.6,40.7,37.6
+John Carroll University,OH,203368,Private,Midwest,Suburb,0.8503,25,1161,2972,39990,39990,8838,100,20.8,18.6
+Kenyon College,OH,203535,Private,Midwest,Town,0.3384,31,1403,1661,53560,53560,8641,95.1,9.2,
+Kettering College,OH,203544,Private,Midwest,Suburb,0.2836,23,1138,615,12408,12408,7197,60.6,30.7,40.3
+Lake Erie College,OH,203580,Private,Midwest,Suburb,0.6045,21,1036,750,30862,30862,6499,100,30.7,32.7
+Lourdes University,OH,203757,Private,Midwest,Suburb,0.9667,21,1059,1036,21540,21540,5446,37.1,41.1,33.6
+Malone University,OH,203775,Private,Midwest,City,0.6599,22,1082,1200,29900,29900,6495,50.3,38.5,32.7
+Marietta College,OH,203845,Private,Midwest,Town,0.6703,23,1117,964,36040,36040,6859,100,25.2,26
+Mount Carmel College of Nursing,OH,204176,Private,Midwest,City,0.9932,21,1065,878,13442,13442,7141,52.9,25.5,39.4
+University of Mount Union,OH,204185,Private,Midwest,Town,0.8109,23,1121,2049,29890,29890,8010,100,29.8,22.5
+Mount Vernon Nazarene University,OH,204194,Private,Midwest,Town,0.7674,22,1102,1623,28090,28090,6023,92,35.1,37.6
+Mount Saint Joseph University,OH,204200,Private,Midwest,Suburb,0.7325,22,1097,1177,29100,29100,6330,96.5,32.3,37.8
+Muskingum University,OH,204264,Private,Midwest,Town,0.7439,22,1077,1525,27646,27646,9448,100,41.8,35.7
+Notre Dame College,OH,204468,Private,Midwest,Suburb,0.8948,19,994,1500,29300,29300,5344,86.4,34,32.9
+Oberlin College,OH,204501,Private,Midwest,Town,0.3372,31,1388,2827,53460,53460,10778,90,8.8,8.9
+Ohio Dominican University,OH,204617,Private,Midwest,City,0.7716,22,1086,1077,31080,31080,7381,100,25.7,37.9
+Ohio Northern University,OH,204635,Private,Midwest,Town,0.661,25,1215,2111,30990,30990,8606,87.6,23,23.6
+Ohio Wesleyan University,OH,204909,Private,Midwest,Suburb,0.7139,,,1549,44690,44690,8598,57.6,28.1,21.5
+Otterbein University,OH,204936,Private,Midwest,Suburb,0.764,24,1179,2367,31874,31874,7419,52.1,24.4,26.1
+Pontifical College Josephinum,OH,205027,Private,Midwest,City,0.9286,,,90,22092,22092,5040,100,12.2,
+Rabbinical College Telshe,OH,205124,Private,Midwest,Suburb,0.9444,,,37,10800,10800,3046,85.7,61.7,
+Franciscan University of Steubenville,OH,205957,Private,Midwest,City,0.8318,26,1209,2071,26430,26430,7762,100,41.8,10.9
+Tiffin University,OH,206048,Private,Midwest,Town,0.6883,,,2095,24000,24000,7143,100,38.6,38.4
+Tri-State Bible College,OH,206154,Private,Midwest,Suburb,,,,33,9100,9100,56,,48.7,
+Union Institute & University,OH,206279,Private,Midwest,City,,,,813,12896,12896,5540,16.9,44.8,56.1
+Urbana University,OH,206330,Private,Midwest,Town,0.7105,20,1025,548,22452,22452,5278,9.5,11.2,39
+Ursuline College,OH,206349,Private,Midwest,Suburb,0.9333,21,1068,607,31150,31150,5847,36.2,40.6,34.4
+Walsh University,OH,206437,Private,Midwest,Suburb,0.7923,23,1140,1929,29150,29150,6057,99.3,29.9,34.2
+Wilberforce University,OH,206491,Private,Midwest,Rural,0.4829,16,872,593,13250,13250,4946,31.8,70.4,46.5
+Wilmington College,OH,206507,Private,Midwest,Town,0.8415,22,1086,1167,25000,25000,5810,61.8,41,35.1
+Wittenberg University,OH,206525,Private,Midwest,City,0.7218,,,1780,38730,38730,7203,66.1,31.2,23.6
+The College of Wooster,OH,206589,Private,Midwest,Town,0.5644,27,1280,1970,48600,48600,8476,80.3,16.1,14.3
+Xavier University,OH,206622,Private,Midwest,City,0.7391,25,1195,4571,37230,37230,8694,50.1,16.3,16
+Bacone College,OK,206817,Private,West,Town,0.7285,17,890,934,17700,17700,4103,100,73,45.2
+Oklahoma Wesleyan University,OK,206835,Private,West,Town,0.6231,21,1048,1006,26090,26090,6385,22.9,40.1,40.8
+Southern Nazarene University,OK,206862,Private,West,Suburb,,,,1520,25178,25178,5404,97.9,39.1,38
+Randall University,OK,207157,Private,West,Suburb,0.4057,20,1010,300,13640,13640,3880,43.1,54.8,40.2
+Oklahoma Christian University,OK,207324,Private,West,City,0.6281,24,1146,1883,21670,21670,6736,97.2,26.9,17.8
+Oklahoma Baptist University,OK,207403,Private,West,Town,0.6472,23,1126,1852,26840,26840,6694,67.8,37.5,25.7
+Oklahoma City University,OK,207458,Private,West,City,0.717,26,1219,1692,30726,30726,7139,62.5,21.6,26.8
+Oral Roberts University,OK,207582,Private,West,City,0.9334,23,1133,3068,26792,26792,7435,47,41.5,30.9
+Southwestern Christian University,OK,207856,Private,West,Suburb,0.7704,18,957,610,13880,13880,4652,21.3,55.2,40.4
+University of Tulsa,OK,207971,Private,West,City,0.3895,29,1335,3316,41509,41509,10669,77.3,15.2,22.8
+Concordia University-Portland,OR,208488,Private,West,City,0.4864,21,1048,1353,30270,30270,6114,33.1,37.7,37.8
+New Hope Christian College-Eugene,OR,208725,Private,West,City,0.8182,,,85,14830,14830,2778,25,62.6,
+George Fox University,OR,208822,Private,West,Town,0.8189,24,1167,2678,35016,35016,7592,40.1,30.6,27.6
+Lewis & Clark College,OR,209056,Private,West,City,0.7137,29,1330,2021,46988,46988,9721,43.1,18,17.3
+Linfield College-McMinnville Campus,OR,209065,Private,West,Town,0.8077,23,1126,1503,41682,41682,7179,97,26.2,30.3
+Mount Angel Seminary,OR,209241,Private,West,Town,0.7778,,,53,21404,21404,5862,69.1,8.5,
+Multnomah University,OR,209287,Private,West,City,0.6507,,,383,24680,24680,5889,29.8,56.5,33.8
+Northwest Christian University,OR,209409,Private,West,City,0.688,20,1028,571,28680,28680,5443,94.4,42.9,34.8
+Pacific Northwest College of Art,OR,209603,Private,West,City,0.9474,,,409,36440,36440,3054,32.7,41.6,18
+Pacific University,OR,209612,Private,West,Suburb,0.8449,25,1180,1809,42594,42594,8175,64.8,30.8,28.6
+University of Portland,OR,209825,Private,West,City,0.6954,26,1239,3851,44026,44026,8176,56.3,16.4,17.9
+Reed College,OR,209922,Private,West,City,0.3563,32,1427,1415,54200,54200,10441,95.4,15.8,
+Warner Pacific University,OR,210304,Private,West,City,0.9532,,,398,24500,24500,6015,45.3,51.7,46.6
+Corban University,OR,210331,Private,West,City,0.3299,24,1145,963,31640,31640,5984,32.9,31.5,22.5
+Willamette University,OR,210401,Private,West,City,0.8909,,,1772,48158,48158,10433,73.8,21.7,19.2
+University of Western States,OR,210438,Private,West,City,,,,14,,,5970,43.8,31,
+Bryn Athyn College of the New Church,PA,210492,Private,Northeast,Suburb,0.8755,21,1045,323,21126,21126,7558,51.4,44.1,33.8
+Albright College,PA,210571,Private,Northeast,City,0.5004,,,1999,43454,43454,6485,63.8,44.6,36.1
+Allegheny College,PA,210669,Private,Northeast,Town,0.6789,26,1238,1764,45970,45970,8336,100,29.4,22.1
+DeSales University,PA,210739,Private,Northeast,Suburb,0.7379,25,1137,2291,35900,35900,7707,38.9,25.1,29.5
+Alvernia University,PA,210775,Private,Northeast,City,0.7081,21,1052,2231,33640,33640,7252,100,36.4,45
+Clarks Summit University,PA,211024,Private,Northeast,Suburb,0.5508,,,498,23890,23890,4032,94.1,54,27.2
+Arcadia University,PA,211088,Private,Northeast,Suburb,0.6229,25,1160,2233,42330,42330,7779,31.1,33.4,30.7
+Bryn Mawr College,PA,211273,Private,Northeast,Suburb,0.3801,31,1415,1328,50500,50500,10933,78.4,15.9,15.2
+Bucknell University,PA,211291,Private,Northeast,Town,0.3108,30,1353,3588,53986,53986,11159,97.1,10.1,12
+Cabrini University,PA,211352,Private,Northeast,Suburb,0.7321,21,1073,1536,31350,31350,7191,32.3,38.5,36.4
+Carlow University,PA,211431,Private,Northeast,City,0.9164,22,1005,1339,28596,28596,6709,100,48.2,36.8
+Carnegie Mellon University,PA,211440,Private,Northeast,City,0.222,34,1506,6434,53910,53910,11852,94.9,12.2,10
+Cedar Crest College,PA,211468,Private,Northeast,City,0.6333,23,1069,1413,38092,38092,7461,35.5,43.1,43.4
+Chatham University,PA,211556,Private,Northeast,City,0.5455,,,981,36510,36510,7774,100,29.8,29.7
+Chestnut Hill College,PA,211583,Private,Northeast,City,0.9572,22,1060,1317,35180,35180,6334,100,48,44.4
+Curtis Institute of Music,PA,211893,Private,Northeast,City,0.033,,,131,2675,2675,8428,2.8,9.9,
+Delaware Valley University,PA,211981,Private,Northeast,Suburb,0.664,22,1070,1908,38000,38000,7812,40.3,29.4,36.3
+Dickinson College,PA,212009,Private,Northeast,City,0.4871,,,2339,52955,52955,9136,81.7,12.1,12.2
+Drexel University,PA,212054,Private,Northeast,City,0.7904,27,1269,15335,52002,52002,11028,55.2,22.1,29.2
+Duquesne University,PA,212106,Private,Northeast,City,0.717,27,1221,5930,36394,36394,9159,51.9,19.3,17.3
+Eastern University,PA,212133,Private,Northeast,Suburb,0.6561,23,1106,1837,32145,32145,6347,30.2,44.5,36.5
+Elizabethtown College,PA,212197,Private,Northeast,Suburb,0.7402,25,1181,1647,45350,45350,8627,71.5,19.6,30
+Faith Theological Seminary,MD,212452,Private,Northeast,City,1,,,66,5870,5870,2357,75,48.4,
+Franklin and Marshall College,PA,212577,Private,Northeast,City,0.3411,,,2269,54380,54380,9686,89.2,17.3,19.5
+Gannon University,PA,212601,Private,Northeast,City,0.799,23,1119,2616,30932,30932,7800,59.5,23.5,26.1
+Geneva College,PA,212656,Private,Northeast,Suburb,0.6901,23,1110,1330,26070,26070,6593,100,35.9,24.6
+Gettysburg College,PA,212674,Private,Northeast,City,0.458,,,2411,52640,52640,9595,73.3,15,13.7
+Gratz College,PA,212771,Private,Northeast,Suburb,,,,47,,,5250,21.7,0,
+Grove City College,PA,212805,Private,Northeast,Town,0.7987,28,1212,2327,17254,17254,,,0,
+Gwynedd Mercy University,PA,212832,Private,Northeast,Suburb,0.9377,20,1021,1987,33600,33600,6843,18.7,32.9,43.7
+Haverford College,PA,212911,Private,Northeast,Suburb,0.2005,33,1472,1291,52994,52994,9756,86.8,15.7,16.2
+Holy Family University,PA,212984,Private,Northeast,City,0.7075,,1005,1904,30346,30346,7232,20.7,34,46.3
+Immaculata University,PA,213011,Private,Northeast,Suburb,0.8294,20,1053,1383,27350,27350,4907,100,25.9,35.1
+Juniata College,PA,213251,Private,Northeast,Town,0.7077,,,1371,43875,43875,8080,69.8,24.7,20
+Keystone College,PA,213303,Private,Northeast,Suburb,0.944,,,1274,26670,26670,6833,26.8,46,47.7
+King's College,PA,213321,Private,Northeast,City,0.7092,,,2065,35830,35830,8122,62.1,24.8,29.4
+La Roche University,PA,213358,Private,Northeast,Suburb,0.9657,21,1045,1312,27720,27720,7040,32.7,32.4,35.7
+La Salle University,PA,213367,Private,Northeast,City,0.7927,,,3708,29500,29500,9523,40.9,40.2,37
+Lafayette College,PA,213385,Private,Northeast,Suburb,0.3081,30,1363,2567,51600,51600,11810,82.7,9.1,14.8
+Lancaster Bible College,PA,213400,Private,Northeast,Suburb,0.7181,23,1070,1647,22580,22580,5755,24.1,41.5,35.5
+Lebanon Valley College,PA,213507,Private,Northeast,Suburb,0.73,24,1162,1658,42180,42180,7765,44.5,25.4,27.6
+Lehigh University,PA,213543,Private,Northeast,City,0.2515,31,1382,5057,50740,50740,13272,84.4,14.1,16.9
+Lycoming College,PA,213668,Private,Northeast,City,0.6403,23,1105,1192,38618,38618,7566,77,37.7,36.6
+Marywood University,PA,213826,Private,Northeast,City,0.7512,23,1033,1835,33940,33940,7736,37.3,32.2,29.5
+Mercyhurst University,PA,213987,Private,Northeast,City,0.6992,,,2448,36320,36320,7224,62.9,26.8,28.7
+Messiah College,PA,213996,Private,Northeast,Suburb,0.7701,26,1212,2670,34160,34160,8582,54.1,17.8,18.2
+Misericordia University,PA,214069,Private,Northeast,Suburb,0.7879,24,1127,2100,31660,31660,7287,100,26.9,29.9
+Moore College of Art and Design,PA,214148,Private,Northeast,City,0.5407,,1140,373,39833,39833,5899,19.7,38.1,31.4
+Moravian College,PA,214157,Private,Northeast,City,0.7597,24,1121,2007,42024,42024,7866,100,27.9,29.2
+Mount Aloysius College,PA,214166,Private,Northeast,Town,0.6087,20,1030,1185,22430,22430,6687,44.7,31.7,42
+Muhlenberg College,PA,214175,Private,Northeast,City,0.4836,28,1270,2329,50830,50830,8885,58.4,13.8,15.8
+Neumann University,PA,214272,Private,Northeast,Suburb,0.9628,18,978,1997,30050,30050,6983,40.2,37.9,42.8
+Peirce College,PA,214883,Private,Northeast,City,,,,1381,15060,15060,7237,100,60.2,55.5
+Pennsylvania Academy of the Fine Arts,PA,214971,Private,Northeast,City,0.927,,,188,37096,37096,4784,27,27.8,
+Pennsylvania College of Art and Design,PA,215053,Private,Northeast,City,0.5,,,257,25000,25000,3952,10.6,40,
+University of Pennsylvania,PA,215062,Private,Northeast,City,0.093,34,1506,10660,53534,53534,17435,73.2,12.6,18.8
+Jefferson (Philadelphia University + Thomas Jefferson University),PA,215099,Private,Northeast,City,0.5966,24,1136,2669,39280,39280,8194,100,32.5,33.4
+The University of the Arts,PA,215105,Private,Northeast,City,0.7404,,,1662,43100,43100,6956,100,29.6,20.6
+Cairn University-Langhorne,PA,215114,Private,Northeast,Suburb,0.9855,20,1046,757,26493,26493,5980,41.6,42.6,29.6
+University of the Sciences,PA,215132,Private,Northeast,City,0.6076,27,1227,1268,39994,39994,8324,98.1,28.1,23.8
+Point Park University,PA,215442,Private,Northeast,City,0.6486,22,1091,3230,30130,30130,7947,21.2,38.1,29.3
+Robert Morris University,PA,215655,Private,Northeast,Suburb,0.8332,24,1127,4213,29420,29420,11599,100,28,30
+Rosemont College,PA,215691,Private,Northeast,Suburb,0.6961,18,993,609,19486,19486,5347,24.6,54.4,37.5
+Saint Francis University,PA,215743,Private,Northeast,Town,0.7574,24,1147,1676,35066,35066,7274,100,19.5,25.7
+Saint Joseph's University,PA,215770,Private,Northeast,City,0.7718,26,1209,5040,43880,43880,10359,100,12.5,17.5
+Saint Vincent College,PA,215798,Private,Northeast,Suburb,0.6193,23,1122,1616,34430,34430,7519,98.3,27.2,26.8
+University of Scranton,PA,215929,Private,Northeast,City,0.7479,26,1198,3695,43310,43310,10212,67,18.1,20.3
+Seton Hill University,PA,215947,Private,Northeast,Suburb,0.7465,,,1659,34660,34660,7283,94.5,23.4,24.3
+Susquehanna University,PA,216278,Private,Northeast,Town,0.6953,,,2283,45470,45470,8093,63,25.7,21.6
+Swarthmore College,PA,216287,Private,Northeast,Suburb,0.107,33,1473,1565,50822,50822,12930,87.6,16.3,26.9
+Talmudical Yeshiva of Philadelphia,PA,216311,Private,Northeast,City,0.8444,,,114,8900,8900,4352,,28.2,
+Thiel College,PA,216357,Private,Northeast,Town,0.6287,21,1012,736,30830,30830,6438,58.5,46.9,31.6
+Thomas Jefferson University,PA,216366,Private,Northeast,City,,,,731,,,8020,96,20.2,33
+Ursinus College,PA,216524,Private,Northeast,Suburb,0.7821,27,1234,1485,50360,50360,8846,75.4,19.2,18.8
+University of Valley Forge,PA,216542,Private,Northeast,Suburb,0.5321,,,669,21370,21370,5936,32.9,38.6,33.3
+Villanova University,PA,216597,Private,Northeast,Suburb,0.36,32,1409,6886,51284,51284,11048,65.4,10.5,12.6
+Washington & Jefferson College,PA,216667,Private,Northeast,Suburb,0.4785,,,1378,46628,46628,8244,67.7,27,21.6
+Waynesburg University,PA,216694,Private,Northeast,Town,0.9534,21,1065,1371,24010,24010,6776,39.6,33.8,26.4
+Westminster College,PA,216807,Private,Northeast,Town,0.7248,24,1124,1174,36276,36276,6931,68.5,33.9,25.5
+Widener University,PA,216852,Private,Northeast,Suburb,0.6543,23,1104,3224,44166,44166,8458,42.5,23.2,30
+Wilkes University,PA,216931,Private,Northeast,City,0.7531,24,1137,2379,34896,34896,9081,44.1,33.5,34.6
+Wilson College,PA,217013,Private,Northeast,City,0.5877,24,1032,697,24452,24452,6817,96.4,35.2,43
+Yeshivath Beth Moshe,PA,217040,Private,Northeast,City,0.9167,,,34,9200,9200,4222,,45.5,
+York College of Pennsylvania,PA,217059,Private,Northeast,Suburb,0.699,23,1101,4079,19430,19430,8980,38.7,24.4,30.3
+Brown University,RI,217156,Private,Northeast,City,0.0849,33,1494,6670,53419,53419,15276,89.6,14.1,17
+Bryant University,RI,217165,Private,Northeast,Suburb,0.7298,,,3449,42109,42109,10750,56.3,14.1,16.1
+Johnson & Wales University-Providence,RI,217235,Private,Northeast,City,0.8753,,,7500,31508,31508,9155,100,36.2,34.6
+Providence College,RI,217402,Private,Northeast,City,0.5152,28,1274,4011,48764,48764,10282,62.9,14.2,14.6
+Rhode Island School of Design,RI,217493,Private,Northeast,City,0.3193,28,1276,1976,48370,48370,10380,39.5,15.8,10.6
+Roger Williams University,RI,217518,Private,Northeast,Suburb,0.8229,,,4476,33336,33336,12015,41.7,12.1,19.7
+Salve Regina University,RI,217536,Private,Northeast,Suburb,0.7189,,,2160,38986,38986,8693,97.7,21.8,18.6
+Northpoint Bible College,MA,217606,Private,Northeast,Suburb,,,,323,12054,12054,5532,26.3,58.1,43.8
+Allen University,SC,217624,Private,Southeast,City,,,,590,13140,13140,5308,87.5,85.3,50.7
+Anderson University,SC,217633,Private,Southeast,City,0.7907,24,1149,2776,26970,26970,6507,100,29.4,25.3
+Charleston Southern University,SC,217688,Private,Southeast,City,0.5632,21,1061,3034,24840,24840,5770,64.8,46.7,30.7
+Benedict College,SC,217721,Private,Southeast,City,,,,2090,19958,19958,5907,71.6,81.5,40.8
+Southern Wesleyan University,SC,217776,Private,Southeast,Suburb,0.5257,,,1286,24700,24700,5732,100,44.6,39.1
+Claflin University,SC,217873,Private,Southeast,Town,0.4117,19,958,1990,16480,16480,6980,67.4,73.6,32.4
+Coker College,SC,217907,Private,Southeast,Town,0.617,19,999,1012,28684,28684,5960,51.1,47.7,37.6
+Columbia International University,SC,217925,Private,Southeast,City,0.2825,21,1008,491,22390,22390,4544,83,44.3,24.1
+Columbia College,SC,217934,Private,Southeast,City,0.8682,19,1009,1378,19500,19500,6027,57.1,46.5,41.4
+Converse College,SC,217961,Private,Southeast,City,0.7126,23,1112,916,17680,17680,6303,96.6,45.1,31.7
+Erskine College,SC,217998,Private,Southeast,Rural,0.5452,22,1061,575,34560,34560,4784,100,39.9,22.3
+Furman,SC,218070,Private,Southeast,Suburb,0.6118,29,1319,2728,48348,48348,9819,75.5,12.8,12.4
+Limestone College,SC,218238,Private,Southeast,Town,0.5045,20,1019,2491,25025,25025,5145,94.1,50.9,43
+Morris College,SC,218399,Private,Southeast,City,,,,743,13458,13458,5537,72.1,87,40
+Newberry College,SC,218414,Private,Southeast,Town,0.5833,20,1017,1173,25900,25900,5628,100,45.8,31.3
+North Greenville University,SC,218441,Private,Southeast,Rural,0.6085,24,1136,2167,19150,19150,6283,100,33.2,26.7
+Presbyterian College,SC,218539,Private,Southeast,Town,0.6517,24,1159,947,37842,37842,7856,100,26.4,19.8
+Voorhees College,SC,218919,Private,Southeast,Town,0.5344,,,475,12630,12630,5517,79,88.2,39.1
+Wofford College,SC,218973,Private,Southeast,City,0.6907,30,1312,1675,41955,41955,7988,85.2,16.3,
+Augustana University,SD,219000,Private,Midwest,City,0.678,26,1245,1704,31960,31960,6806,80.9,18.9,14.5
+Dakota Wesleyan University,SD,219091,Private,Midwest,Town,0.7604,22,1096,774,27030,27030,5912,37.8,29.8,28.9
+Mount Marty College,SD,219198,Private,Midwest,Town,0.6652,22,1085,566,26310,26310,6305,38.1,18.2,32
+Presentation College,SD,219295,Private,Midwest,Town,0.9628,20,1019,749,19830,19830,5115,62.8,40.4,34.6
+University of Sioux Falls,SD,219383,Private,Midwest,City,0.9201,23,1124,1174,27980,27980,7008,22.8,30.3,24.7
+American Baptist College,TN,219505,Private,Southeast,City,,,,115,10074,10074,4500,14.3,72.7,48.5
+Baptist Memorial College of Health Sciences,TN,219639,Private,Southeast,City,0.5372,24,1155,1050,11542,11542,6818,100,54,42.9
+Belmont University,TN,219709,Private,Southeast,City,0.8119,27,1256,6443,32820,32820,10694,42.9,16.5,15.8
+Bethel University,TN,219718,Private,Southeast,Town,0.9359,19,970,3975,16552,16552,3380,100,50.5,51.2
+Bryan College-Dayton,TN,219790,Private,Southeast,Town,0.5434,23,1137,892,25600,25600,5702,25.1,31.5,35.7
+Carson-Newman University,TN,219806,Private,Southeast,Suburb,0.6736,23,1130,1633,27400,27400,5690,53.7,40.8,34.7
+Christian Brothers University,TN,219833,Private,Southeast,City,0.5263,24,1180,1521,31870,31870,6833,93.4,33.6,35.9
+Cumberland University,TN,219949,Private,Southeast,Town,0.5408,21,1066,1658,21810,21810,5284,39.5,32.9,40.8
+Lipscomb University,TN,219976,Private,Southeast,City,0.6043,26,1239,2973,30932,30932,7518,48.3,25.6,23.6
+Fisk University,TN,220181,Private,Southeast,City,0.4541,19,1014,664,21480,21480,5525,74.7,55,26.6
+Welch College,TN,220206,Private,Southeast,Rural,,,,248,18458,18458,5873,36.6,39.1,
+Freed-Hardeman University,TN,220215,Private,Southeast,Town,0.9532,25,1208,1319,21950,21950,6691,96.2,26.3,18.5
+Johnson University,TN,220473,Private,Southeast,Rural,0.9798,22,1107,808,14920,14920,5534,100,43.2,25.5
+King University,TN,220516,Private,Southeast,City,0.5141,22,1084,1736,28572,28572,4902,50,44.7,51.1
+Lane College,TN,220598,Private,Southeast,City,0.4847,16,845,1420,10690,10690,5091,87.1,89.2,44.8
+Le Moyne-Owen College,TN,220604,Private,Southeast,City,1,16,845,862,11196,11196,4831,47.1,77.9,48.8
+Lee University,TN,220613,Private,Southeast,City,0.8504,25,1176,4265,16730,16730,7249,89.4,33.4,31.2
+Lincoln Memorial University,TN,220631,Private,Southeast,Town,0.6534,22,1098,1821,21410,21410,6433,57.4,46.1,41.5
+Martin Methodist College,TN,220701,Private,Southeast,Town,0.987,21,1045,845,23800,23800,5740,55.2,51.8,41
+Maryville College,TN,220710,Private,Southeast,Suburb,0.4927,24,1138,1151,34196,34196,6665,100,41.9,32.1
+Memphis College of Art,TN,220808,Private,Southeast,City,0.5404,23,1125,277,33130,33130,4455,23.2,57.7,34.1
+Rhodes College,TN,221351,Private,Southeast,City,0.5105,30,1362,1975,46504,46504,8479,84.2,12.6,12.8
+The University of the South,TN,221519,Private,Southeast,Rural,0.4673,,,1683,45120,45120,9590,83.1,16.9,13.2
+Southern Adventist University,TN,221661,Private,Southeast,Suburb,,,,2486,21550,21550,4707,100,34.8,18.2
+Tennessee Wesleyan University,TN,221731,Private,Southeast,Town,0.5991,21,1059,928,23800,23800,4602,100,46.9,41.5
+Trevecca Nazarene University,TN,221892,Private,Southeast,City,0.7038,23,1121,2112,25100,25100,6644,100,35.1,39.2
+Tusculum University,TN,221953,Private,Southeast,Town,0.8864,21,1029,1484,23700,23700,4963,49,50.3,45.4
+Union University,TN,221971,Private,Southeast,City,0.5998,26,1243,2099,31510,31510,7378,59,29.2,32.5
+Vanderbilt University,TN,221999,Private,Southeast,City,0.1085,34,1515,6856,47664,47664,13450,81.6,13.7,12.2
+Abilene Christian University,TX,222178,Private,West,City,0.5806,24,1145,3655,33330,33330,7765,82.5,25.5,24.5
+Amberton University,TX,222628,Private,West,Suburb,,,,213,,,5703,46,10.2,
+Arlington Baptist University,TX,222877,Private,West,City,,,,159,13600,13600,3582,51.5,47,45.8
+Austin College,TX,222983,Private,West,City,0.5216,26,1255,1214,38800,38800,7260,100,31.1,23.4
+Baptist Missionary Association Theological Seminary,TX,223117,Private,West,Town,1,,,67,6000,6000,3653,,48.2,
+Baylor University,TX,223232,Private,West,City,0.3895,29,1320,14284,43790,43790,9717,78.8,18.3,17.1
+Concordia University Texas,TX,224004,Private,West,City,0.8878,22,1063,1703,30600,30600,6907,100,44.8,37.7
+Dallas Baptist University,TX,224226,Private,West,City,0.3942,22,1122,3053,27480,27480,8205,100,27.5,32.3
+Dallas Christian College,TX,224244,Private,West,Suburb,0.4009,21,1026,228,18734,18734,4277,27.3,57.3,40.1
+University of Dallas,TX,224323,Private,West,City,0.4745,28,1278,1440,38716,38716,7707,60.9,22.7,16.5
+East Texas Baptist University,TX,224527,Private,West,Town,0.5442,21,1045,1298,25470,25470,6788,100,42.2,31.8
+Hardin-Simmons University,TX,225247,Private,West,City,0.8177,21,1074,1670,27440,27440,7155,59.8,34,31.5
+Houston Baptist University,TX,225399,Private,West,City,0.6901,23,1114,2302,31730,31730,6872,60.4,43.4,36.3
+Howard Payne University,TX,225548,Private,West,Town,0.5917,21,1036,919,27690,27690,5786,100,43.7,37.4
+Huston-Tillotson University,TX,225575,Private,West,City,0.2981,18,947,1052,14346,14346,5306,50.5,63.3,43.4
+University of the Incarnate Word,TX,225627,Private,West,City,0.9385,20,1028,5807,29990,29990,8130,44.8,38.8,43.3
+Jarvis Christian College,TX,225885,Private,West,Rural,,,,861,11720,11720,5711,49.2,97.6,46
+LeTourneau University,TX,226231,Private,West,City,0.4708,25,1190,1802,29320,29320,6314,39.7,29.5,34.1
+Lubbock Christian University,TX,226383,Private,West,City,0.9407,22,1091,1439,21794,21794,6412,51.1,35.4,36
+University of Mary Hardin-Baylor,TX,226471,Private,West,Suburb,0.7884,22,1108,3275,27600,27600,7869,100,40.3,32.4
+McMurry University,TX,226587,Private,West,City,0.4335,20,1015,1031,26887,26887,6226,98.8,46.7,37.4
+Our Lady of the Lake University,TX,227331,Private,West,City,0.913,19,1000,1320,28192,28192,7062,35.3,58.3,47.6
+Paul Quinn College,TX,227429,Private,West,City,0.5431,16,843,515,8495,8495,5533,25,71.8,48.5
+Rice University,TX,227757,Private,West,City,0.1586,34,1535,3970,45608,45608,15481,82.2,13.5,14.5
+Saint Edward's University,TX,227845,Private,West,City,0.8418,25,1186,3930,43300,43300,8648,43.1,35.5,32.5
+University of St Thomas,TX,227863,Private,West,City,0.8094,24,1160,1765,32660,32660,7585,95.5,35.4,37.8
+Schreiner University,TX,228042,Private,West,Town,0.9236,22,1062,1185,26900,26900,6654,66.9,35.5,37.3
+St. Mary's University,TX,228149,Private,West,City,0.799,23,1139,2310,29300,29300,10056,62.2,45.4,38.7
+Southern Methodist University,TX,228246,Private,West,Suburb,0.4877,30,1382,6427,52498,52498,12582,66.9,12.7,15.7
+Southwestern Assemblies of God University,TX,228325,Private,West,Suburb,0.2788,21,1021,1730,19994,19994,5002,60.8,52,38.2
+Southwestern University,TX,228343,Private,West,Suburb,0.4314,26,1230,1387,40560,40560,8141,75.3,25.4,20.3
+Southwestern Adventist University,TX,228468,Private,West,Town,0.6237,21,1040,780,20732,20732,6247,56.5,51.6,34.2
+Texas Christian University,TX,228875,Private,West,City,0.4108,28,1285,8983,44760,44760,11372,97.6,12.6,20.4
+Texas College,TX,228884,Private,West,City,,,,966,10008,10008,4172,78.7,77.4,45.1
+Texas Lutheran University,TX,228981,Private,West,Town,0.4853,22,1068,1341,29960,29960,6941,65.9,32.6,35.5
+Texas Wesleyan University,TX,229160,Private,West,City,0.3427,22,1049,1656,27800,27800,7645,56.7,29.6,48.3
+Trinity University,TX,229267,Private,West,City,0.3844,30,1353,2393,41344,41344,10866,78.1,15.9,17.4
+Wayland Baptist University,TX,229780,Private,West,Town,0.9876,20,1009,3549,18510,18510,5235,100,37.4,45.5
+Wiley College,TX,229887,Private,West,Town,,,,1246,12306,12306,5019,62.6,71.7,41.6
+Brigham Young University-Provo,UT,230038,Private,West,City,0.524,30,1364,31233,5460,5460,10712,72,36.4,13.8
+Brigham Young University-Hawaii,HI,230047,Private,West,Town,0.3677,24,1182,2855,5400,5400,9271,100,23.6,19.2
+Stevens-Henager College,UT,230630,Private,West,City,,,,143,16968,16968,4032,,66.3,55.9
+Westminster College,UT,230807,Private,West,City,0.9271,25,1187,2002,33860,33860,8012,100,23.6,26.9
+Bennington College,VT,230816,Private,Northeast,Town,0.5659,,,742,51920,51920,9862,48,20.4,12.6
+Champlain College,VT,230852,Private,Northeast,City,0.7504,26,1210,3771,39818,39818,8146,99.3,21.1,31.7
+Goddard College,VT,230889,Private,Northeast,Rural,1,,,177,16260,16260,4824,16.7,58.3,29.1
+Marlboro College,VT,230940,Private,Northeast,Rural,0.9669,,,176,40425,40425,4738,100,37.9,
+Middlebury College,VT,230959,Private,Northeast,Town,0.171,32,1446,2532,52496,52496,11165,88.6,14.1,21.6
+Norwich University,VT,230995,Private,Northeast,Town,0.6453,,,3160,38662,38662,7544,43.5,26.2,23.6
+Saint Michael's College,VT,231059,Private,Northeast,Suburb,0.851,,,1759,43640,43640,8349,100,14,11.7
+Sterling College,VT,231095,Private,Northeast,Rural,0.9429,,,127,37588,37588,3556,43.2,45.9,
+Averett University,VA,231420,Private,Southeast,Town,0.6102,20,959,908,33350,33350,6050,100,48.1,37.6
+Bluefield College,VA,231554,Private,Southeast,Town,0.9112,20,986,874,24800,24800,5264,34.8,50.5,42.5
+Bridgewater College,VA,231581,Private,Southeast,Suburb,0.5198,22,1073,1874,33820,33820,6600,77.9,29.4,32
+Regent University,VA,231651,Private,Southeast,City,0.783,23,1081,4087,17288,17288,7953,74.6,50.9,42
+Jefferson College of Health Sciences,VA,231837,Private,Southeast,City,0.3922,22,1058,771,25850,25850,7008,44.6,31.5,37.1
+Emory & Henry College,VA,232025,Private,Southeast,Rural,0.7223,22,1089,977,33700,33700,6903,100,38.9,26.7
+Eastern Mennonite University,VA,232043,Private,Southeast,City,0.5373,24,1102,1089,35800,35800,6020,100,26.2,31.9
+Ferrum College,VA,232089,Private,Southeast,Rural,0.7193,19,962,1122,33025,33025,5983,100,56.7,38.8
+Hampden-Sydney College,VA,232256,Private,Southeast,Rural,0.5505,24,1165,1046,43940,43940,8114,95.5,17,
+Hampton University,VA,232265,Private,Southeast,City,0.362,22,1083,3786,25441,25441,6747,100,39.2,19.8
+Hollins University,VA,232308,Private,Southeast,Suburb,0.4838,26,1212,628,38285,38285,6985,66.2,40.8,25.8
+Liberty University,VA,232557,Private,Southeast,City,0.2979,24,1157,45364,21310,21310,5682,46.1,45.6,42.4
+University of Lynchburg,VA,232609,Private,Southeast,City,0.7455,22,1089,1979,37690,37690,7551,79.1,30.4,30.2
+Mary Baldwin University,VA,232672,Private,Southeast,City,0.947,23,1093,1058,31110,31110,6765,26.7,54.3,40
+Marymount University,VA,232706,Private,Southeast,City,0.9226,22,1058,2241,30876,30876,8399,44,26.1,29.8
+Sentara College of Health Sciences,VA,232885,Private,Southeast,Suburb,,,,440,,,7265,48.5,24,36.8
+Randolph-Macon College,VA,233295,Private,Southeast,Suburb,0.6223,24,1152,1439,40000,40000,8133,64.4,22.7,22.5
+Randolph College,VA,233301,Private,Southeast,City,0.8644,22,1079,651,38155,38155,7979,100,31.1,26.3
+Bon Secours Memorial College of Nursing,VA,233356,Private,Southeast,Suburb,,,,477,,,7483,74.4,19.5,36.2
+University of Richmond,VA,233374,Private,Southeast,City,0.3297,31,1394,3165,50910,50910,12512,69.2,15.8,12.3
+Roanoke College,VA,233426,Private,Southeast,Suburb,0.6719,25,1154,1990,42819,42819,7799,78.3,24.2,20.7
+Shenandoah University,VA,233541,Private,Southeast,City,0.8325,23,1115,2055,31920,31920,7815,55.9,29.8,27.7
+Southern Virginia University,VA,233611,Private,Southeast,Town,0.5616,20,992,877,15900,15900,6464,100,49.9,17.1
+Sweet Briar College,VA,233718,Private,Southeast,Suburb,0.928,24,1117,281,37155,37155,7285,86.7,33.4,23.2
+Virginia Union University,VA,234164,Private,Southeast,City,0.4392,18,922,1211,17448,17448,4285,75.9,74.5,40.8
+Virginia Wesleyan University,VA,234173,Private,Southeast,City,0.6988,22,1063,1369,36660,36660,8163,72.4,41.3,30.9
+Washington and Lee University,VA,234207,Private,Southeast,Town,0.22,32,1449,1819,50170,50170,13068,81,8.7,
+City University of Seattle,WA,234915,Private,West,City,,,,767,16920,16920,5894,7.2,25.1,40.9
+Cornish College of the Arts,WA,235024,Private,West,City,0.8749,,,652,40464,40464,4466,32.5,34.7,22.6
+Gonzaga University,WA,235316,Private,West,City,0.6485,28,1295,5119,41330,41330,9376,57.8,13.3,13.3
+Heritage University,WA,235422,Private,West,Rural,,,,778,17914,17914,7017,31.6,75.7,63.4
+Bastyr University,WA,235547,Private,West,Suburb,,,,195,,,6828,34.6,41.4,
+Northwest University,WA,236133,Private,West,Suburb,0.9744,23,1122,911,30320,30320,6655,28.1,31.5,36.4
+Pacific Lutheran University,WA,236230,Private,West,Suburb,0.7539,24,1162,2672,40722,40722,7625,71.1,30.6,29.6
+University of Puget Sound,WA,236328,Private,West,City,0.8387,,,2413,48090,48090,10439,83.1,13.6,12.3
+Saint Martin's University,WA,236452,Private,West,Suburb,0.9751,21,1081,1259,35656,35656,6624,47.7,36,34.1
+Seattle Pacific University,WA,236577,Private,West,City,0.9087,24,1173,2900,40893,40893,8644,54.9,27.2,22.9
+Seattle University,WA,236595,Private,West,City,0.738,27,1250,4547,42885,42885,9375,70.7,18.2,19.4
+Walla Walla University,WA,236896,Private,West,Suburb,,,,1610,27495,27495,5317,100,29.1,16.6
+Whitman College,WA,237057,Private,West,City,0.5173,30,1329,1468,49780,49780,9100,78.9,10.3,11.7
+Whitworth University,WA,237066,Private,West,Suburb,0.8901,26,1217,2227,42186,42186,7271,97.3,23.3,24.2
+Alderson Broaddus University,WV,237118,Private,Southeast,Town,0.4063,21,1028,935,26610,26610,5032,71.4,45.9,36.1
+Appalachian Bible College,WV,237136,Private,Southeast,Rural,0.5895,22,1096,157,14290,14290,2793,52,35.7,
+Bethany College,WV,237181,Private,Southeast,Rural,0.9404,21,1012,597,28454,28454,5910,67.6,45.4,33.9
+University of Charleston,WV,237312,Private,Southeast,City,0.6449,20,1014,1810,30400,30400,6415,52.7,30.4,43.1
+Davis & Elkins College,WV,237358,Private,Southeast,Town,0.4161,20,1007,791,28992,28992,5621,61,41,47.8
+Ohio Valley University,WV,237640,Private,Southeast,City,0.2859,21,1043,424,21250,21250,4931,31.9,55.5,32.5
+West Virginia Wesleyan College,WV,237969,Private,Southeast,Town,0.7064,22,1091,1304,30752,30752,6023,59.2,31.5,29.5
+Wheeling Jesuit University,WV,238078,Private,Southeast,City,0.514,22,1063,694,28110,28110,6135,44.9,30.5,36.7
+Alverno College,WI,238193,Private,Midwest,City,0.8941,,,1289,28277,28277,5859,41.2,56.3,44.3
+Bellin College,WI,238324,Private,Midwest,Rural,0.8889,25,1195,354,20500,20500,5735,75,17.6,31
+Beloit College,WI,238333,Private,Midwest,City,0.5398,,,1324,48706,48706,7045,82.8,22.7,19.3
+Cardinal Stritch University,WI,238430,Private,Midwest,Suburb,0.7835,21,1044,1284,28844,28844,6018,33.2,39.7,45.5
+Carroll University,WI,238458,Private,Midwest,City,0.7082,24,1163,2895,31144,31144,7462,35.4,25.1,27.2
+Carthage College,WI,238476,Private,Midwest,Suburb,0.6787,24,1179,2723,41950,41950,6047,55.6,28,26.2
+Columbia College of Nursing,WI,238573,Private,Midwest,Suburb,,,,116,,,6711,94.4,34.8,
+Concordia University-Wisconsin,WI,238616,Private,Midwest,Suburb,0.6319,23,1145,3533,28600,28600,8555,100,28.2,31.8
+Edgewood College,WI,238661,Private,Midwest,City,0.7111,23,1145,1521,28500,28500,6049,56.7,31,28.1
+Lakeland University,WI,238980,Private,Midwest,Rural,0.5166,19,1008,1835,27760,27760,6629,16.7,33.3,43.6
+Lawrence University,WI,239017,Private,Midwest,City,0.6135,29,1343,1441,46101,46101,7991,80.8,20,17.4
+Maranatha Baptist University,WI,239071,Private,Midwest,Town,0.73,23,1132,686,14910,14910,4257,57.8,36.9,19.2
+Marian University,WI,239080,Private,Midwest,City,0.6758,20,1010,1495,27400,27400,6499,41.6,29.9,39
+Marquette University,WI,239105,Private,Midwest,City,0.8933,27,1262,8093,39900,39900,9923,56.9,16,19.3
+Milwaukee Institute of Art & Design,WI,239309,Private,Midwest,City,0.5962,,,659,36230,36230,5818,32.1,45.4,30.1
+Milwaukee School of Engineering,WI,239318,Private,Midwest,City,0.6284,28,1305,2605,39429,39429,9252,51.1,27.3,23.6
+Mount Mary University,WI,239390,Private,Midwest,City,0.5599,19,990,676,29510,29510,6359,87.2,55.4,39.3
+Northland College,WI,239512,Private,Midwest,Town,0.6117,,,602,35157,35157,6117,71.8,34,20.1
+Ripon College,WI,239628,Private,Midwest,Town,0.6753,23,1145,740,41835,41835,7378,89.3,33.9,28.1
+Saint Norbert College,WI,239716,Private,Midwest,Suburb,0.7922,25,1199,2041,36593,36593,7347,83.1,20.7,20.5
+Silver Lake College of the Holy Family,WI,239743,Private,Midwest,Town,0.5154,,,309,27360,27360,4836,41.8,34.2,47.6
+Viterbo University,WI,240107,Private,Midwest,City,0.6145,24,1162,1767,27150,27150,6614,35.7,26.3,28.2
+Wisconsin Lutheran College,WI,240338,Private,Midwest,City,0.9025,23,1145,982,29140,29140,6122,94.7,28.5,29.4
+American University of Puerto Rico,PR,241100,Private,Territory,Suburb,,,,469,5811,5811,2966,27.7,86.2,40.8
+American University of Puerto Rico,PR,241128,Private,Territory,Suburb,,,,646,5811,5811,2932,15.7,87.6,40.8
+Universidad Adventista de las Antillas,PR,241191,Private,Territory,Suburb,0.9635,,,1162,7070,7070,2736,37.7,82.9,38.3
+Atlantic University College,PR,241216,Private,Territory,City,,,,1540,7425,7425,3267,75.4,85.7,15.3
+Universidad Central de Bayamon,PR,241225,Private,Territory,Suburb,0.8685,,,1410,6260,6260,2736,100,83.9,30.8
+Carlos Albizu University-San Juan,PR,241331,Private,Territory,City,0.7083,,,267,7868,7868,3986,20.2,53.5,25.1
+Caribbean University-Bayamon,PR,241377,Private,Territory,Suburb,,,,1175,5264,5264,2314,22.6,86.5,49.9
+Caribbean University-Carolina,PR,241386,Private,Territory,City,,,,350,5264,5264,2188,13.8,87,49.9
+Pontifical Catholic University of Puerto Rico-Arecibo,PR,241395,Private,Territory,Suburb,0.9516,,,558,5268,5268,3702,45.7,74.2,30.8
+Pontifical Catholic University of Puerto Rico-Ponce,PR,241410,Private,Territory,City,0.9264,,,5239,5370,5370,4143,70.3,79.4,30.8
+Universidad Teologica del Caribe,PR,241614,Private,Territory,Suburb,,,,273,4432,4432,865,24,77.3,54.9
+Universidad Ana G. Mendez-Cupey Campus,PR,241739,Private,Territory,City,,,,10617,5820,5820,4174,100,84.6,42.8
+Inter American University of Puerto Rico-San German,PR,242617,Private,Territory,City,0.6899,,,4046,5898,5898,5066,100,82.5,35.8
+Inter American University of Puerto Rico-Aguadilla,PR,242626,Private,Territory,Suburb,0.5735,,,3915,5860,5860,4253,100,87.2,42.9
+Inter American University of Puerto Rico-Arecibo,PR,242635,Private,Territory,City,0.5755,,,3870,5872,5872,4632,100,86,35.3
+Inter American University of Puerto Rico-Barranquitas,PR,242644,Private,Territory,Suburb,0.561,,,1784,5860,5860,3805,100,94.3,50.6
+Inter American University of Puerto Rico-Metro,PR,242653,Private,Territory,City,0.562,,,6060,8517,8517,4917,100,67.1,25.5
+Inter American University of Puerto Rico-Ponce,PR,242662,Private,Territory,Suburb,0.592,,,4690,5872,5872,4358,100,83.9,33.8
+Inter American University of Puerto Rico-Fajardo,PR,242680,Private,Territory,Suburb,0.8116,,,1959,5898,5898,4333,100,87.4,32.1
+Inter American University of Puerto Rico-Guayama,PR,242699,Private,Territory,City,0.4567,,,1789,5860,5860,4391,100,80.7,38.3
+Inter American University of Puerto Rico-Bayamon,PR,242705,Private,Territory,Suburb,0.6258,,,4488,5898,5898,4628,100,82.7,27.3
+Universidad Ana G. Mendez-Carolina Campus,PR,243346,Private,Territory,City,,,,10140,5820,5820,4082,100,84.5,40.6
+Universidad del Sagrado Corazon,PR,243443,Private,Territory,City,0.4073,,,4294,6000,6000,3912,38.2,65.5,27.7
+Universidad Politecnica de Puerto Rico,PR,243577,Private,Territory,City,,,,3459,8328,8328,3529,62.7,63.8,22
+Pontifical Catholic University of Puerto Rico-Mayaguez,PR,243586,Private,Territory,City,0.9885,,,1294,5268,5268,3696,60.4,84.6,30.8
+Universidad Ana G. Mendez-Gurabo Campus,PR,243601,Private,Territory,Suburb,,,,14061,5820,5820,4431,100,81.8,36.6
+Stanford University,CA,243744,Private,West,Suburb,0.0473,34,1489,7056,49617,49617,22924,98.5,15.2,30.3
+Parker University,TX,243823,Private,West,City,,,,330,15564,15564,5975,55.3,39.9,38.9
+St. John's College,NM,245652,Private,West,Rural,0.6316,28,1283,322,52320,52320,9289,77.4,31.9,
+Bais Medrash Elyon,NY,245777,Private,Northeast,Suburb,,,,38,8600,8600,3134,,37.5,
+Antioch University-Los Angeles,CA,245838,Private,West,Suburb,,,,193,,,6132,,18.5,36.8
+Antioch University-Santa Barbara,CA,245847,Private,West,City,,,,103,,,6286,,37,36.8
+Antioch University-Seattle,WA,245883,Private,West,City,,,,88,,,5372,,43.9,36.8
+Antioch University-Midwest,OH,245892,Private,Midwest,Rural,,,,41,,,5249,,64.9,36.8
+Mid-America Christian University,OK,245953,Private,West,City,,,,1561,17830,17830,4503,100,58.2,49.8
+Yeshiva Gedolah of Greater Detroit,MI,247773,Private,Midwest,Suburb,0.8824,,,60,6800,6800,4090,,43.3,
+Austin Graduate School of Theology,TX,247825,Private,West,City,,,,22,,,6551,,40,
+Brandman University,CA,262086,Private,West,City,0.68,,,3502,12360,12360,8894,11.1,39.6,50
+Yeshivah Gedolah Rabbinical College,FL,363712,Private,Southeast,City,,,,24,8400,8400,5439,,35.7,
+Caribbean University-Ponce,PR,363907,Private,Territory,City,,,,653,5264,5264,2417,24.1,76.9,49.9
+Caribbean University-Vega Baja,PR,363916,Private,Territory,Suburb,,,,253,5264,5264,2167,28.6,87.3,49.9
+Hodges University,FL,367884,Private,Southeast,Suburb,0.5792,,,1069,13940,13940,5654,32.4,51.5,65
+Yeshiva Gedolah Imrei Yosef D'spinka,NY,375230,Private,Northeast,City,,,,105,8000,8000,3191,,90.9,
+Beacon College,FL,384254,Private,Southeast,Suburb,0.5287,,,348,37788,37788,5205,90.3,26.1,19.1
+Rabbi Jacob Joseph School,NJ,384421,Private,Northeast,Suburb,0.9394,,,86,11900,11900,2917,,23.4,
+Everglades University,FL,385619,Private,Southeast,City,0.7344,,,2099,17000,17000,4699,29.2,44.2,41.8
+College of Biblical Studies-Houston,TX,388520,Private,West,City,,,,420,6946,6946,5047,50,50.5,50.9
+Watkins College of Art Design & Film,TN,392840,Private,Southeast,City,0.4213,22,1104,199,23700,23700,5489,33.3,51.3,28.3
+Soka University of America,CA,399911,Private,West,Suburb,0.3722,29,1318,412,31776,31776,11464,68.8,25.4,
+World Mission University,CA,401223,Private,West,City,,,,132,5940,5940,3952,69.2,42.1,
+Rabbinical College of Ohr Shimon Yisroel,NY,405854,Private,Northeast,City,,,,227,13600,13600,1917,,85.6,
+Johnson & Wales University-North Miami,FL,414823,Private,Southeast,Suburb,0.7831,,,1450,31508,31508,8894,100,57.7,34.6
+Trine University-Regional/Non-Traditional Campuses,IN,414878,Private,Midwest,City,,,,368,10832,10832,7673,50,51.1,32.2
+Messenger College,TX,417752,Private,West,Suburb,0.7857,,,51,9120,9120,2530,,63.6,
+Yeshiva D'monsey Rabbinical College,NY,420325,Private,Northeast,Suburb,0.5122,,,70,6800,6800,2667,,94.9,
+Embry-Riddle Aeronautical University-Worldwide,FL,426314,Private,Southeast,City,0.6327,,,10256,9000,9000,6439,18.9,25.3,35.5
+Ottawa University-Milwaukee,WI,428259,Private,Midwest,Suburb,,,,166,,,5000,,50.6,40.1
+San Juan Bautista School of Medicine,PR,430670,Private,Territory,City,1,,,37,9172,15022,,,70.3,
+New Hampshire Institute of Art,NH,430810,Private,Northeast,City,0.9943,,,307,26880,26880,5616,100,42.6,27.3
+Western Governors University,UT,433387,Private,West,Suburb,,,,72385,6070,6070,4959,76.5,29.3,47.1
+Yeshiva College of the Nations Capital,MD,434937,Private,Northeast,Suburb,,,,25,10000,10000,6843,,33.3,
+International Baptist College and Seminary,AZ,436614,Private,West,Suburb,,,,62,11250,11250,2894,38.2,60.7,
+Linfield College-School of Nursing,OR,437316,Private,West,City,,,,344,,,7821,95.5,27.4,30.3
+Linfield College-Online and Continuing Education,OR,437325,Private,West,Town,,,,258,,,8548,100,25.1,
+Atlantic Institute of Oriental Medicine,FL,439446,Private,Southeast,City,,,,43,,,5287,72.7,0,
+Crossroads Bible College,IN,439613,Private,Midwest,City,,,,158,12400,12400,4160,33.3,70.3,48.8
+The King's University,TX,439701,Private,West,Suburb,0.519,24,1100,398,14400,14400,8048,13.2,42.5,40
+Pacific Islands University,GU,439862,Private,Territory,Town,1,,,53,5428,5428,2875,,95.3,39.1
+New Saint Andrews College,ID,440396,Private,West,Town,,,,134,12450,12450,,,,
+Marlboro College Graduate & Professional Studies,VT,440411,Private,Northeast,Rural,,,,1,,,6813,100,,
+Pillar College,NJ,440794,Private,Northeast,City,,,,427,21076,21076,5212,13.6,57.7,58.7
+Apex School of Theology,NC,441511,Private,Southeast,City,,,,646,5100,5100,2840,59.1,82.7,80.5
+Yeshiva Shaarei Torah of Rockland,NY,441609,Private,Northeast,Suburb,,,,93,12500,12500,2658,92.3,40,
+Universidad Pentecostal Mizpa,PR,441690,Private,Territory,City,,,,233,4120,4120,,0,67.4,56
+Franklin W Olin College of Engineering,MA,441982,Private,Northeast,Suburb,0.1337,34,1522,345,51936,51936,12018,75,7.7,
+Birthingway College of Midwifery,OR,442949,Private,West,City,,,,54,,,,,53.1,
+Faith International University,WA,443049,Private,West,City,,,,142,7236,7236,3375,100,0,
+Family of Faith Christian University,OK,443058,Private,West,Rural,0.8,,,38,6570,6570,1380,,37.5,
+Williamson Christian College,TN,443340,Private,Southeast,City,,,,43,12850,12850,500,,36.6,
+Dewey University-Hato Rey,PR,443562,Private,Territory,City,,,,355,5475,5475,3141,98.3,95.9,48
+Baptist University of the Americas,TX,444398,Private,West,City,,,,177,6240,6240,4615,37.1,37.8,55.4
+Beis Medrash Heichal Dovid,NY,444413,Private,Northeast,City,0.6857,,,110,9375,9375,5572,,16.5,
+Charlotte Christian College and Theological Seminary,NC,444778,Private,Southeast,City,,,,65,10070,10070,2183,,69.3,
+Flagler College-Tallahassee,FL,444990,Private,Southeast,City,,,,416,,,6386,18.3,50.7,28
+Central Methodist University-College of Graduate and Extended Studies,MO,445267,Private,Midwest,Town,0.4545,,,1756,5760,5760,5053,100,20.6,43.7
+Roseman University of Health Sciences,NV,445735,Private,West,City,,,,505,,,10091,53.3,23.9,33.8
+Ave Maria University,FL,446048,Private,Southeast,Rural,0.4212,24,1142,1052,19970,19970,7312,100,24.1,17.6
+Ecclesia College,AR,446233,Private,Southeast,Rural,0.5646,,,229,15140,15140,1333,31.6,63.1,47.4
+Maple Springs Baptist Bible College and Seminary,MD,446394,Private,Northeast,Suburb,,,,36,,,374,,21.4,
+Uta Mesivta of Kiryas Joel,NY,446604,Private,Northeast,Suburb,,,,1864,11500,11500,2553,100,89,
+Harrisburg University of Science and Technology,PA,446640,Private,Northeast,City,,,,476,23900,23900,9017,31.4,60.7,44
+SUM Bible College and Theological Seminary,CA,447953,Private,West,Rural,,,,512,9324,9324,1959,35,73,53.6
+Doane University-Graduate and Professional Studies,NE,448284,Private,Midwest,City,,,,592,10780,10780,5937,9.1,37.8,29.9
+Bais Medrash Toras Chesed,NJ,449658,Private,Northeast,City,0.5714,,,105,9500,9500,3870,,38.8,
+Visible Music College,TN,449764,Private,Southeast,City,1,19,984,123,19500,19500,3983,40.5,55.6,
+University of the West,CA,449870,Private,West,Suburb,,,,144,11940,11940,5704,100,27.9,
+Averett University-Non-Traditional Programs,VA,449931,Private,Southeast,Town,0.56,,,344,10800,10800,5343,100,33.7,37.6
+LIU Riverhead,NY,450766,Private,Northeast,Rural,,,,28,,,,,55.3,35.6
+Yeshivas Be'er Yitzchok,NJ,451370,Private,Northeast,Suburb,0.8,,,43,10650,10650,4525,,57.7,
+Yeshiva Toras Chaim,NJ,451398,Private,Northeast,Suburb,0.9841,,,222,12250,12250,3284,60,53.2,
+Talmudical Seminary of Bobov,NY,451404,Private,Northeast,City,0.9756,,,406,7600,7600,4000,100,96.8,85.1
+The King's College,NY,454184,Private,Northeast,City,0.409,27,1246,533,35400,35400,8927,56.6,29.8,
+Ottawa University-Online,KS,454582,Private,Midwest,Town,,,,155,,,6717,100,39,40.1
+Yeshiva of Machzikai Hadas,NY,455257,Private,Northeast,City,0.8163,,,413,9200,9200,2587,,80.1,
+The Chicago School of Professional Psychology at Los Angeles,CA,455664,Private,West,City,0.3624,,,138,13530,13530,7507,84.6,59.4,46.4
+Providence Christian College,CA,455770,Private,West,City,0.9116,6,,167,29372,29372,5326,31.8,37.8,30.3
+Polytechnic University of Puerto Rico-Miami,FL,456481,Private,Southeast,Suburb,,,,61,12090,12090,2960,,50.8,22
+Polytechnic University of Puerto Rico-Orlando,FL,456490,Private,Southeast,Suburb,,,,124,11580,11580,5167,29,59.2,22
+Horizon University,IN,457226,Private,Midwest,Suburb,,,,16,9300,9300,,,43.5,
+Pacific Rim Christian University,HI,457484,Private,West,City,0.569,,,121,10460,10460,,,46.4,
+City Vision University,MO,457697,Private,Midwest,City,,,,102,5600,5600,,,47.7,48.5
+Bethel College,VA,458113,Private,Southeast,City,,,,39,8100,8100,,,50.9,
+Compass College of Cinematic Arts,MI,459417,Private,Midwest,City,0.7945,21,1051,134,15300,15300,5000,41.2,46.2,
+Touro University Worldwide,CA,459727,Private,West,Suburb,,,,509,14600,14600,5458,11.1,51.4,40.3
+Touro University Nevada,NV,459824,Private,West,City,,,,18,,,8483,33.3,31.7,30.6
+Herzing University-Kenosha,WI,459842,Private,Midwest,Suburb,0.3684,,,276,13850,13850,6309,48.3,69.3,52.1
+Herzing University-Brookfield,WI,459851,Private,Midwest,Suburb,0.9615,,,238,13850,13850,7113,59.1,63.8,52.1
+Johnson & Wales University-Online,RI,460349,Private,Northeast,City,0.2868,,,681,13365,13365,9751,100,46.7,34.6
+Virginia International University,VA,460376,Private,Southeast,Suburb,0.2353,,,67,9608,9608,6298,9.1,1.1,
+Remington College-Heathrow Campus,FL,460783,Private,Southeast,Suburb,,,,267,11901,11901,4935,,72.8,59.5
+Carolina College of Biblical Studies,NC,461032,Private,Southeast,City,,,,193,6253,6253,1206,,55.6,57.3
+North American University,TX,461795,Private,West,Suburb,,,,333,9900,9900,4805,34.7,35.3,44.6
+John Paul the Great Catholic University,CA,462354,Private,West,Suburb,0.9502,24,1126,260,24900,24900,6591,37,29.1,
+Los Angeles Pacific University,CA,474863,Private,West,Suburb,,,,1897,10200,10200,7134,100,52.2,38
+Whitworth University-Adult Degree Programs,WA,475200,Private,West,Suburb,0.625,,,314,,,3217,,55,24.2
+Springfield College-School of Professional and Continuing Studies,MA,475273,Private,Northeast,City,,,,682,,,7396,100,71,31.4
+Catholic Distance University,WV,475398,Private,Southeast,Town,,,,64,10175,10175,2219,,5.6,
+Criswell College,TX,475608,Private,West,City,0.9259,,,196,9858,9858,5891,66.7,45.3,
+Bais HaMedrash and Mesivta of Baltimore,MD,476601,Private,Northeast,Suburb,1,,,76,12700,12700,4068,,58.3,
+Yeshiva Gedolah Zichron Leyma,NJ,476692,Private,Northeast,Suburb,0.8571,,,21,9000,9000,2135,,64.3,
+Be'er Yaakov Talmudic Seminary,NY,476717,Private,Northeast,Suburb,,,,510,9300,9300,1671,62.5,90.4,
+Elizabethtown College School of Continuing and Professional Studies,PA,480134,Private,Northeast,Suburb,0.9286,,,328,,,,,34.9,30
+Warner Pacific University Professional and Graduate Studies,OR,480198,Private,West,City,,,,408,8520,8520,,,36.6,46.6
+Florida Institute of Technology-Online,FL,480569,Private,Southeast,City,,,,1629,,,7422,100,52.1,40.1
+Grace Mission University,CA,481058,Private,West,Suburb,0.2,,,85,2840,2840,2900,,43.3,
+Mid-South Christian College,TN,481225,Private,Southeast,City,1,,,19,7024,7024,3213,,53.3,
+Grace School of Theology,TX,481401,Private,West,City,,,,151,5280,5280,4695,48.2,19,
+Yeshiva Yesodei Hatorah,NJ,481438,Private,Northeast,Suburb,0.9444,,,65,11000,11000,3154,,37.3,
+Veritas Baptist College,IN,482228,Private,Midwest,Rural,1,,,196,5680,5680,2482,,35.3,
+Northeastern University Lifelong Learning Network,MA,482705,Private,Northeast,City,,,,1814,,,7695,9.5,10.5,18.5
+Antioch College,OH,483018,Private,Midwest,Town,0.9671,,,133,35568,35568,4655,100,45.6,27.8
+Rabbinical College Ohr Yisroel,NY,484871,Private,Northeast,City,,,,116,9000,9000,2383,,45.6,
+Bet Medrash Gadol Ateret Torah,NY,485999,Private,Northeast,City,0.8571,,,93,9700,9700,2910,100,63.2,
+Yeshiva Gedola Ohr Yisrael,NY,486017,Private,Northeast,City,0.8462,,,39,7300,7300,4700,,12.5,
+California Jazz Conservatory,CA,486488,Private,West,City,1,,,61,18300,18300,5971,,40,
+Milligan College,TN,486901,Private,Southeast,Suburb,0.5776,25,1184,806,32500,32500,6042,100,29.6,31.9
+Husson University,ME,487524,Private,Northeast,City,0.8627,23,1048,2652,17561,17561,7289,100,42.9,32.2
+Northwest University-College of Adult and Professional Studies,WA,487603,Private,West,Suburb,,,,641,16380,16380,5448,85.7,31.9,36.4
+Yeshiva Zichron Aryeh,NY,487746,Private,Northeast,City,0.6,,,24,8750,8750,4553,,17.4,
+Central Yeshiva Beth Joseph,NY,488004,Private,Northeast,City,,,,40,11000,11000,4300,,15.9,
+Yeshivas Maharit D'Satmar,NY,488101,Private,Northeast,Suburb,,,,99,11500,11500,3471,86.7,73,
+Beth Medrash of Asbury Park,NJ,488314,Private,Northeast,Suburb,0.8667,,,47,9350,9350,2750,,47.7,
+Yeshiva Gedolah Shaarei Shmuel,NJ,488350,Private,Northeast,City,0.36,,,81,7700,7700,4194,,27.7,
+Indiana Wesleyan University-National & Global,IN,488679,Private,Midwest,Rural,,,,6549,9645,9645,7066,100,42.9,47.4
+Piedmont International University,NC,489937,Private,Southeast,City,0.3633,17,919,336,9480,9480,3441,42.1,59,32.7
+Presbyterian Theological Seminary in America,CA,490045,Private,West,Suburb,,,,41,6860,6860,1552,,41,
+America Evangelical University,CA,490081,Private,West,City,,,,14,5770,5770,2000,,21.1,
+Reformed University,GA,490230,Private,Southeast,Suburb,,,,117,5300,5300,1547,,0,
+Yeshiva Bais Aharon,NJ,490319,Private,Northeast,City,0.7826,,,44,7430,7430,2224,,51.1,
+Mechon L'hoyroa,NY,490328,Private,Northeast,Suburb,,,,40,8400,8400,1598,,61.5,
+Bais Medrash Mayan Hatorah,NJ,490513,Private,Northeast,City,0.8333,,,53,9450,9450,2917,,20.4,
+East-West University,WI,490850,Private,Midwest,Rural,,,,7,21450,21450,,,50,
+Yeshiva Kollel Tifereth Elizer,NY,491057,Private,Northeast,City,0.9333,,,78,12200,12200,2297,,0,
+Alabama A & M University,AL,100654,Public,Southeast,City,0.9027,18,929,4824,9857,18236,6983,71.3,71,36.6
+University of Alabama at Birmingham,AL,100663,Public,Southeast,City,0.9181,25,1195,12866,8328,19032,10640,89.9,35.3,34.1
+University of Alabama in Huntsville,AL,100706,Public,Southeast,City,0.8123,28,1322,6917,10280,21480,9391,64.6,27.7,31
+Alabama State University,AL,100724,Public,Southeast,City,0.9787,18,935,4189,11068,19396,7399,54.2,73.8,34.3
+The University of Alabama,AL,100751,Public,Southeast,City,0.533,28,1278,32387,10780,28100,10016,74,18,22.6
+Athens State University,AL,100812,Public,Southeast,Town,,,,2801,,,8268,42.7,44.6,47.7
+Auburn University at Montgomery,AL,100830,Public,Southeast,City,0.8254,22,1083,4211,8020,17140,7518,97.4,44.2,38.2
+Auburn University,AL,100858,Public,Southeast,City,0.8393,27,1282,23391,10968,29640,10137,85.5,14.9,17.3
+Jacksonville State University,AL,101480,Public,Southeast,City,0.5402,23,1121,6622,8166,15582,6960,72.1,37.9,36.4
+University of West Alabama,AL,101587,Public,Southeast,Rural,0.2821,21,1041,2106,9204,16818,6711,56.7,53.1,40.3
+University of Montevallo,AL,101709,Public,Southeast,Suburb,0.6445,23,1143,2329,12400,25030,7451,67.1,38.8,32.5
+University of North Alabama,AL,101879,Public,Southeast,City,0.7022,22,1104,5771,8480,15128,7567,100,40.3,36.3
+University of South Alabama,AL,102094,Public,Southeast,City,0.8208,23,1142,10712,7812,15324,7203,62.3,37.2,33.4
+Troy University,AL,102368,Public,Southeast,Town,0.8812,22,1085,13634,8692,16276,6444,37.7,40.1,39
+University of Alaska Anchorage,AK,102553,Public,West,City,0.8283,,,11332,6690,19494,9248,47.4,21.6,38.9
+University of Alaska Fairbanks,AK,102614,Public,West,Suburb,0.767,21,1094,4910,6262,19183,9617,60.4,20.4,39.9
+University of Alaska Southeast,AK,102632,Public,West,Town,0.7105,,,1214,6828,19533,8395,62.8,17.7,39.5
+Arizona State University-Tempe,AZ,104151,Public,West,City,0.8415,26,1235,42181,10792,27372,11348,78.9,29.3,38.1
+University of Arizona,AZ,104179,Public,West,City,0.8358,,,33428,11877,35307,10928,91.7,29.4,31.4
+Northern Arizona University,AZ,105330,Public,West,City,0.8085,,,26974,11059,24841,8239,66.3,34.6,38.7
+University of Arkansas at Little Rock,AR,106245,Public,Southeast,City,0.7463,22,1105,6677,8998,21208,7425,97.7,37,39.1
+University of Arkansas for Medical Sciences,AR,106263,Public,Southeast,City,,,,633,,,9546,79.3,36.1,39.5
+University of Arkansas,AR,106397,Public,Southeast,City,0.6596,26,1239,22763,9062,24308,9671,86.9,20.4,26
+University of Arkansas at Pine Bluff,AR,106412,Public,Southeast,City,0.4669,18,951,2510,7408,13738,5851,83.3,70.7,36.8
+Arkansas State University-Main Campus,AR,106458,Public,Southeast,City,0.6602,24,1165,8856,8478,14778,7077,73.4,41.2,38.8
+Arkansas Tech University,AR,106467,Public,Southeast,Town,0.9475,,,8247,7104,12528,6637,100,39.3,45.7
+University of Central Arkansas,AR,106704,Public,Southeast,City,0.8995,24,1175,9034,8524,15047,6974,75.3,39.7,34.6
+Henderson State University,AR,107071,Public,Southeast,Town,0.7968,22,1102,2829,8530,10180,5971,95.1,46.9,37.7
+Southern Arkansas University Main Campus,AR,107983,Public,Southeast,Town,0.6945,22,1102,3153,8346,12156,6841,64.3,50.2,42.1
+University of Arkansas-Fort Smith,AR,108092,Public,Southeast,City,,,,5455,5577,12650,6848,64.3,44.9,48.4
+California Polytechnic State University-San Luis Obispo,CA,110422,Public,West,Suburb,0.3461,29,1317,21303,9432,21312,10006,68.6,17.6,24.8
+California State University-Bakersfield,CA,110486,Public,West,City,0.6112,,,8705,7147,19027,9262,51.5,61.1,58.2
+California State University-Stanislaus,CA,110495,Public,West,Suburb,0.7706,,,9054,7038,18918,9328,50.6,60.1,59.9
+California State University-San Bernardino,CA,110510,Public,West,City,0.5713,19,991,18088,6885,18765,9564,47.9,63.8,59.7
+California State Polytechnic University-Pomona,CA,110529,Public,West,Suburb,0.5507,24,1129,24205,7339,19219,10273,48.8,46.3,49.3
+California State University-Chico,CA,110538,Public,West,City,0.6778,22,1088,16546,7348,19228,9409,55.1,44.9,47.3
+California State University-Dominguez Hills,CA,110547,Public,West,City,0.5368,,,13258,6837,18717,9336,39.6,61.9,59.1
+California State University-Fresno,CA,110556,Public,West,City,0.5941,19,1004,21877,6585,18465,9208,52.7,57.4,53.2
+California State University-Fullerton,CA,110565,Public,West,Suburb,0.4572,22,1096,35045,6850,18730,9747,48,46.9,49.4
+California State University-East Bay,CA,110574,Public,West,City,0.7405,,,13433,6834,18714,9811,44.3,47.1,50.9
+California State University-Long Beach,CA,110583,Public,West,City,0.2799,23,1130,31402,6730,18610,9865,49.6,50.8,48.6
+California State University-Los Angeles,CA,110592,Public,West,City,0.4645,18,968,24780,6639,18519,9575,41,67,61.5
+California State University-Northridge,CA,110608,Public,West,City,0.5765,20,1014,35620,6875,18755,9744,44.4,54.3,53.9
+California State University-Sacramento,CA,110617,Public,West,City,0.6776,20,1036,28410,7204,19084,9477,47.2,52.4,49
+University of California-Berkeley,CA,110635,Public,West,City,0.1711,32,1414,30574,14170,42184,16679,67.5,27.8,34.6
+University of California-Davis,CA,110644,Public,West,Suburb,0.4336,29,1286,30046,14419,42433,14048,84,38.5,40.8
+University of California-Irvine,CA,110653,Public,West,City,0.3651,29,1291,29295,13738,41752,14989,79.6,42.3,44
+University of California-Los Angeles,CA,110662,Public,West,City,0.161,32,1387,30994,13261,41275,17629,69.2,33.8,38.1
+University of California-Riverside,CA,110671,Public,West,City,0.5723,26,1215,20044,13917,41931,12934,85.4,55.8,48.3
+University of California-San Diego,CA,110680,Public,West,City,0.3399,30,1343,28577,14018,42032,14740,82.6,34.3,39.6
+University of California-Santa Barbara,CA,110705,Public,West,Suburb,0.3281,31,1346,22181,14451,42465,15263,85.1,36.5,42.4
+University of California-Santa Cruz,CA,110714,Public,West,City,0.5094,29,1287,17577,14020,42034,14354,70.1,39.4,36.7
+California State University Maritime Academy,CA,111188,Public,West,City,0.6635,,,1048,7056,18936,9436,75.5,29.5,19.9
+Humboldt State University,CA,115755,Public,West,Town,0.8183,21,1062,7846,7493,19373,9457,55.1,55.7,44.1
+San Diego State University,CA,122409,Public,West,City,0.3542,26,1206,29781,7460,19340,10605,52.1,34.4,41.2
+San Francisco State University,CA,122597,Public,West,City,0.7046,21,1054,25966,7254,19134,10411,49.8,42.7,48.2
+San Jose State University,CA,122755,Public,West,City,0.6688,23,1110,27591,7721,19601,10325,41.4,41,49
+Sonoma State University,CA,123572,Public,West,Suburb,0.8203,22,1078,8633,7724,19604,9775,48.1,32.7,41.5
+Adams State University,CO,126182,Public,West,Town,0.9888,20,1005,1876,9440,20456,6022,43.4,51.7,41.5
+University of Colorado Denver/Anschutz Medical Campus,CO,126562,Public,West,City,0.6522,24,1179,11531,9107,25259,10326,67.2,26.1,37.9
+University of Colorado Colorado Springs,CO,126580,Public,West,City,0.9281,24,1162,10344,8314,19498,8060,57.8,31,31.3
+University of Colorado Boulder,CO,126614,Public,West,City,0.7984,28,1293,28565,12086,36220,8487,69.5,15.9,20.4
+Colorado School of Mines,CO,126775,Public,West,Suburb,0.5572,30,1391,4751,18386,37436,11405,84.5,14.6,15.4
+Colorado State University-Fort Collins,CO,126818,Public,West,City,0.8262,25,1212,23804,11395,28903,9688,66.7,22.7,24.2
+Fort Lewis College,CO,127185,Public,West,Town,0.8321,23,1123,3150,8609,18761,7137,95.4,34.5,30.9
+Colorado Mesa University,CO,127556,Public,West,City,0.8167,21,1066,8494,8374,20330,6737,52.3,35.7,39.4
+Metropolitan State University of Denver,CO,127565,Public,West,City,0.6427,20,1010,18968,7352,20149,6673,100,34.5,40.5
+University of Northern Colorado,CO,127741,Public,West,City,0.8908,22,1107,9104,9546,21132,7749,60.8,29.2,35.2
+Colorado State University-Pueblo,CO,128106,Public,West,City,0.9534,21,1043,3744,10090,25547,6687,50.6,36.4,40.9
+United States Air Force Academy,CO,128328,Public,West,Town,0.1192,30,1334,4276,,,9031,98.2,,
+Western State Colorado University,CO,128391,Public,West,Town,0.8598,23,1120,1899,9802,21274,6516,75.9,23.3,25
+Central Connecticut State University,CT,128771,Public,Northeast,Suburb,0.6676,22,1071,9317,10225,22914,8988,48.3,34.4,38.7
+Charter Oak State College,CT,128780,Public,Northeast,Suburb,,,,1352,7983,10437,,0,31.3,54.5
+University of Connecticut,CT,129020,Public,Northeast,Suburb,0.4784,29,1313,18930,14880,36948,11972,67.8,20.9,26.6
+Eastern Connecticut State University,CT,129215,Public,Northeast,Town,0.6581,,,4669,10919,23608,8615,100,31.7,34.5
+Southern Connecticut State University,CT,130493,Public,Northeast,City,0.6492,21,1028,7703,10538,23226,9046,39.6,38.1,39
+United States Coast Guard Academy,CT,130624,Public,Northeast,City,0.1504,29,1300,1044,,,10199,89.5,0,
+Western Connecticut State University,CT,130776,Public,Northeast,City,0.7083,,,4890,10418,23107,9040,100,35.9,38
+Delaware State University,DE,130934,Public,Northeast,City,0.4518,19,918,3678,7868,16904,8017,64.8,49.3,35.5
+University of Delaware,DE,130943,Public,Northeast,Suburb,0.6289,27,1250,18948,13160,33150,12616,97.7,13.9,17.1
+University of the District of Columbia,DC,131399,Public,Northeast,City,,,,3606,5756,12092,8411,32.5,47.1,50.8
+University of Central Florida,FL,132903,Public,Southeast,Suburb,0.499,27,1249,56366,6368,22467,9881,97.2,38.1,35.3
+Florida Agricultural and Mechanical University,FL,133650,Public,Southeast,City,0.4563,20,1044,7552,5785,17725,8077,99.4,59.1,36.6
+Florida Atlantic University,FL,133669,Public,Southeast,City,0.6001,24,1149,23748,4831,17276,8999,68.4,38.3,38.8
+Florida International University,FL,133951,Public,Southeast,Suburb,0.5407,25,1172,41834,6556,18954,10225,98.3,48.8,41.4
+Florida State University,FL,134097,Public,Southeast,City,0.4919,28,1304,32614,5656,18786,10893,85,30.5,27.6
+University of Florida,FL,134130,Public,Southeast,City,0.4201,30,1356,33655,6381,28659,11746,86.6,26.1,30.8
+University of North Florida,FL,136172,Public,Southeast,City,0.5871,24,1176,13962,6394,20798,7786,96.8,29,31.7
+University of South Florida-Main Campus,FL,137351,Public,Southeast,City,0.4536,27,1246,30918,6410,17324,10030,76.9,37.5,35.8
+The University of West Florida,FL,138354,Public,Southeast,City,0.4958,25,1185,9602,6360,19241,8083,100,36.8,36.1
+Armstrong State University,GA,138789,Public,Southeast,City,0.7962,21,1054,5965,5439,15900,6228,62.4,43.9,32.2
+Clayton  State University,GA,139311,Public,Southeast,Suburb,0.4179,,,5754,5419,15880,6680,69.1,52.8,37.9
+Columbus State University,GA,139366,Public,Southeast,City,0.534,21,1011,6474,6134,16920,6736,59.9,45.6,33
+Dalton State College,GA,139463,Public,Southeast,City,,,,4756,4212,12634,5655,77.2,48.7,51.2
+Fort Valley State University,GA,139719,Public,Southeast,Town,0.4366,11,564,2329,6658,19738,5941,85.4,76.2,34.2
+Georgia Institute of Technology-Main Campus,GA,139755,Public,Southeast,City,0.234,32,1389,14810,12418,33014,12691,89.1,14.7,14.9
+Georgia Southwestern State University,GA,139764,Public,Southeast,Town,0.6747,21,1045,2348,5341,15802,6130,77.4,42.9,34.5
+Georgia College & State University,GA,139861,Public,Southeast,Town,0.7899,25,1199,5857,9346,28060,6958,84.2,19.2,19.9
+Georgia Southern University,GA,139931,Public,Southeast,Town,0.6829,24,1174,17062,6356,17142,6880,90.3,35.7,25.1
+Georgia State University,GA,139940,Public,Southeast,City,0.6985,23,1128,25031,9112,23971,8775,74,49.3,32.3
+University of Georgia,GA,139959,Public,Southeast,City,0.5401,29,1316,28740,11818,30392,11126,90.8,21.5,18.2
+Savannah State University,GA,140960,Public,Southeast,City,0.5575,18,933,4079,5743,16204,5829,84.4,73.6,32.8
+Valdosta State University,GA,141264,Public,Southeast,City,0.7417,21,1059,8557,6410,17196,6624,76.6,47.4,30.8
+University of West Georgia,GA,141334,Public,Southeast,Town,0.5862,20,1016,10468,6226,17010,6452,80.4,47.3,31.9
+University of Hawaii at Hilo,HI,141565,Public,West,Town,0.7788,20,1047,2855,7648,20608,9638,76.3,48.1,36.6
+University of Hawaii at Manoa,HI,141574,Public,West,City,0.8315,24,1154,12583,11754,33786,11786,77,29.8,33.8
+University of Hawaii-West Oahu,HI,141981,Public,West,Suburb,0.7875,18,966,2747,7440,20400,9262,55.7,35.6,42.5
+Boise State University,ID,142115,Public,West,City,0.8399,24,1093,16265,7326,22642,7763,51.2,27.5,33.5
+Idaho State University,ID,142276,Public,West,City,,,,7921,7166,21942,7156,93.8,32.6,36.1
+University of Idaho,ID,142285,Public,West,Town,0.7309,23,1127,7685,7488,23812,8963,83.1,31.6,31.8
+Lewis-Clark State College,ID,142328,Public,West,City,0.996,20,1013,2941,6334,18410,6060,99,34.5,40.5
+Chicago State University,IL,144005,Public,Midwest,City,0.7787,18,952,2025,10252,17212,7288,97.7,63.4,42
+Eastern Illinois University,IL,144892,Public,Midwest,Town,0.5151,21,1045,4877,11678,13868,8317,82.3,40.4,34.2
+Governors State University,IL,145336,Public,Midwest,Rural,0.6556,19,968,3288,11746,21136,6419,42.1,52.1,42.6
+University of Illinois at Chicago,IL,145600,Public,Midwest,City,0.7708,23,1150,19106,13704,26560,11177,71.1,52.1,44.4
+University of Illinois at Urbana-Champaign,IL,145637,Public,Midwest,City,0.6153,29,1376,32884,15074,31194,12166,75.1,21.3,24.9
+Illinois State University,IL,145813,Public,Midwest,Suburb,0.8913,24,1165,18264,14061,25168,7979,76.8,27.6,29.6
+Northern Illinois University,IL,147703,Public,Midwest,Suburb,0.5332,22,1085,13430,14350,23816,8218,75.1,42.8,38.3
+Northeastern Illinois University,IL,147776,Public,Midwest,City,0.6939,17,910,7014,10736,19792,7936,56.4,47.9,50.9
+University of Illinois at Springfield,IL,148654,Public,Midwest,City,0.5241,24,1159,2833,11413,20938,8173,61.3,34.9,36.2
+Southern Illinois University-Carbondale,IL,149222,Public,Midwest,City,0.7601,23,1143,10896,13932,28107,7669,82.1,39.4,35.3
+Southern Illinois University-Edwardsville,IL,149231,Public,Midwest,Suburb,0.8951,23,1144,11339,11493,24651,7868,72.1,34.3,30.7
+Western Illinois University,IL,149772,Public,Midwest,Town,0.5997,21,1045,7599,12897,12897,8808,91.5,48.5,37.7
+Ball State University,IN,150136,Public,Midwest,City,0.6208,22,1138,16277,9774,25942,7561,79.8,32.9,27.7
+Purdue University Fort Wayne,IN,151102,Public,Midwest,City,0.9441,22,1074,7708,8330,20005,7613,96.2,28.3,35.2
+Indiana University-Purdue University-Indianapolis,IN,151111,Public,Midwest,City,0.7965,23,1104,20870,9334,29806,8369,56.7,36.4,35.1
+University of Southern Indiana,IN,151306,Public,Midwest,Suburb,0.936,22,1084,7554,7970,18626,7256,100,26.3,35.5
+Indiana State University,IN,151324,Public,Midwest,City,0.8451,20,1013,10817,8916,19452,7503,71,41.4,36.2
+Indiana University-Kokomo,IN,151333,Public,Midwest,City,0.7028,20,1030,2746,7207,19038,6119,52,29.8,40.3
+Indiana University-South Bend,IN,151342,Public,Midwest,City,0.7771,21,1035,4790,7207,19038,6257,57.8,32.6,41
+Indiana University-Bloomington,IN,151351,Public,Midwest,City,0.7601,28,1285,33104,10533,34845,10390,86.7,15.2,22.1
+Indiana University-Northwest,IN,151360,Public,Midwest,City,0.7444,20,998,3549,7207,19038,6871,47.4,29.8,45.4
+Indiana University-Southeast,IN,151379,Public,Midwest,Suburb,0.8275,20,1021,4722,7207,19038,6831,99.6,35.3,40.9
+Indiana University-East,IN,151388,Public,Midwest,Rural,0.6966,21,1035,2969,7207,19038,6479,42,30,44.6
+Iowa State University,IA,153603,Public,Midwest,City,0.8934,25,1221,30116,8636,22472,10857,83.7,20.5,19.9
+University of Iowa,IA,153658,Public,Midwest,City,0.8604,26,1232,23349,8965,30609,11124,84.9,18.6,22.3
+University of Northern Iowa,IA,154095,Public,Midwest,City,0.8083,24,1166,9686,8699,19241,8481,79.5,26.3,22.5
+Emporia State University,KS,155025,Public,Midwest,Town,0.8275,22,1105,3499,6345,19918,6849,89.3,36.7,34
+Fort Hays State University,KS,155061,Public,Midwest,Town,0.8862,,,12174,5009,14832,6631,61.1,28,38.5
+Haskell Indian Nations University,KS,155140,Public,Midwest,City,0.8157,18,950,806,480,480,6038,100,72.5,40.1
+University of Kansas,KS,155317,Public,Midwest,City,0.9338,26,1230,18903,10824,26592,9976,82.8,22.2,22.2
+Kansas State University,KS,155399,Public,Midwest,City,0.9412,,,18171,10135,25492,9055,88.9,22.9,22.5
+Pittsburg State University,KS,155681,Public,Midwest,Town,0.8721,22,1105,5340,7100,18152,7155,79.5,35.7,32.3
+Washburn University,KS,156082,Public,Midwest,City,,,,4926,7978,17918,7395,57.6,33.1,37.8
+Wichita State University,KS,156125,Public,Midwest,City,0.938,24,1159,10970,8432,17390,7651,96.8,33.9,36.3
+Eastern Kentucky University,KY,156620,Public,Southeast,Town,0.8737,23,1123,12750,9366,18250,7140,56.8,38.8,40
+Kentucky State University,KY,157058,Public,Southeast,Town,0.4528,19,982,1349,8184,19638,6321,85.5,52.5,40
+University of Kentucky,KY,157085,Public,Southeast,City,0.9577,25,1213,22078,11942,28046,10644,84.8,22.9,23.4
+University of Louisville,KY,157289,Public,Southeast,City,0.753,25,1211,14550,11264,26286,8791,68.6,27,30.4
+Morehead State University,KY,157386,Public,Southeast,Town,0.7962,23,1144,6410,8950,13426,6610,77.5,32.2,41.4
+Murray State University,KY,157401,Public,Southeast,Town,0.8667,24,1173,7218,8820,23820,6963,100,30.8,34
+Northern Kentucky University,KY,157447,Public,Southeast,Suburb,0.9038,23,1142,10728,9744,19104,7717,97.3,31,38.1
+Western Kentucky University,KY,157951,Public,Southeast,City,0.9545,23,1136,14529,10202,25512,7308,64.7,30.6,35.7
+Grambling State University,LA,159009,Public,Southeast,Town,0.4277,,,4072,7435,16733,6430,100,78.1,39.5
+Louisiana State University Health Sciences Center-New Orleans,LA,159373,Public,Southeast,City,,,,921,,,8244,68.9,23.1,36.3
+Louisiana State University-Alexandria,LA,159382,Public,Southeast,Rural,0.3107,20,1026,2662,6668,14024,5833,56,37.4,44.9
+Louisiana State University and Agricultural & Mechanical College,LA,159391,Public,Southeast,City,0.7392,26,1226,23331,11374,28051,9922,91.3,20.3,26.6
+Louisiana State University-Shreveport,LA,159416,Public,Southeast,City,0.8384,22,1080,2237,7166,20320,6879,79,37.9,40.3
+Louisiana Tech University,LA,159647,Public,Southeast,Town,0.6484,25,1195,8277,9645,18558,7277,81.3,21.7,31.2
+McNeese State University,LA,159717,Public,Southeast,City,0.6224,23,1124,5956,7920,15958,6580,100,31.9,38.5
+University of New Orleans,LA,159939,Public,Southeast,City,0.5661,23,1126,5917,8484,13320,7762,65.5,36.3,40.6
+Nicholls State University,LA,159966,Public,Southeast,City,0.9374,22,1104,5401,7886,8979,5924,100,37.8,45.8
+University of Louisiana at Monroe,LA,159993,Public,Southeast,City,0.7546,23,1124,6121,8470,20570,7268,100,40.8,38
+Northwestern State University of Louisiana,LA,160038,Public,Southeast,Town,0.8029,22,1083,7994,7921,18710,6401,99.2,40.1,42.4
+Southeastern Louisiana University,LA,160612,Public,Southeast,City,0.8834,22,1085,10929,8153,20631,6544,82.6,33.4,39.9
+Southern University and A & M College,LA,160621,Public,Southeast,City,0.4547,19,988,5137,8666,18080,7136,99.6,69,39.7
+Southern University at New Orleans,LA,160630,Public,Southeast,City,0.2467,17,890,1899,6421,15322,5973,73.6,60,49.6
+University of Louisiana at Lafayette,LA,160658,Public,Southeast,City,0.5087,24,1162,14753,9888,23616,8559,77.1,33.1,38.5
+University of Maine at Augusta,ME,161217,Public,Northeast,Town,,,,3244,7808,17498,7543,31.5,46.2,50.9
+University of Maine at Farmington,ME,161226,Public,Northeast,Town,0.8257,,,1741,9458,19026,6986,58.2,46.3,32.4
+University of Maine at Fort Kent,ME,161235,Public,Northeast,Rural,0.972,20,996,1036,7965,12075,6694,38.3,22.7,42.9
+University of Maine at Machias,ME,161244,Public,Northeast,Rural,,,,522,7680,19320,6339,42.7,42.8,43.5
+University of Maine,ME,161253,Public,Northeast,Suburb,0.9226,25,1157,8836,10902,30282,9218,64.5,30.1,23.4
+Maine Maritime Academy,ME,161299,Public,Northeast,Rural,0.7961,21,1083,1018,13278,26628,11145,71.4,25.1,20.7
+University of Maine at Presque Isle,ME,161341,Public,Northeast,Rural,0.9544,,,800,7885,11995,6555,44.6,31.8,36.7
+University of Southern Maine,ME,161554,Public,Northeast,City,0.8348,22,1059,5248,8638,20594,8797,36.6,35.5,32.8
+University of Baltimore,MD,161873,Public,Northeast,City,0.8099,19,999,2856,8824,20704,10431,46.8,43.3,39.9
+Bowie State University,MD,162007,Public,Northeast,Suburb,0.36,18,950,5107,8064,18653,8561,100,50.3,35.5
+Coppin State University,MD,162283,Public,Northeast,City,0.3651,18,930,2459,7474,13622,7680,48.6,56.7,47.2
+Frostburg State University,MD,162584,Public,Northeast,Suburb,0.7229,20,1017,4486,8914,22262,6991,65.1,37.6,36
+University of Maryland-University College,MD,163204,Public,Northeast,Suburb,,,,42289,7296,12336,6279,5.1,24.8,46.5
+University of Maryland Baltimore,MD,163259,Public,Northeast,City,,,,918,,,11251,41.7,19.3,37.9
+University of Maryland-Baltimore County,MD,163268,Public,Northeast,Suburb,0.6021,27,1255,11130,11518,25654,9982,68.6,28.5,27.4
+University of Maryland-College Park,MD,163286,Public,Northeast,Suburb,0.445,31,1396,29273,10399,33606,13017,77.8,18.6,22.4
+University of Maryland Eastern Shore,MD,163338,Public,Northeast,Town,0.3901,18,950,2799,8042,18048,8235,69.4,52.4,35.8
+Morgan State University,MD,163453,Public,Northeast,City,0.6372,18,977,6426,7766,17832,8799,67.8,51.5,33.1
+Salisbury University,MD,163851,Public,Northeast,Suburb,0.6502,,,7552,9582,18622,8041,66.1,25.3,29.2
+St. Mary's College of Maryland,MD,163912,Public,Northeast,Suburb,0.8242,25,1190,1544,14496,29948,7517,78.2,19.6,23.3
+Towson University,MD,164076,Public,Northeast,City,0.773,23,1136,19367,9694,22140,7339,53.2,27.6,29
+United States Naval Academy,MD,164155,Public,Northeast,Suburb,0.0844,,1260,4495,,,11749,100,0,
+Bridgewater State University,MA,165024,Public,Northeast,Suburb,0.8036,21,1070,9390,10012,16152,9280,100,35,34.1
+Fitchburg State University,MA,165820,Public,Northeast,Suburb,0.8004,21,1056,4040,10155,16235,9188,47.4,36.1,35.9
+Framingham State University,MA,165866,Public,Northeast,City,0.6811,22,1043,3963,9920,16000,8931,59.9,31.3,32.3
+University of Massachusetts-Lowell,MA,166513,Public,Northeast,Suburb,0.6883,27,1227,13284,14800,31865,11628,56.1,26.1,31.8
+University of Massachusetts-Amherst,MA,166629,Public,Northeast,Suburb,0.5758,29,1288,23010,15411,33477,12386,80.1,22.5,21.6
+University of Massachusetts-Boston,MA,166638,Public,Northeast,City,0.7515,24,1134,12159,13828,32985,10965,61.6,40.3,43.1
+Massachusetts College of Art and Design,MA,166674,Public,Northeast,City,0.7066,,,1812,12700,34400,9965,86.7,29.2,22.5
+Massachusetts Maritime Academy,MA,166692,Public,Northeast,Suburb,0.8317,23,1122,1627,8398,25824,8564,58.9,15.4,21.1
+Massachusetts College of Liberal Arts,MA,167288,Public,Northeast,Town,0.7663,23,1085,1364,10135,19080,9174,53.3,46.3,33
+Salem State University,MA,167729,Public,Northeast,Suburb,0.8191,22,1066,6776,10278,16706,9003,99.2,35.8,40.3
+University of Massachusetts-Dartmouth,MA,167987,Public,Northeast,Suburb,0.8427,23,1097,6559,13571,28285,10844,68.6,37.5,35.2
+Westfield State University,MA,168263,Public,Northeast,Suburb,0.8525,23,1064,5375,9715,15795,9511,43,30.9,30.5
+Worcester State University,MA,168430,Public,Northeast,City,0.7633,,,5035,9532,15612,8871,48.6,28.9,35.6
+Central Michigan University,MI,169248,Public,Midwest,Town,0.6775,24,1125,17489,12510,23670,9030,69.8,33.8,29.3
+Eastern Michigan University,MI,169798,Public,Midwest,Suburb,0.4474,22,1046,16536,12019,29200,9560,98.8,40.6,34.4
+Ferris State University,MI,169910,Public,Midwest,Town,0.7416,22,1069,11549,11628,18588,8931,63.2,36.1,35.3
+Grand Valley State University,MI,170082,Public,Midwest,Suburb,0.809,24,1150,21837,11994,17064,6867,67,31.1,27.3
+Lake Superior State University,MI,170639,Public,Midwest,Town,0.5816,22,1148,1912,11427,11427,6714,94.6,36.5,33
+University of Michigan-Ann Arbor,MI,170976,Public,Midwest,City,0.265,32,1436,29550,14826,47476,11258,82.8,15.4,20.6
+Michigan State University,MI,171100,Public,Midwest,City,0.7155,26,1220,38770,14460,39406,11705,86.9,21.8,21
+Michigan Technological University,MI,171128,Public,Midwest,Town,0.7449,28,1277,5829,15074,32318,10187,90.5,23.2,18.5
+University of Michigan-Dearborn,MI,171137,Public,Midwest,City,0.6428,25,1187,6961,12472,24706,9587,58.3,41.7,38.2
+University of Michigan-Flint,MI,171146,Public,Midwest,City,0.6512,23,1092,5669,10842,21165,8556,57.7,39.1,36.8
+Northern Michigan University,MI,171456,Public,Midwest,Town,0.7437,23,1082,6635,10240,15736,8278,70,33.3,28.5
+Oakland University,MI,171571,Public,Midwest,Suburb,0.8441,24,1141,15562,11970,23873,9220,50.6,29.8,32.4
+Saginaw Valley State University,MI,172051,Public,Midwest,Suburb,0.7384,23,1101,7498,9819,23063,8209,51.2,34.8,32.9
+Wayne State University,MI,172644,Public,Midwest,City,0.6741,25,1134,16768,12729,27203,10403,57.2,43.6,37.6
+Western Michigan University,MI,172699,Public,Midwest,City,0.8232,23,1103,17704,11943,14699,9751,62.6,33.4,29.3
+Bemidji State University,MN,173124,Public,Midwest,Town,0.662,22,1105,4399,8677,8677,8286,58.1,31.1,27.3
+Minnesota State University-Mankato,MN,173920,Public,Midwest,City,0.6096,22,1105,11966,8164,16216,9101,65.6,26.2,24.2
+Metropolitan State University,MN,174020,Public,Midwest,City,0.5554,,,7080,7859,14960,9068,24.7,42.3,37.1
+University of Minnesota-Twin Cities,MN,174066,Public,Midwest,City,0.4959,29,1349,31535,14417,26603,11759,82.3,18.9,18.7
+University of Minnesota-Crookston,MN,174075,Public,Midwest,Town,0.687,22,1082,1797,11814,11814,7200,89.1,20.7,29
+University of Minnesota-Duluth,MN,174233,Public,Midwest,City,0.7661,24,1185,9199,13344,18462,8175,84,21.7,18.3
+University of Minnesota-Morris,MN,174251,Public,Midwest,Town,0.6378,25,1219,1554,13072,15092,7252,97.1,30.1,20.3
+Minnesota State University Moorhead,MN,174358,Public,Midwest,Suburb,0.6039,23,1123,4834,8468,15878,8817,57.2,27.5,20.1
+Saint Cloud State University,MN,174783,Public,Midwest,City,0.8578,21,1065,9676,8228,16462,9336,66.2,27.4,26.8
+Southwest Minnesota State University,MN,175078,Public,Midwest,Town,0.6163,21,1065,2133,8610,8610,9059,49.6,11.7,26.9
+Winona State University,MN,175272,Public,Midwest,Town,0.665,23,1125,7308,9379,15302,8687,64.8,25.2,21.2
+Alcorn State University,MS,175342,Public,Southeast,Rural,0.7861,20,1005,3172,6888,6888,6707,74.8,75.5,34.5
+Delta State University,MS,175616,Public,Southeast,Town,0.8692,21,1047,2360,6859,6859,6284,63,42.5,32.3
+Jackson State University,MS,175856,Public,Southeast,City,0.7173,19,990,6467,7621,18314,7246,66.7,60.8,32
+University of Mississippi,MS,176017,Public,Southeast,Town,0.8391,26,1225,18537,8300,23564,8985,82.2,24.9,23.5
+Mississippi University for Women,MS,176035,Public,Southeast,Town,0.9802,21,1046,2302,6614,18155,6206,69.1,41.3,37
+Mississippi Valley State University,MS,176044,Public,Southeast,Town,0.8628,18,930,1713,6422,6422,5731,67.6,67.8,42.6
+Mississippi State University,MS,176080,Public,Southeast,Town,0.624,25,1195,17723,8318,22358,8569,86.4,31.9,24.9
+University of Southern Mississippi,MS,176372,Public,Southeast,City,0.9843,23,1125,11747,8218,10218,7553,98.8,46.9,32.6
+University of Central Missouri,MO,176965,Public,Midwest,Town,0.836,22,1105,8589,7520,14150,7236,100,32.1,33.4
+Harris-Stowe State University,MO,177551,Public,Midwest,City,,,,1423,5340,9973,4348,25.9,72.6,47.3
+Lincoln University,MO,177940,Public,Midwest,City,,,,2045,7632,14172,5663,73.3,55.8,37.9
+Missouri Southern State University,MO,178341,Public,Midwest,City,0.9508,22,1085,5426,6067,11568,5934,100,44.5,45.2
+Missouri Western State University,MO,178387,Public,Midwest,City,,,,4171,7570,13465,6710,60.4,36.3,39.7
+University of Missouri-Columbia,MO,178396,Public,Midwest,City,0.7809,26,1249,23455,9787,26506,9334,71.8,18.9,20.1
+University of Missouri-Kansas City,MO,178402,Public,Midwest,City,0.6415,25,1197,7854,8011,19793,8855,62.7,24.4,33.7
+Missouri University of Science and Technology,MO,178411,Public,Midwest,Town,0.8351,28,1323,6872,9246,25918,10365,77,24.7,22.5
+University of Missouri-St Louis,MO,178420,Public,Midwest,Suburb,0.7594,25,1197,7362,9590,25505,8569,52.2,23.5,37.8
+Truman State University,MO,178615,Public,Midwest,Town,0.6749,27,1291,5241,7656,14440,7046,87.3,18.7,22.8
+Northwest Missouri State University,MO,178624,Public,Midwest,Town,0.7411,23,1124,5065,7657,12908,6908,79.5,31.9,30.8
+Southeast Missouri State University,MO,179557,Public,Midwest,City,0.8455,23,1145,8910,7185,12720,7077,100,31,36.9
+Missouri State University-Springfield,MO,179566,Public,Midwest,City,0.8404,24,1164,17371,7306,14746,7400,68.6,29.1,32.3
+Montana State University Billings,MT,180179,Public,West,City,,,,3478,5833,18723,6637,51.1,31.6,38.5
+Montana Technological University,MT,180416,Public,West,Town,0.9238,25,1201,1640,7125,21956,7459,74.5,29.8,33.7
+Montana State University,MT,180461,Public,West,Town,0.8311,25,1195,14383,7079,24071,8705,61.3,24.1,23.3
+The University of Montana,MT,180489,Public,West,City,0.9264,24,1165,8958,7063,24943,7608,72.5,33.8,30.2
+Montana State University-Northern,MT,180522,Public,West,Town,1,,,1062,5861,18171,5728,100,45.6,34.4
+The University of Montana-Western,MT,180692,Public,West,Town,0.6074,19,999,1397,5502,16716,6547,69.9,37.4,36
+Chadron State College,NE,180948,Public,Midwest,Town,,,,1916,7122,7152,7151,100,35.2,39.3
+University of Nebraska at Kearney,NE,181215,Public,Midwest,Town,0.8175,22,1105,4440,7294,13194,7474,71.2,31.8,34.4
+University of Nebraska at Omaha,NE,181394,Public,Midwest,City,0.8653,23,1125,12424,7630,20320,8303,50.4,32,34.8
+University of Nebraska Medical Center,NE,181428,Public,Midwest,City,,,,849,,,9029,84,21.4,26.7
+University of Nebraska-Lincoln,NE,181464,Public,Midwest,City,0.6438,26,1235,20954,8978,24098,10762,93.9,21.5,22
+Peru State College,NE,181534,Public,Midwest,Rural,,,,1388,7260,7260,7555,100,30.2,41.6
+Wayne State College,NE,181783,Public,Midwest,Town,,,,2610,6848,11986,7288,54.1,34.3,34.2
+University of Nevada-Las Vegas,NV,182281,Public,West,City,0.8107,22,1100,24783,7665,21853,10544,100,35.8,42.3
+University of Nevada-Reno,NV,182290,Public,West,City,0.8803,24,1165,17930,7599,21788,9979,96.9,26.5,38.5
+University of New Hampshire-Main Campus,NH,183044,Public,Northeast,Suburb,0.7651,26,1177,12847,18067,32637,11673,65.6,20.3,17.4
+Keene State College,NH,183062,Public,Northeast,Town,0.8267,21,1038,3688,13868,22614,9320,50.1,23,23
+University of New Hampshire at Manchester,NH,183071,Public,Northeast,City,0.6056,,1135,711,14850,29420,9534,35.5,25.7,17.4
+Plymouth State University,NH,183080,Public,Northeast,Town,0.7879,,,4072,13770,22230,8545,46.5,30.3,27
+Granite State College,NH,183257,Public,Northeast,Town,,,,1676,7593,8505,5431,6.3,43.1,45.6
+Rowan University,NJ,184782,Public,Northeast,Suburb,0.6942,25,1164,15089,13422,21890,8812,46.8,31.6,35.1
+New Jersey City University,NJ,185129,Public,Northeast,City,0.9185,,975,6359,11761,21051,10396,100,57.5,53
+Kean University,NJ,185262,Public,Northeast,Suburb,0.8222,19,977,11761,12107,19009,9007,23.8,44.3,46.4
+Montclair State University,NJ,185590,Public,Northeast,Suburb,0.7066,,1070,16673,12455,20567,9933,35.3,41.7,41.2
+New Jersey Institute of Technology,NJ,185828,Public,Northeast,City,0.6139,27,1282,7489,16898,31918,12688,56.6,35,34.4
+Ramapo College of New Jersey,NJ,186201,Public,Northeast,Suburb,0.5736,24,1146,5314,14080,23214,10333,100,24.8,31.3
+Rutgers University-Camden,NJ,186371,Public,Northeast,City,0.6933,,1090,5360,14501,29924,11272,45.5,43.3,34.6
+Rutgers University-New Brunswick,NJ,186380,Public,Northeast,City,0.578,,1295,35296,14638,30579,11822,55,29.4,34.6
+Rutgers University-Newark,NJ,186399,Public,Northeast,City,0.6424,,1090,8122,14085,30026,13595,56.5,50,34.6
+Stockton University,NJ,186876,Public,Northeast,Suburb,0.8153,22,1105,8242,13404,20357,9395,52.5,40,40.4
+Thomas Edison State University,NJ,187046,Public,Northeast,City,,,,10787,7300,9820,,,11.7,44.5
+The College of New Jersey,NJ,187134,Public,Northeast,Suburb,0.4753,,1250,6850,16149,27578,10141,43.7,16.7,20.5
+William Paterson University of New Jersey,NJ,187444,Public,Northeast,Suburb,0.9239,21,1030,8710,12652,19654,10879,85.2,47.5,43.9
+Eastern New Mexico University-Main Campus,NM,187648,Public,West,Town,0.6045,19,984,3431,6013,11788,6774,66.2,33.2,45.6
+Institute of American Indian and Alaska Native Culture and Arts Development,NM,187745,Public,West,Rural,1,,,329,4960,4960,6168,100,39.3,38.1
+New Mexico Highlands University,NM,187897,Public,West,Town,,,,1858,5954,9288,6543,94.3,67.3,45.4
+New Mexico Institute of Mining and Technology,NM,187967,Public,West,Town,0.2168,26,1259,1358,7183,20991,8327,67.8,29.8,26.3
+University of New Mexico-Main Campus,NM,187985,Public,West,City,0.6704,22,1103,18912,7448,22038,8954,70.9,38,41
+New Mexico State University-Main Campus,NM,188030,Public,West,Suburb,0.6384,21,1043,11173,6461,21022,8503,75.3,41.4,43.6
+Western New Mexico University,NM,188304,Public,West,Town,,,,1762,6066,13539,6072,51.6,42.4,47.7
+CUNY Bernard M Baruch College,NY,190512,Public,Northeast,City,0.2925,,1270,14903,7062,14452,13272,43.2,44.6,51.1
+CUNY Brooklyn College,NY,190549,Public,Northeast,City,0.4043,,1130,13712,7040,14430,11407,41.6,50.5,47.6
+College of Staten Island CUNY,NY,190558,Public,Northeast,City,,,,12118,7090,14480,11028,35.5,45.8,46.7
+CUNY City College,NY,190567,Public,Northeast,City,0.4637,,1140,12480,6940,14330,12370,41.6,52.5,46
+CUNY Graduate School and University Center,NY,190576,Public,Northeast,City,,,,1854,,,14485,45.5,25,44
+CUNY Hunter College,NY,190594,Public,Northeast,City,0.4018,,1205,15820,6982,14372,11961,30.4,44.4,46.9
+CUNY John Jay College of Criminal Justice,NY,190600,Public,Northeast,City,0.3875,,1055,12426,7070,14460,11167,36,53,48.5
+CUNY Lehman College,NY,190637,Public,Northeast,City,0.35,,1035,10949,7010,14400,10714,38.2,52.8,51.9
+CUNY Queens College,NY,190664,Public,Northeast,City,0.4273,,1140,15762,7138,14528,11177,38.6,42.3,46.9
+CUNY York College,NY,190691,Public,Northeast,City,0.4447,,960,7058,6958,14348,10481,34.8,47.7,49.6
+SUNY College of Technology at Canton,NY,196015,Public,Northeast,Town,0.7859,20,986,3067,8130,12320,6082,57.9,56.4,37
+SUNY College of Agriculture and Technology at Cobleskill,NY,196033,Public,Northeast,Town,0.9427,20,975,2270,8139,17789,6369,57.8,51.6,32.9
+Farmingdale State College,NY,196042,Public,Northeast,Suburb,0.5903,21,1061,9005,8076,17726,8096,30.7,30.6,39.7
+SUNY at Albany,NY,196060,Public,Northeast,City,0.5401,24,1173,13320,9490,24370,9202,56.7,40.7,30.1
+Binghamton University,NY,196079,Public,Northeast,Suburb,0.4036,30,1365,13702,9523,24403,9258,70.7,27.8,24.8
+University at Buffalo,NY,196088,Public,Northeast,Suburb,0.5734,26,1197,20735,9828,27068,10140,63.8,31.3,28.1
+Stony Brook University,NY,196097,Public,Northeast,Suburb,0.4219,29,1322,17215,9257,26767,11275,60.7,32,36.1
+SUNY College of Environmental Science and Forestry,NY,196103,Public,Northeast,City,0.5215,26,1235,1790,8543,18193,8190,71.6,25.6,20.4
+SUNY Polytechnic Institute,NY,196112,Public,Northeast,Suburb,0.6247,24,1150,2052,7998,17648,9054,50.6,37.4,30.5
+SUNY College at Brockport,NY,196121,Public,Northeast,Town,0.5318,23,1099,7134,8154,17804,7285,56.8,41.3,31.5
+SUNY Buffalo State,NY,196130,Public,Northeast,City,0.5756,,975,8395,7976,17626,7580,45.7,53.8,34
+SUNY Cortland,NY,196149,Public,Northeast,Town,0.4793,24,1137,6333,8300,17950,6419,55.2,29.4,27.1
+SUNY at Fredonia,NY,196158,Public,Northeast,Town,0.6491,24,1103,4366,8286,17936,6922,56.9,38.8,22.8
+SUNY College at Geneseo,NY,196167,Public,Northeast,Town,0.7236,27,1229,5522,8408,18026,7297,70.7,25.2,18.6
+State University of New York at New Paltz,NY,196176,Public,Northeast,Suburb,0.443,26,1191,6616,7775,17625,6974,55.9,32.7,31.7
+SUNY Oneonta,NY,196185,Public,Northeast,Town,0.5952,23,1124,5923,8166,17816,6504,58.3,32.2,25.8
+SUNY College at Oswego,NY,196194,Public,Northeast,Town,0.5365,25,1162,7090,8191,17841,6669,64,42.2,27.8
+SUNY College at Potsdam,NY,196200,Public,Northeast,Town,0.666,,,3296,8221,17871,6294,71.9,50.1,34.1
+SUNY at Purchase College,NY,196219,Public,Northeast,Suburb,0.7401,23,1119,3968,8498,18148,7213,37.4,34.8,24.1
+SUNY College at Old Westbury,NY,196237,Public,Northeast,Suburb,0.7822,21,1028,4481,7883,17533,8355,43.2,48.8,39.4
+SUNY College at Plattsburgh,NY,196246,Public,Northeast,Town,0.529,23,1126,5272,8148,17798,6844,59.9,37.6,31.4
+SUNY Downstate Medical Center,NY,196255,Public,Northeast,City,,,,225,,,11788,83.6,21.3,37.9
+SUNY Empire State College,NY,196264,Public,Northeast,Suburb,,,,8622,7185,16835,6876,19.4,31.7,45.1
+SUNY Maritime College,NY,196291,Public,Northeast,City,0.695,24,1179,1633,8074,17724,7231,61.7,23.2,21.5
+Upstate Medical University,NY,196307,Public,Northeast,City,,,,246,,,8819,65.8,28.9,35
+United States Merchant Marine Academy,NY,197027,Public,Northeast,Suburb,0.2216,27,1269,954,1020,1020,10207,93.9,7.6,
+United States Military Academy,NY,197036,Public,Northeast,Town,0.0956,26,1262,4491,,,9494,100,,
+Appalachian State University,NC,197869,Public,Southeast,Town,0.7,25,1198,16888,7302,22109,8355,78.6,28.5,25
+East Carolina University,NC,198464,Public,Southeast,City,0.7902,22,1105,22598,7143,23420,8754,77,33.5,26.5
+Elizabeth City State University,NC,198507,Public,Southeast,Town,0.5981,18,936,1301,4986,18130,7744,100,70.7,37.5
+Fayetteville State University,NC,198543,Public,Southeast,City,0.6756,19,955,4817,5183,16791,8611,99.8,58.3,40.9
+North Carolina A & T State University,NC,199102,Public,Southeast,City,0.6223,20,1010,10011,6526,19416,8929,68.6,59.7,28.1
+University of North Carolina at Asheville,NC,199111,Public,Southeast,City,0.8039,25,1191,3496,7145,23868,8495,69.8,32.8,21.8
+University of North Carolina at Chapel Hill,NC,199120,Public,Southeast,City,0.244,31,1393,18658,9005,34588,12555,77.3,21.6,19.9
+University of North Carolina at Charlotte,NC,199139,Public,Southeast,City,0.6584,24,1187,23622,6832,20266,9615,71.2,37.3,28.4
+University of North Carolina at Greensboro,NC,199148,Public,Southeast,City,0.7804,23,1114,15988,7250,22409,8534,75.6,46.6,31.3
+North Carolina Central University,NC,199157,Public,Southeast,City,0.8281,19,967,5939,6399,19106,8178,67.9,64.2,32.9
+University of North Carolina School of the Arts,NC,199184,Public,Southeast,City,0.3264,25,1198,867,9338,25081,7541,76.1,29.4,
+North Carolina State University at Raleigh,NC,199193,Public,Southeast,City,0.5136,29,1331,22801,9058,27406,10808,87.9,20.7,19.3
+University of North Carolina Wilmington,NC,199218,Public,Southeast,City,0.6652,25,1225,14183,7000,21065,8518,71.1,26.9,25.9
+University of North Carolina at Pembroke,NC,199281,Public,Southeast,Town,0.8074,20,999,5308,6014,17605,7347,99.7,55.1,36.6
+Winston-Salem State University,NC,199999,Public,Southeast,City,0.6657,18,943,4570,5941,16188,8218,98.1,62.9,35.4
+Western Carolina University,NC,200004,Public,Southeast,Town,0.3884,22,1095,9234,6897,17290,7836,72.6,38.4,32.9
+Dickinson State University,ND,200059,Public,Midwest,Town,0.9897,21,1042,1153,6554,9226,6768,52.2,22.3,30.5
+Mayville State University,ND,200226,Public,Midwest,Rural,0.481,21,1045,825,6456,9084,5516,100,29.3,30.2
+Minot State University,ND,200253,Public,Midwest,Town,0.6897,22,1090,2466,6810,6810,7219,52.3,20.1,34.7
+University of North Dakota,ND,200280,Public,Midwest,City,0.8348,24,1165,10351,8447,20047,8396,92.8,18.1,19.1
+North Dakota State University-Main Campus,ND,200332,Public,Midwest,City,0.9159,24,1166,11687,8666,20692,9012,96.6,19.8,17.3
+Valley City State University,ND,200572,Public,Midwest,Town,0.763,21,1045,1010,7406,16579,6002,61.1,22.2,26.2
+University of Akron Main Campus,OH,200800,Public,Midwest,City,0.9255,23,1125,15047,10270,18801,9571,53.2,33.3,36.4
+Bowling Green State University-Main Campus,OH,201441,Public,Midwest,Town,0.732,22,1088,13790,11057,18593,8821,69.9,27.9,30.3
+Central State University,OH,201690,Public,Midwest,Rural,0.4801,17,868,1772,6246,8096,6550,100,77.5,40
+University of Cincinnati-Main Campus,OH,201885,Public,Midwest,City,0.7649,26,1230,25523,11000,27334,9708,56.8,21.6,31
+Cleveland State University,OH,202134,Public,Midwest,City,0.9006,22,1104,11647,9778,13829,9389,48.9,39.4,38.4
+Kent State University at Kent,OH,203517,Public,Midwest,Suburb,0.8751,23,1142,22403,10012,18544,8972,55.8,30.2,35.9
+Miami University-Hamilton,OH,204006,Public,Midwest,Suburb,,,,2545,5173,15228,6980,98.9,37.2,22.9
+Miami University-Middletown,OH,204015,Public,Midwest,Suburb,,,,1519,5173,15228,7274,98.6,29.2,22.9
+Miami University-Oxford,OH,204024,Public,Midwest,Town,0.682,29,1332,16816,14958,34211,9395,99.9,11,22.9
+Ohio State University-Main Campus,OH,204796,Public,Midwest,City,0.4806,29,1359,44853,10592,29696,12153,65.2,19.9,26.2
+Ohio University-Main Campus,OH,204857,Public,Midwest,Town,0.7393,24,1183,22936,11896,21360,8978,73.3,26.6,33.9
+Shawnee State University,OH,205443,Public,Midwest,Town,0.6891,21,1068,3099,7439,13247,7208,39.7,46.9,43.3
+University of Toledo,OH,206084,Public,Midwest,City,0.9435,23,1142,15109,9547,18885,8707,70.8,29.7,33.4
+Wright State University-Main Campus,OH,206604,Public,Midwest,Suburb,0.9677,22,1107,11251,8730,17098,9173,99.4,33.9,35.1
+Wright State University-Lake Campus,OH,206613,Public,Midwest,Rural,0.9946,21,1041,828,5842,14210,9598,100,25.5,35.1
+Youngstown State University,OH,206695,Public,Midwest,City,0.6363,22,1104,10039,8451,8811,8027,99.5,41.2,38.4
+Cameron University,OK,206914,Public,West,City,,,,3793,6180,15510,6146,60.4,44.9,47
+University of Central Oklahoma,OK,206941,Public,West,Suburb,0.7552,22,1085,14267,7100,17447,6744,100,33.8,37.2
+East Central University,OK,207041,Public,West,Town,0.4802,21,1045,2860,6600,15720,5569,100,42.1,46.4
+Langston University,OK,207209,Public,West,Rural,,,,2012,5936,13286,5648,79.4,67.2,36.4
+Northeastern State University,OK,207263,Public,West,Town,0.9569,22,1083,6401,6327,14022,6826,69.6,46,41.8
+Northwestern Oklahoma State University,OK,207306,Public,West,Town,0.8304,20,1025,1735,7066,14183,6209,100,35.1,43.1
+University of Oklahoma-Health Sciences Center,OK,207342,Public,West,City,,,,786,,,7960,68.8,0,28.4
+Oklahoma Panhandle State University,OK,207351,Public,West,Rural,,,,1020,6196,6196,4425,69.5,45.8,41.2
+Oklahoma State University-Main Campus,OK,207388,Public,West,Town,0.7428,25,1206,20743,8738,23776,8930,87.2,27.8,28.6
+University of Oklahoma-Norman Campus,OK,207500,Public,West,Suburb,0.74,26,1254,21536,11538,26919,9475,83.9,21.7,28.4
+Rogers State University,OK,207661,Public,West,Town,,,,3216,6870,15210,5257,45.7,42.9,42.6
+University of Science and Arts of Oklahoma,OK,207722,Public,West,Town,0.5214,22,1063,852,7200,17550,5544,57.3,42.7,43.2
+Southeastern Oklahoma State University,OK,207847,Public,West,Town,0.724,21,1045,2937,6750,15390,6841,100,41.1,44.5
+Southwestern Oklahoma State University,OK,207865,Public,West,Town,0.9197,21,1065,4358,7005,13905,6853,100,34.3,40.6
+Eastern Oregon University,OR,208646,Public,West,Town,0.9773,21,1043,2526,8362,19682,7036,64.2,45.3,46.5
+Oregon Health & Science University,OR,209490,Public,West,City,,,,776,,,10553,62.6,33.6,31.6
+Oregon Institute of Technology,OR,209506,Public,West,Town,0.6142,24,1141,3543,9982,28367,7460,89.3,25.1,39.5
+Oregon State University,OR,209542,Public,West,City,0.7884,25,1197,24921,10797,29457,9735,76.7,26.4,31.4
+University of Oregon,OR,209551,Public,West,City,0.8281,25,1193,19163,11931,34611,9889,80.1,24.6,28.4
+Portland State University,OR,209807,Public,West,City,0.9244,22,1105,18585,8783,26130,9173,57,38.1,39.1
+Southern Oregon University,OR,210146,Public,West,Suburb,0.7848,23,1049,4399,9287,24630,7841,49.1,32,40.4
+Western Oregon University,OR,210429,Public,West,Town,0.8059,,,4747,9198,25653,6705,80,43.5,41.9
+Bloomsburg University of Pennsylvania,PA,211158,Public,Northeast,City,0.7325,22,1063,8276,10500,21980,9258,82.7,32.3,34
+California University of Pennsylvania,PA,211361,Public,Northeast,Suburb,0.961,20,1005,5435,10840,15326,10126,65.6,40.2,37.3
+Cheyney University of Pennsylvania,PA,211608,Public,Northeast,Suburb,,,,722,12104,18386,9930,64.6,73.8,44.7
+Clarion University of Pennsylvania,PA,211644,Public,Northeast,Town,0.9549,21,1024,4214,10890,15636,9626,70.4,38.8,38.3
+East Stroudsburg University of Pennsylvania,PA,212115,Public,Northeast,City,0.8356,23,1018,5972,10098,21778,9596,72.9,36.6,39.5
+Edinboro University of Pennsylvania,PA,212160,Public,Northeast,Town,0.9253,20,1029,4229,10282,14668,9685,77.8,44.1,33.6
+Indiana University of Pennsylvania-Main Campus,PA,213020,Public,Northeast,Town,0.9082,20,1016,9965,12119,17271,9704,77.2,36.7,32.3
+Kutztown University of Pennsylvania,PA,213349,Public,Northeast,Town,0.8314,21,1056,7443,9987,13975,9287,86.9,33.7,34.7
+Lincoln University,PA,213598,Public,Northeast,Suburb,0.7968,19,970,1994,11379,17151,8561,100,64.9,38.6
+Lock Haven University,PA,213613,Public,Northeast,Town,0.8904,19,1004,3425,10576,20056,10110,88.4,37.7,37.7
+Mansfield University of Pennsylvania,PA,213783,Public,Northeast,Town,0.8919,20,1035,1770,12316,22008,9743,48.2,43,39.8
+Millersville University of Pennsylvania,PA,214041,Public,Northeast,Suburb,0.7949,,1065,6613,11858,21560,10033,62.9,29.7,34.7
+Pennsylvania State University-Penn State Erie-Behrend College,PA,214591,Public,Northeast,Suburb,0.8891,25,1158,4283,15190,23692,8939,82.4,28.5,28.8
+Pennsylvania State University-Penn State New Kensington,PA,214625,Public,Northeast,Rural,0.7676,24,1086,573,13694,21328,8202,58,29.3,28.8
+Pennsylvania State University-Penn State Shenango,PA,214634,Public,Northeast,Suburb,0.7428,20,1029,345,13324,20810,6930,59.2,43.7,28.8
+Pennsylvania State University-Penn State Wilkes-Barre,PA,214643,Public,Northeast,Rural,0.8245,22,1078,404,13568,21202,7930,77.3,33.8,28.8
+Pennsylvania State University-Penn State Scranton,PA,214652,Public,Northeast,Suburb,0.7792,21,1037,1003,14460,22378,8148,59.8,47.5,28.8
+Pennsylvania State University-Penn State Lehigh Valley,PA,214670,Public,Northeast,Suburb,0.8534,24,1105,823,14460,22378,7251,53.8,36.4,28.8
+Pennsylvania State University-Penn State Altoona,PA,214689,Public,Northeast,City,0.9225,24,1099,3451,15190,23692,7742,68.9,29.8,28.8
+Pennsylvania State University-Penn State Beaver,PA,214698,Public,Northeast,Suburb,0.8131,24,1101,598,13694,21328,8251,54.4,34,28.8
+Pennsylvania State University-Penn State Berks,PA,214704,Public,Northeast,Suburb,0.857,24,1094,2635,15190,23692,8446,64,33.2,28.8
+Pennsylvania State University-Penn State Harrisburg,PA,214713,Public,Northeast,Suburb,0.8375,25,1154,4223,15190,23692,9541,62.2,29.3,28.8
+Pennsylvania State University-Penn State Brandywine,PA,214731,Public,Northeast,Suburb,0.8703,23,1083,1366,14460,22378,8501,51.2,36.5,28.8
+Pennsylvania State University-Penn State Fayette- Eberly,PA,214759,Public,Northeast,Suburb,0.8214,19,1037,649,13632,21266,7639,60.3,43.4,28.8
+Pennsylvania State University-Penn State Hazleton,PA,214768,Public,Northeast,Suburb,0.9352,23,1040,699,14460,22378,8570,76.2,40.1,28.8
+Pennsylvania State University-Main Campus,PA,214777,Public,Northeast,City,0.5031,28,1269,40553,18436,33664,11211,75.1,14.8,28.8
+Pennsylvania State University-Penn State Greater Allegheny,PA,214786,Public,Northeast,Suburb,0.8187,21,1074,488,13694,21328,8133,56.9,46.4,28.8
+Pennsylvania State University-Penn State Abington,PA,214801,Public,Northeast,Suburb,0.8523,24,1097,3674,14516,22558,8109,50.3,39.2,28.8
+Pennsylvania State University-Penn State Schuylkill,PA,214810,Public,Northeast,Town,0.7555,21,1007,695,14398,22316,8303,59.7,45.6,28.8
+Pennsylvania State University-Penn State York,PA,214829,Public,Northeast,Suburb,0.825,25,1161,899,14460,22378,8477,57.3,27.6,28.8
+University of Pittsburgh-Bradford,PA,215266,Public,Northeast,Town,0.5436,22,1077,1296,13900,25144,7487,79.4,44.4,21
+University of Pittsburgh-Greensburg,PA,215275,Public,Northeast,Suburb,0.7327,22,1101,1521,13870,25114,7023,82.4,34.6,21
+University of Pittsburgh-Johnstown,PA,215284,Public,Northeast,Suburb,0.7598,23,1105,2776,13876,25120,7187,93.5,30.3,21
+University of Pittsburgh-Pittsburgh Campus,PA,215293,Public,Northeast,City,0.5971,30,1349,19134,19080,30642,10721,75.3,15.7,21
+Shippensburg University of Pennsylvania,PA,216010,Public,Northeast,Town,0.8355,20,1049,5464,12086,20186,10308,79.9,31.6,33.5
+Slippery Rock University of Pennsylvania,PA,216038,Public,Northeast,Town,0.7149,22,1081,7539,10205,14193,9562,83.5,31.3,29.5
+Temple University,PA,216339,Public,Northeast,City,0.5667,,,29037,16658,28418,10798,55.6,31.6,29.6
+West Chester University of Pennsylvania,PA,216764,Public,Northeast,Suburb,0.685,24,1131,14223,10111,21591,9490,72.2,25.3,28.1
+Rhode Island College,RI,217420,Public,Northeast,Suburb,0.7359,19,984,6900,8776,21289,8064,100,42.1,44.7
+University of Rhode Island,RI,217484,Public,Northeast,Suburb,0.7006,25,1152,14008,13792,30042,10450,67.2,23.3,26.3
+College of Charleston,SC,217819,Public,Southeast,City,0.8045,25,1176,9599,12422,30810,8594,62.4,23.4,20.1
+Citadel Military College of South Carolina,SC,217864,Public,Southeast,City,0.8107,23,1123,2814,12056,33819,8705,65.5,22.5,18.8
+Clemson University,SC,217882,Public,Southeast,Suburb,0.4718,29,1338,19172,15116,36058,10255,91.6,16.9,17.2
+Francis Marion University,SC,218061,Public,Southeast,Suburb,0.6005,20,1003,3079,10742,20918,7384,74.1,54.2,36.3
+Lander University,SC,218229,Public,Southeast,Town,0.4757,20,1022,2722,11700,21300,6115,61.1,45.4,31.7
+Medical University of South Carolina,SC,218335,Public,Southeast,City,,,,303,,,11180,83.6,21.2,18.8
+University of South Carolina-Aiken,SC,218645,Public,Southeast,Suburb,0.5294,21,1033,3029,10502,20702,6938,55.3,40.6,32.7
+University of South Carolina-Beaufort,SC,218654,Public,Southeast,Town,0.6445,20,1010,2011,10647,21423,7348,60.1,44.2,31
+University of South Carolina-Columbia,SC,218663,Public,Southeast,City,0.7231,28,1282,25550,11862,31962,10697,72.8,20.1,19.5
+Coastal Carolina University,SC,218724,Public,Southeast,City,0.6119,22,1089,9546,11200,25872,7781,100,35.8,26.6
+South Carolina State University,SC,218733,Public,Southeast,Town,0.7826,17,898,2489,10740,21120,7226,100,73.9,35.9
+University of South Carolina-Upstate,SC,218742,Public,Southeast,Suburb,0.5784,20,1010,5149,11520,22848,6837,52,44.7,35.1
+Winthrop University,SC,218964,Public,Southeast,City,0.7339,22,1101,4710,15220,29136,7663,59.6,40.8,28.2
+Black Hills State University,SD,219046,Public,Midwest,Town,0.8695,21,1065,2736,8602,11602,6840,60.5,28,28.4
+Dakota State University,SD,219082,Public,Midwest,Town,0.8436,23,1123,2024,9147,12077,7440,71.8,24.6,27.6
+Northern State University,SD,219259,Public,Midwest,Town,0.8783,22,1083,1488,8280,11210,6930,97.6,17.1,30.7
+South Dakota School of Mines and Technology,SD,219347,Public,Midwest,City,0.8339,27,1267,2295,10400,14580,9453,86,22.1,18.3
+South Dakota State University,SD,219356,Public,Midwest,Town,0.9137,23,1144,9704,8441,11689,8135,80.8,21,20.2
+University of South Dakota,SD,219471,Public,Midwest,Town,0.8691,23,1125,6171,8772,12019,7763,71.8,23.2,24.3
+Austin Peay State University,TN,219602,Public,Southeast,City,0.9013,22,1085,9090,7913,23153,7664,100,51.2,39.5
+East Tennessee State University,TN,220075,Public,Southeast,City,0.8547,23,1122,10881,8679,26463,7201,61.6,40.8,37.7
+University of Memphis,TN,220862,Public,Southeast,City,0.8482,22,1106,15901,9317,21029,8795,66.2,45.5,36.8
+Middle Tennessee State University,TN,220978,Public,Southeast,City,0.5935,23,1124,18600,8612,26348,7349,76.8,40.2,36.4
+The University of Tennessee-Chattanooga,TN,221740,Public,Southeast,City,0.8279,24,1164,10097,8664,24782,8217,67.1,32.7,29.3
+The University of Tennessee-Knoxville,TN,221759,Public,Southeast,City,0.7697,27,1280,22151,12970,31390,10893,87.5,27.1,24.5
+The University of Tennessee-Martin,TN,221768,Public,Southeast,Town,0.6151,23,1125,5522,9236,14996,7141,67.9,42.2,39.1
+Tennessee State University,TN,221838,Public,Southeast,City,,,,6380,7776,21132,7310,97.1,56.4,37.4
+Tennessee Technological University,TN,221847,Public,Southeast,Town,0.644,25,1192,9084,8513,24377,8012,100,34.6,37.6
+Angelo State University,TX,222831,Public,West,City,0.7359,20,1003,5726,7201,17161,7169,72.5,30.8,40.4
+Texas A & M University-Corpus Christi,TX,224147,Public,West,City,0.6046,20,983,10170,8750,18925,8062,65.4,39.9,39
+Texas A&M University-Texarkana,TX,224545,Public,West,Rural,0.5385,21,1071,1593,6963,18375,8272,59.3,49.8,47.5
+Texas A & M University-Commerce,TX,224554,Public,West,Town,0.3454,21,1050,8473,8434,20884,8749,100,46.7,42
+University of Houston-Clear Lake,TX,225414,Public,West,Suburb,0.7225,22,1119,5781,6718,19270,8909,62.4,40.6,48.2
+University of Houston-Downtown,TX,225432,Public,West,City,0.8408,19,997,12310,6470,16430,8105,51.9,46,52.7
+University of Houston-Victoria,TX,225502,Public,West,City,0.4881,,,3261,6805,17750,8240,62.3,44.8,45.7
+University of Houston,TX,225511,Public,West,City,0.6111,25,1202,35985,9706,22066,11419,85.2,37.4,40.5
+Lamar University,TX,226091,Public,West,City,0.8165,21,1045,8928,8314,18274,8283,77.1,40.3,43.3
+Texas A & M International University,TX,226152,Public,West,City,0.4959,19,996,6780,7143,17411,8409,63.6,60,49.2
+Midwestern State University,TX,226833,Public,West,City,0.814,21,1034,5329,8694,10644,7698,75.6,38.8,38.2
+University of North Texas,TX,227216,Public,West,City,0.7241,24,1167,31448,10544,20504,10813,100,35.7,34.8
+The University of Texas Rio Grande Valley,TX,227368,Public,West,City,0.8048,20,1020,24142,7587,17547,7573,87.2,61.6,52.6
+Prairie View A & M University,TX,227526,Public,West,Town,0.7893,18,956,7975,9959,23488,7653,81.5,64.7,33.5
+Sam Houston State University,TX,227881,Public,West,Town,0.7439,21,1068,18416,8062,18022,7577,79,35.4,41.4
+Stephen F Austin State University,TX,228431,Public,West,Town,0.6543,21,1077,10655,7716,17676,7475,73.8,39.9,35.4
+Texas State University,TX,228459,Public,West,Suburb,0.7298,23,1121,34180,9985,21605,7960,74.7,35.2,35.8
+Sul Ross State University,TX,228501,Public,West,Town,0.9963,18,946,2208,8072,20522,6168,64.5,54.8,46.3
+Tarleton State University,TX,228529,Public,West,Town,0.5038,21,1042,11283,7367,17111,7699,56.3,39.6,42.1
+The University of Texas Health Science Center at San Antonio,TX,228644,Public,West,City,,,,807,,,9182,64.7,27.7,37.1
+The University of Texas Medical Branch,TX,228653,Public,West,Town,,,,733,,,8552,96.2,21.2,37.7
+Texas A & M University-Kingsville,TX,228705,Public,West,Town,0.8413,20,1021,5694,8462,22102,7668,78.9,44.7,45.9
+Texas A & M University-College Station,TX,228723,Public,West,City,0.7054,28,1277,52568,11234,36606,11165,85.2,20.7,30
+The University of Texas at Arlington,TX,228769,Public,West,City,0.7122,24,1163,32955,9952,25152,9371,100,34.2,43.8
+The University of Texas at Austin,TX,228778,Public,West,City,0.3649,30,1359,39965,10398,36744,12476,84.1,23.6,27.5
+The University of Texas at Dallas,TX,228787,Public,West,City,0.7603,29,1340,18375,11528,29656,12831,73,33.5,31.4
+The University of Texas at El Paso,TX,228796,Public,West,City,1,19,1011,21216,7851,21596,8902,69.8,56,40.6
+The University of Texas at Tyler,TX,228802,Public,West,City,0.6499,24,1160,6699,7822,20872,8186,72.3,34,39.1
+The University of Texas of the Permian Basin,TX,229018,Public,West,City,0.8946,20,1025,3730,5782,6622,7648,52.4,28.4,46.2
+The University of Texas at San Antonio,TX,229027,Public,West,City,0.7946,23,1122,25709,7969,19168,9261,71.8,43.2,38.9
+Texas Southern University,TX,229063,Public,West,City,0.6666,17,846,7967,9173,21623,7650,67.8,62.7,38.8
+Texas Tech University,TX,229115,Public,West,City,0.6918,25,1176,30330,8860,18652,8928,88.2,27.4,32.4
+Texas Woman's University,TX,229179,Public,West,City,0.8571,20,1002,9417,7486,17446,8332,97.6,41.4,41.6
+The University of Texas Health Science Center at Houston,TX,229300,Public,West,City,,,,709,,,10242,70.7,37.2,40.7
+Texas Tech University Health Sciences Center,TX,229337,Public,West,City,,,,1597,,,8616,95.6,24.2,43.2
+West Texas A & M University,TX,229814,Public,West,Town,0.6136,21,1069,7383,7846,9117,7663,77.5,35.3,39.4
+Southern Utah University,UT,230603,Public,West,Town,0.758,24,1156,6849,6676,20288,6543,68.7,32.9,32.1
+Utah State University,UT,230728,Public,West,City,0.8908,24,1177,21473,7870,21520,9058,95.8,34.3,28.4
+Utah Valley University,UT,230737,Public,West,City,,,,27428,5652,16066,7897,37.5,31.6,27.2
+University of Utah,UT,230764,Public,West,City,0.6615,26,1234,23402,8884,28127,9781,90.6,27.3,29.4
+Weber State University,UT,230782,Public,West,City,,,,16947,5712,15260,7802,93.9,23.4,37.4
+Castleton University,VT,230834,Public,Northeast,Town,0.8154,20,1025,1757,11970,27522,6713,100,32.8,34.5
+Northern Vermont University,VT,230913,Public,Northeast,Rural,0.8695,23,1022,1317,11730,24690,7115,100,47.9,42.2
+Lyndon State College,VT,230931,Public,Northeast,Town,0.9727,19,1034,1011,11730,23898,6424,100,39.2,35
+University of Vermont,VT,231174,Public,Northeast,City,0.672,28,1280,10513,17740,41356,9791,79.6,15.1,11.5
+College of William and Mary,VA,231624,Public,Southeast,Suburb,0.3592,31,1406,6243,22044,43670,11189,79.9,11.1,13.2
+Christopher Newport University,VA,231712,Public,Southeast,City,0.7239,,,4950,13654,25850,8526,62.3,14.7,18.1
+George Mason University,VA,232186,Public,Southeast,Suburb,0.8132,27,1210,24395,11924,34370,11045,51.7,28.4,30
+James Madison University,VA,232423,Public,Southeast,City,0.752,26,1194,19666,10830,27230,8772,77.8,14.6,20.8
+Longwood University,VA,232566,Public,Southeast,Town,0.9183,21,1049,4230,12720,27660,7604,100,22.5,27.9
+University of Mary Washington,VA,232681,Public,Southeast,Suburb,0.735,25,1178,4366,12128,27374,8146,62.6,18.7,24.8
+Norfolk State University,VA,232937,Public,Southeast,City,0.9013,19,946,4641,9036,20478,8260,100,64.2,37.4
+Old Dominion University,VA,232982,Public,Southeast,City,0.8572,22,1089,19364,10050,27900,8400,94.5,37.4,33.2
+Radford University,VA,233277,Public,Southeast,City,0.7432,,,8376,10627,22709,8289,67.9,32.7,31.4
+The University of Virginia's College at Wise,VA,233897,Public,Southeast,Town,0.7751,20,1028,1249,9825,27055,7500,100,35.1,36.8
+Virginia Polytechnic Institute and State University,VA,233921,Public,Southeast,City,0.7006,28,1284,27120,13230,31014,11374,98.4,16.2,17.8
+Virginia Commonwealth University,VA,234030,Public,Southeast,City,0.839,24,1168,22393,13624,33656,9138,69.1,28.1,27.6
+University of Virginia-Main Campus,VA,234076,Public,Southeast,Suburb,0.2735,31,1415,16207,16853,47273,13819,94.2,12.5,15.8
+Virginia Military Institute,VA,234085,Public,Southeast,Town,0.5314,26,1204,1722,18214,43902,7796,100,12.8,15.2
+Virginia State University,VA,234155,Public,Southeast,Suburb,0.9111,17,914,4265,8726,19572,7470,77.9,70.7,34.2
+Central Washington University,WA,234827,Public,West,Town,0.8634,21,1012,11468,7903,22010,8149,73.5,36,40
+Eastern Washington University,WA,235097,Public,West,Town,0.962,21,995,10500,7109,23862,8422,62.6,37.7,36.2
+The Evergreen State College,WA,235167,Public,West,Suburb,0.9628,23,1095,3560,7591,25051,8302,72.5,44.3,30.1
+Washington State University,WA,236939,Public,West,Town,0.7306,23,1127,24797,11391,25817,9792,78.7,30.8,34.1
+University of Washington-Seattle Campus,WA,236948,Public,West,City,0.4642,30,1331,30295,10974,35538,12625,77.5,21.3,32.7
+Western Washington University,WA,237011,Public,West,City,0.8479,25,1190,14876,8183,22695,9726,68.3,25.2,26.7
+Bluefield State College,WV,237215,Public,Southeast,Town,0.8146,19,994,1363,6728,13032,6645,100,57,49.2
+Concord University,WV,237330,Public,Southeast,Town,0.9019,21,1038,1830,7732,16812,4055,69.5,48.7,47.7
+Fairmont State University,WV,237367,Public,Southeast,Town,0.7061,21,1044,3488,6950,14666,6312,93.3,41.9,41.4
+Glenville State College,WV,237385,Public,Southeast,Town,,,,1326,7342,16560,5823,68.2,48.5,48.5
+Marshall University,WV,237525,Public,Southeast,City,0.9019,22,1099,8554,7798,17856,7181,78.3,40.4,37.4
+Shepherd University,WV,237792,Public,Southeast,Town,0.8913,22,1074,2956,7328,17869,7113,54.4,32.4,40.9
+West Virginia State University,WV,237899,Public,Southeast,Suburb,0.9758,20,1007,1905,7546,16550,6020,56.6,30.3,43.4
+West Liberty University,WV,237932,Public,Southeast,Rural,0.7176,20,1024,1994,7380,15020,6321,64.3,38.5,35.6
+West Virginia University,WV,238032,Public,Southeast,City,0.719,24,1159,21703,8376,23616,9761,76.7,25.3,30.4
+University of Wisconsin-Whitewater,WI,240189,Public,Midwest,Town,0.7035,22,1105,10543,7662,16235,7469,79.4,26.3,30
+University of Wisconsin-Eau Claire,WI,240268,Public,Midwest,City,0.7567,24,1165,10070,8816,16736,7596,78.3,22.9,22
+University of Wisconsin-Green Bay,WI,240277,Public,Midwest,City,0.7553,23,1125,5503,7878,15728,6732,70.2,27.1,36.3
+University of Wisconsin-La Crosse,WI,240329,Public,Midwest,City,0.7337,24,1185,9436,9096,17765,7085,84.7,20.2,21.4
+University of Wisconsin-Oshkosh,WI,240365,Public,Midwest,City,0.6309,22,1105,9162,7587,15160,7390,68,22.1,31
+University of Wisconsin-Parkside,WI,240374,Public,Midwest,Suburb,0.6077,21,1045,4056,7389,15378,6442,67.9,39.6,40.9
+University of Wisconsin-Stout,WI,240417,Public,Midwest,Town,0.8718,22,1105,7955,9456,17423,6841,70.7,26.2,27.8
+University of Wisconsin-Superior,WI,240426,Public,Midwest,Suburb,0.7618,21,1045,2241,8109,15682,6352,74.2,35.7,29.6
+University of Wisconsin-Madison,WI,240444,Public,Midwest,City,0.5381,29,1361,29930,10533,34783,11908,82,12.6,16.8
+University of Wisconsin-Milwaukee,WI,240453,Public,Midwest,City,0.7248,23,1125,19436,9565,20844,8426,65.5,34.3,33
+University of Wisconsin-Platteville,WI,240462,Public,Midwest,Town,0.7971,24,1165,7496,7536,15386,6627,83.5,24.3,28.7
+University of Wisconsin-River Falls,WI,240471,Public,Midwest,Town,0.7452,23,1125,5515,8013,15586,7481,59.4,28.3,26.5
+University of Wisconsin-Stevens Point,WI,240480,Public,Midwest,Town,0.8356,23,1125,7768,8209,16476,6742,80.4,32.3,30.6
+University of Wyoming,WY,240727,Public,West,Town,0.9682,25,1195,9623,5217,16827,9440,97.5,21.3,27.7
+University of Guam,GU,240754,Public,Territory,Town,,,,3533,5578,12634,7936,52.8,47.1,46
+Colegio Universitario de San Juan,PR,241720,Public,Territory,City,0.8824,,,1480,2370,2370,3475,100,82.1,45.2
+Conservatory of Music of Puerto Rico,PR,241766,Public,Territory,City,0.6569,,,416,3370,3370,3178,61.2,63.1,9.5
+Escuela de Artes Plasticas y Diseno de Puerto Rico,PR,241951,Public,Territory,City,0.8519,,,497,3462,5622,3094,28.8,75.5,17.3
+University of Puerto Rico-Aguadilla,PR,243106,Public,Territory,Suburb,0.7098,,1049,3385,2082,4070,7090,73.1,82,28.2
+University of Puerto Rico-Arecibo,PR,243115,Public,Territory,City,0.3745,,,3748,2117,4139,6809,70.8,81.4,22.4
+University of Puerto Rico-Bayamon,PR,243133,Public,Territory,Suburb,0.6075,,,4531,2083,4105,5821,81.6,71.8,18.2
+University of Puerto Rico-Carolina,PR,243142,Public,Territory,City,0.3168,,1021,3532,3158,6190,6256,50.2,72.2,18.4
+University of Puerto Rico-Cayey,PR,243151,Public,Territory,Suburb,0.7649,,1124,3469,2083,4138,6527,85.6,71.7,19.1
+University of Puerto Rico-Humacao,PR,243179,Public,Territory,Suburb,0.376,,,3626,2117,4138,5895,66,77.7,22.3
+University of Puerto Rico-Mayaguez,PR,243197,Public,Territory,City,0.7354,,,12208,2083,4105,8409,96.7,63.5,17
+University of Puerto Rico-Medical Sciences,PR,243203,Public,Territory,City,,,,341,,,7110,75.6,75.5,16.9
+University of Puerto Rico-Ponce,PR,243212,Public,Territory,City,0.3336,,,3150,2117,4138,5560,56,80.8,21.4
+University of Puerto Rico-Rio Piedras,PR,243221,Public,Territory,City,0.3988,,,11763,2046,4652,5911,79.8,60.9,15.6
+University of the Virgin Islands,VI,243665,Public,Territory,Town,0.9844,17,913,1763,5235,14496,6746,98.2,53.3,46.6
+Purdue University-Main Campus,IN,243780,Public,Midwest,City,0.5747,28,1293,31887,9992,28794,12150,94.7,16.7,18.5
+New College of Florida,FL,262129,Public,Southeast,City,0.6896,28,1296,835,6916,29944,8203,82.1,28.6,20.9
+California State University-San Marcos,CA,366711,Public,West,Suburb,0.5676,21,1041,14516,7653,19533,9419,49.3,48.5,48.3
+University of Washington-Bothell Campus,WA,377555,Public,West,Suburb,0.8011,23,1129,5329,10911,35475,10695,66.3,31.8,32.7
+University of Washington-Tacoma Campus,WA,377564,Public,West,City,0.8385,21,1083,4412,11046,35610,9772,75.6,44.2,32.7
+Arizona State University-West,AZ,407009,Public,West,City,0.7965,23,1132,3563,10301,26038,8651,82,46.5,38.1
+California State University-Monterey Bay,CA,409698,Public,West,Suburb,0.532,21,1068,6557,7043,18923,9383,45.1,49.4,51.8
+The University of Texas MD Anderson Cancer Center,TX,416801,Public,West,City,,,,321,,,11167,100,32.2,45.6
+Arizona State University-Polytechnic,AZ,420574,Public,West,City,0.7628,25,1193,4224,10301,26038,8507,69,35.9,38.1
+Florida Gulf Coast University,FL,433660,Public,Southeast,Suburb,0.6426,23,1141,13636,6118,25162,8000,66.8,29.6,35.9
+Louisiana State University Health Sciences Center-Shreveport,LA,435000,Public,Southeast,City,,,,28,,,5931,84.8,25,
+University of Connecticut-Waterbury Campus,CT,436818,Public,Northeast,Suburb,0.9588,23,1086,851,12838,34906,13712,66.7,37.3,26.6
+University of Connecticut-Avery Point,CT,436827,Public,Northeast,Suburb,0.9416,21,1111,619,12838,34906,13712,66.7,26.3,26.6
+University of Connecticut-Stamford,CT,436836,Public,Northeast,City,0.8232,23,1085,1670,12848,34916,13712,66.7,35.4,26.6
+Oregon State University-Cascades Campus,OR,440828,Public,West,City,0.6753,24,1131,917,9774,28749,11163,76.2,51.3,31.4
+Nevada State College,NV,441900,Public,West,Rural,0.8422,,,3643,5131,16688,7456,100,40.3,48.8
+California State University-Channel Islands,CA,441937,Public,West,Suburb,0.7827,,,7047,6817,18697,9612,50,50.7,50.7
+University of California-Merced,CA,445188,Public,West,Rural,0.6979,24,1114,7375,13598,41612,10552,90.3,61.2,57.4
+Georgia Gwinnett College,GA,447689,Public,Southeast,Suburb,,,,11584,5634,16348,6888,69.8,53.1,35.6
+University of South Florida-St Petersburg,FL,448840,Public,Southeast,City,0.3993,24,1165,4162,5821,16735,9197,55.2,40.3,35.8
+Arizona State University-Downtown Phoenix,AZ,448886,Public,West,City,0.7721,24,1165,8898,10792,27372,8932,55.6,39.2,38.1
+University of South Florida-Sarasota-Manatee,FL,451671,Public,Southeast,Suburb,0.393,25,1177,1868,5587,16501,8509,62.2,38.8,35.8
+University of Minnesota-Rochester,MN,456959,Public,Midwest,City,0.513,24,1186,459,13352,13352,6620,100,33.1,18.7
+Texas A&M University-San Antonio,TX,459949,Public,West,Rural,0.3464,19,981,5376,8216,20404,7479,100,49.3,53.5
+University of Connecticut-Hartford Campus,CT,463056,Public,Northeast,City,0.9597,22,1101,1244,12828,34896,13103,67.4,40.9,
+Colorado State University-Global Campus,CO,476975,Public,West,Suburb,,,,8035,,,5867,6,30.8,44.8
+Pennsylvania State University-World Campus,PA,479956,Public,Northeast,Rural,0.6679,24,1106,8108,13988,13988,,100,33,28.8
+Augusta University,GA,482149,Public,Southeast,City,0.7459,23,1006,4978,8604,23606,8271,68.2,40.9,28.3
+Middle Georgia State University,GA,482158,Public,Southeast,City,0.9397,19,954,6609,3924,11092,5818,74.7,47,35.6
+University of North Georgia,GA,482680,Public,Southeast,Town,0.7807,23,1058,17067,4421,12834,5922,70.8,33.1,34
+Florida Polytechnic University,FL,482936,Public,Southeast,Rural,0.5531,27,1272,1438,4940,4940,8894,69.6,14.6,
+Texas A & M University-Central Texas,TX,483036,Public,West,Rural,,,,1940,,,7597,45.5,52,43.1
+Arizona State University-Skysong,AZ,483124,Public,West,City,0.6342,,,24244,9222,15691,8577,68.1,39.6,38.1
+University of Florida-Online,FL,484473,Public,Southeast,City,0.6802,26,1235,2735,3876,16580,4721,9.9,31.8,30.8
+University of North Texas at Dallas,TX,484905,Public,West,City,0.7397,18,978,2663,7848,20088,9172,100,51.5,57.8
+Kennesaw State University,GA,486840,Public,Southeast,Suburb,0.6063,24,1163,32309,6347,17329,7099,60.4,36.8,26.9
+The University of Tennessee Health Science Center,TN,487010,Public,Southeast,City,,,,339,,,10673,56.5,25.4,29.2
+University of Arizona-South,AZ,487296,Public,West,City,,,,415,,,7506,96.4,56.4,31.4
+Purdue University Northwest,IN,490805,Public,Midwest,Suburb,0.3467,22,1082,8665,7582,17129,8434,98,24.5,
+University of Wisconsin-Milwaukee Flex,WI,491288,Public,Midwest,City,0,,,501,6750,6750,9482,66.7,3.3,
